@@ -1,17 +1,24 @@
 """
 IPL Head-to-Head Template Generator — Streamlit Web App
-Deploy on Streamlit Cloud or run locally: streamlit run streamlit_app.py
+Adds matches directly to GitHub so all teammates see updates instantly.
 """
 import streamlit as st
 import csv
+import io
+import base64
+import requests
 from pathlib import Path
 from datetime import date
 
-# Must be first Streamlit command
 st.set_page_config(page_title="IPL Template Generator", page_icon="🏏", layout="centered")
 
 BASE = Path(__file__).resolve().parent
 MATCHES_CSV = BASE / "data" / "matches.csv"
+
+# GitHub config — reads from Streamlit secrets
+GITHUB_REPO = "inkspilledmedia/ipl-system"
+GITHUB_FILE = "data/matches.csv"
+GITHUB_BRANCH = "main"
 
 TEAMS = ["CSK", "MI", "RCB", "KKR", "SRH", "DC", "LSG", "RR", "GT", "PBKS"]
 TEAM_FULL = {
@@ -41,6 +48,56 @@ st.markdown("""
 
 st.title("🏏 IPL HEAD TO HEAD")
 st.caption("Template Generator")
+
+
+def _get_github_token():
+    """Get GitHub token from Streamlit secrets."""
+    try:
+        return st.secrets["GITHUB_TOKEN"]
+    except Exception:
+        return None
+
+
+def _github_get_file():
+    """Fetch current matches.csv content + SHA from GitHub."""
+    token = _get_github_token()
+    if not token:
+        return None, None
+    headers = {
+        "Authorization": f"token {token}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}?ref={GITHUB_BRANCH}"
+    r = requests.get(url, headers=headers)
+    if r.status_code == 200:
+        data = r.json()
+        content = base64.b64decode(data["content"]).decode("utf-8")
+        sha = data["sha"]
+        return content, sha
+    return None, None
+
+
+def _github_update_file(new_content, sha, message):
+    """Push updated matches.csv to GitHub."""
+    token = _get_github_token()
+    if not token:
+        return False, "GitHub token not configured"
+    headers = {
+        "Authorization": f"token {token}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}"
+    payload = {
+        "message": message,
+        "content": base64.b64encode(new_content.encode("utf-8")).decode("utf-8"),
+        "sha": sha,
+        "branch": GITHUB_BRANCH,
+    }
+    r = requests.put(url, headers=headers, json=payload)
+    if r.status_code == 200:
+        return True, "Success"
+    return False, r.json().get("message", "Unknown error")
+
 
 # ---- Tabs ----
 tab1, tab2 = st.tabs(["⚡ Generate Template", "➕ Add Match Result"])
@@ -86,36 +143,52 @@ with tab1:
 with tab2:
     st.subheader("Add Match Result")
 
-    col1, col2 = st.columns(2)
-    with col1:
-        m_team1 = st.selectbox("Team 1", TEAMS, index=0, key="m_t1",
-                                format_func=lambda x: f"{x} — {TEAM_FULL[x]}")
-    with col2:
-        m_team2 = st.selectbox("Team 2", TEAMS, index=3, key="m_t2",
-                                format_func=lambda x: f"{x} — {TEAM_FULL[x]}")
+    # Check if GitHub is configured
+    token = _get_github_token()
+    if not token:
+        st.error("⚠️ GitHub token not configured. Ask admin to add GITHUB_TOKEN in Streamlit secrets.")
+    else:
+        col1, col2 = st.columns(2)
+        with col1:
+            m_team1 = st.selectbox("Team 1", TEAMS, index=0, key="m_t1",
+                                    format_func=lambda x: f"{x} — {TEAM_FULL[x]}")
+        with col2:
+            m_team2 = st.selectbox("Team 2", TEAMS, index=3, key="m_t2",
+                                    format_func=lambda x: f"{x} — {TEAM_FULL[x]}")
 
-    winner = st.selectbox("Winner", [m_team1, m_team2], key="m_winner")
-    venue = st.text_input("Venue", value=VENUES.get(m_team1, ""), key="m_venue")
-    match_date = st.date_input("Match Date", value=date.today(), key="m_date")
+        winner = st.selectbox("Winner", [m_team1, m_team2], key="m_winner")
+        venue = st.text_input("Venue", value=VENUES.get(m_team1, ""), key="m_venue")
 
-    if m_team1 == m_team2:
-        st.warning("Please select two different teams.")
-    elif st.button("➕ Add Match", type="primary", use_container_width=True):
-        # Get next match_id
-        next_id = 1
-        if MATCHES_CSV.exists():
-            with open(MATCHES_CSV, "r", encoding="utf-8") as f:
-                lines = f.readlines()
-                next_id = len(lines)
+        if m_team1 == m_team2:
+            st.warning("Please select two different teams.")
+        elif st.button("➕ Add Match", type="primary", use_container_width=True):
+            with st.spinner("Saving to GitHub..."):
+                # Fetch current CSV from GitHub
+                content, sha = _github_get_file()
+                if content is None:
+                    st.error("❌ Could not fetch matches.csv from GitHub.")
+                else:
+                    # Count lines for next match_id
+                    lines = content.strip().split("\n")
+                    next_id = len(lines)  # header is line 0
 
-        with open(MATCHES_CSV, "a", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
-            writer.writerow([next_id, "2026", m_team1, m_team2, winner, venue])
+                    # Append new row
+                    new_row = f"\n{next_id},2026,{m_team1},{m_team2},{winner},{venue}"
+                    new_content = content.rstrip() + new_row + "\n"
 
-        st.success(f"✅ Added: {m_team1} vs {m_team2} → {winner} won at {venue}")
+                    # Push to GitHub
+                    success, msg = _github_update_file(
+                        new_content, sha,
+                        f"Added match: {m_team1} vs {m_team2} - {winner} won"
+                    )
+                    if success:
+                        st.success(f"✅ Added: {m_team1} vs {m_team2} → {winner} won at {venue}")
+                        st.info("📤 Pushed to GitHub — all teammates will see this update.")
+                    else:
+                        st.error(f"❌ GitHub push failed: {msg}")
 
-    # Show current match count
-    if MATCHES_CSV.exists():
-        with open(MATCHES_CSV, "r", encoding="utf-8") as f:
-            count = sum(1 for _ in f) - 1
-        st.info(f"📊 Currently {count} matches in database")
+        # Show current match count from GitHub
+        content, _ = _github_get_file()
+        if content:
+            count = len(content.strip().split("\n")) - 1
+            st.info(f"📊 Currently {count} matches in database (synced from GitHub)")
