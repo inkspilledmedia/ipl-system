@@ -1,1208 +1,1208 @@
-match_id,season,team1,team2,winner,venue
-1,2008,RR,RCB,RR,Sawai Mansingh Stadium
-2,2008,DCH,MI,MI,"Rajiv Gandhi International Stadium, Uppal"
-3,2008,KKR,CSK,CSK,Eden Gardens
-4,2008,RCB,DC,DC,M Chinnaswamy Stadium
-5,2008,KKR,RR,RR,Eden Gardens
-6,2008,MI,PBKS,PBKS,Wankhede Stadium
-7,2008,CSK,RCB,RCB,"MA Chidambaram Stadium, Chepauk"
-8,2008,DC,MI,DC,Feroz Shah Kotla
-9,2008,CSK,RR,RR,Dr DY Patil Sports Academy
-10,2008,CSK,RR,RR,"MA Chidambaram Stadium, Chepauk"
-11,2008,RCB,DCH,RCB,M Chinnaswamy Stadium
-12,2008,KKR,PBKS,KKR,Eden Gardens
-13,2008,RR,MI,RR,Sawai Mansingh Stadium
-14,2008,DCH,CSK,CSK,"Rajiv Gandhi International Stadium, Uppal"
-15,2008,DC,RR,RR,Wankhede Stadium
-16,2008,CSK,PBKS,CSK,Wankhede Stadium
-17,2008,PBKS,DCH,PBKS,"Punjab Cricket Association Stadium, Mohali"
-18,2008,MI,KKR,MI,Wankhede Stadium
-19,2008,DC,DCH,DC,Feroz Shah Kotla
-20,2008,PBKS,RR,PBKS,"Punjab Cricket Association Stadium, Mohali"
-21,2008,MI,CSK,MI,Wankhede Stadium
-22,2008,KKR,DC,KKR,Eden Gardens
-23,2008,PBKS,RCB,PBKS,"Punjab Cricket Association Stadium, Mohali"
-24,2008,DC,PBKS,PBKS,Feroz Shah Kotla
-25,2008,RR,DC,RR,Sawai Mansingh Stadium
-26,2008,RR,CSK,RR,Sawai Mansingh Stadium
-27,2008,MI,DC,MI,Dr DY Patil Sports Academy
-28,2008,PBKS,KKR,PBKS,"Punjab Cricket Association Stadium, Mohali"
-29,2008,DCH,RCB,RCB,"Rajiv Gandhi International Stadium, Uppal"
-30,2008,CSK,DC,DC,"MA Chidambaram Stadium, Chepauk"
-31,2008,RR,KKR,RR,Sawai Mansingh Stadium
-32,2008,RCB,KKR,KKR,M Chinnaswamy Stadium
-33,2008,DC,RCB,DC,Feroz Shah Kotla
-34,2008,KKR,MI,MI,Eden Gardens
-35,2008,RCB,CSK,CSK,M Chinnaswamy Stadium
-36,2008,PBKS,DC,PBKS,"Punjab Cricket Association Stadium, Mohali"
-37,2008,MI,DCH,DCH,Dr DY Patil Sports Academy
-38,2008,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk"
-39,2008,RCB,RR,RR,M Chinnaswamy Stadium
-40,2008,PBKS,MI,PBKS,"Punjab Cricket Association Stadium, Mohali"
-41,2008,DCH,RR,RR,"Rajiv Gandhi International Stadium, Uppal"
-42,2008,CSK,MI,CSK,"MA Chidambaram Stadium, Chepauk"
-43,2008,DCH,DC,DC,"Rajiv Gandhi International Stadium, Uppal"
-44,2008,RR,PBKS,RR,Sawai Mansingh Stadium
-45,2008,KKR,DCH,KKR,Eden Gardens
-46,2008,MI,RCB,RCB,Wankhede Stadium
-47,2008,DC,RR,DC,Feroz Shah Kotla
-48,2008,PBKS,CSK,CSK,"Punjab Cricket Association Stadium, Mohali"
-49,2008,DCH,KKR,KKR,"Rajiv Gandhi International Stadium, Uppal"
-50,2008,CSK,PBKS,CSK,"MA Chidambaram Stadium, Chepauk"
-51,2008,RCB,MI,MI,M Chinnaswamy Stadium
-52,2008,RR,DCH,RR,Sawai Mansingh Stadium
-53,2008,KKR,RCB,KKR,Eden Gardens
-54,2008,DC,CSK,CSK,Feroz Shah Kotla
-55,2008,MI,RR,MI,Dr DY Patil Sports Academy
-56,2008,CSK,DCH,DCH,"MA Chidambaram Stadium, Chepauk"
-57,2008,RCB,PBKS,PBKS,M Chinnaswamy Stadium
-58,2008,DCH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Uppal"
-59,2009,RR,RCB,RCB,Sawai Mansingh Stadium
-60,2009,MI,DC,MI,Brabourne Stadium
-61,2009,PBKS,DCH,DCH,Himachal Pradesh Cricket Association Stadium
-62,2009,DCH,RR,RR,"Vidarbha Cricket Association Stadium, Jamtha"
-63,2009,CSK,MI,CSK,"MA Chidambaram Stadium, Chepauk"
-64,2009,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk"
-65,2009,DC,DCH,DCH,SuperSport Park
-66,2009,RCB,DCH,RCB,SuperSport Park
-67,2009,DC,MI,DC,SuperSport Park
-68,2009,CSK,PBKS,CSK,Kingsmead
-69,2009,KKR,RR,KKR,Kingsmead
-70,2009,RCB,DC,RCB,New Wanderers Stadium
-71,2009,CSK,KKR,KKR,SuperSport Park
-72,2009,DC,RR,DC,OUTsurance Oval
-73,2009,DCH,PBKS,PBKS,New Wanderers Stadium
-74,2009,DCH,KKR,DCH,New Wanderers Stadium
-75,2009,CSK,MI,CSK,St George's Park
-76,2009,DC,PBKS,PBKS,OUTsurance Oval
-77,2009,MI,RR,RR,Kingsmead
-78,2009,RCB,CSK,RCB,Kingsmead
-79,2009,DCH,DC,DC,Kingsmead
-80,2009,PBKS,MI,MI,SuperSport Park
-81,2009,MI,RCB,RCB,Brabourne Stadium
-82,2009,RR,KKR,RR,"Sardar Patel Stadium, Motera"
-83,2009,DCH,PBKS,DCH,Barabati Stadium
-84,2009,DC,CSK,CSK,Feroz Shah Kotla
-85,2009,RCB,RR,RCB,M Chinnaswamy Stadium
-86,2009,DC,MI,MI,Feroz Shah Kotla
-87,2009,KKR,CSK,CSK,Eden Gardens
-88,2009,RCB,PBKS,RCB,M Chinnaswamy Stadium
-89,2009,RR,DC,DC,"Sardar Patel Stadium, Motera"
-90,2009,CSK,DC,CSK,New Wanderers Stadium
-91,2009,RCB,MI,RCB,New Wanderers Stadium
-92,2009,PBKS,KKR,PBKS,St George's Park
-93,2009,PBKS,RR,RR,Kingsmead
-94,2009,DC,KKR,DC,Kingsmead
-95,2009,DCH,MI,DCH,SuperSport Park
-96,2009,CSK,DC,DC,"MA Chidambaram Stadium, Chepauk"
-97,2009,RCB,CSK,RCB,New Wanderers Stadium
-98,2009,RCB,DCH,DCH,New Wanderers Stadium
-99,2009,DCH,KKR,KKR,Dr DY Patil Sports Academy
-100,2009,MI,RR,MI,Brabourne Stadium
-101,2009,PBKS,DC,DC,"Punjab Cricket Association Stadium, Mohali"
-102,2009,KKR,RCB,KKR,Eden Gardens
-103,2009,CSK,DCH,DCH,"MA Chidambaram Stadium, Chepauk"
-104,2009,RR,PBKS,RR,Sawai Mansingh Stadium
-105,2009,KKR,DC,KKR,Eden Gardens
-106,2009,RCB,DCH,DCH,M Chinnaswamy Stadium
-107,2009,PBKS,MI,PBKS,"Punjab Cricket Association Stadium, Mohali"
-108,2009,DCH,CSK,DCH,"Vidarbha Cricket Association Stadium, Jamtha"
-109,2009,RCB,KKR,RCB,M Chinnaswamy Stadium
-110,2009,DC,PBKS,PBKS,Feroz Shah Kotla
-111,2009,RR,MI,MI,Sawai Mansingh Stadium
-112,2009,DCH,RCB,DCH,"Vidarbha Cricket Association Stadium, Jamtha"
-113,2009,DCH,DC,DCH,Barabati Stadium
-114,2009,CSK,PBKS,No Result,"MA Chidambaram Stadium, Chepauk"
-115,2009,MI,KKR,MI,Brabourne Stadium
-116,2009,RCB,CSK,RCB,M Chinnaswamy Stadium
-117,2009,PBKS,RR,RR,"Punjab Cricket Association Stadium, Mohali"
-118,2009,CSK,MI,MI,"Brabourne Stadium, Mumbai"
-119,2009,RR,DCH,RR,"Sardar Patel Stadium, Motera"
-120,2009,PBKS,KKR,KKR,"Punjab Cricket Association Stadium, Mohali"
-121,2009,RCB,DC,DC,M Chinnaswamy Stadium
-122,2009,RR,CSK,RR,"Sardar Patel Stadium, Motera"
-123,2009,DCH,MI,MI,Dr DY Patil Sports Academy
-124,2009,DC,KKR,DC,Feroz Shah Kotla
-125,2009,MI,PBKS,MI,Brabourne Stadium
-126,2009,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk"
-127,2009,DC,RR,DC,Feroz Shah Kotla
-128,2009,KKR,DCH,KKR,Eden Gardens
-129,2009,DCH,KKR,DCH,Newlands
-130,2009,CSK,MI,MI,Newlands
-131,2009,RCB,RR,RCB,Newlands
-132,2009,DC,PBKS,DC,Newlands
-133,2009,PBKS,KKR,KKR,Kingsmead
-134,2009,RCB,CSK,CSK,St George's Park
-135,2009,RCB,DCH,DCH,Newlands
-136,2009,RCB,RR,RR,SuperSport Park
-137,2009,CSK,PBKS,CSK,SuperSport Park
-138,2009,DC,MI,DC,Buffalo Park
-139,2009,DCH,PBKS,PBKS,De Beers Diamond Oval
-140,2009,CSK,RR,CSK,De Beers Diamond Oval
-141,2009,RCB,MI,MI,St George's Park
-142,2009,DC,KKR,DC,New Wanderers Stadium
-143,2009,DCH,RR,DCH,De Beers Diamond Oval
-144,2009,RCB,KKR,RCB,SuperSport Park
-145,2009,CSK,DC,DC,Kingsmead
-146,2009,KKR,RR,No Result,Newlands
-147,2009,RCB,PBKS,PBKS,Kingsmead
-148,2009,DCH,MI,DCH,Kingsmead
-149,2009,RCB,DC,DC,St George's Park
-150,2009,PBKS,RR,PBKS,Newlands
-151,2009,CSK,DCH,DCH,Kingsmead
-152,2009,KKR,MI,MI,St George's Park
-153,2009,DC,RR,RR,SuperSport Park
-154,2009,RCB,KKR,RCB,Kingsmead
-155,2009,PBKS,MI,PBKS,Kingsmead
-156,2009,DCH,DC,DC,SuperSport Park
-157,2009,CSK,RR,CSK,SuperSport Park
-158,2009,KKR,MI,MI,Buffalo Park
-159,2009,RCB,PBKS,RCB,Kingsmead
-160,2009,DCH,RR,RR,St George's Park
-161,2009,CSK,DCH,CSK,Buffalo Park
-162,2009,KKR,PBKS,PBKS,Eden Gardens
-163,2009,RCB,MI,MI,M Chinnaswamy Stadium
-164,2009,RCB,DCH,RCB,Dr DY Patil Sports Academy
-165,2009,KKR,MI,KKR,Eden Gardens
-166,2009,DC,DCH,DCH,Feroz Shah Kotla
-167,2009,CSK,DCH,CSK,Dr DY Patil Sports Academy
-168,2009,RCB,MI,MI,Dr DY Patil Sports Academy
-169,2009,CSK,MI,CSK,Dr DY Patil Sports Academy
-170,2009,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk"
-171,2009,PBKS,RCB,RCB,"Punjab Cricket Association Stadium, Mohali"
-172,2009,DC,RCB,DC,Feroz Shah Kotla
-173,2009,MI,DCH,MI,Brabourne Stadium
-174,2009,KKR,RR,KKR,Eden Gardens
-175,2009,PBKS,CSK,CSK,Himachal Pradesh Cricket Association Stadium
-176,2011,Kochi Tuskers Kerala,RCB,RCB,Nehru Stadium
-177,2011,Kochi Tuskers Kerala,CSK,Kochi Tuskers Kerala,Nehru Stadium
-178,2011,MI,PWI,MI,Wankhede Stadium
-179,2011,PWI,PBKS,PWI,Dr DY Patil Sports Academy
-180,2011,DC,MI,MI,Feroz Shah Kotla
-181,2011,RR,DC,RR,Sawai Mansingh Stadium
-182,2011,RCB,MI,MI,M Chinnaswamy Stadium
-183,2011,PBKS,CSK,PBKS,"Punjab Cricket Association Stadium, Mohali"
-184,2011,KKR,DCH,KKR,Eden Gardens
-185,2011,DCH,RCB,DCH,"Rajiv Gandhi International Stadium, Uppal"
-186,2011,RR,KKR,KKR,Sawai Mansingh Stadium
-187,2011,MI,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Wankhede Stadium
-188,2011,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk"
-189,2011,DCH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Uppal"
-190,2011,PWI,DC,DC,Dr DY Patil Sports Academy
-191,2011,KKR,RR,KKR,Eden Gardens
-192,2011,PWI,Kochi Tuskers Kerala,PWI,Dr DY Patil Sports Academy
-193,2011,RCB,PWI,RCB,M Chinnaswamy Stadium
-194,2011,RR,MI,RR,Sawai Mansingh Stadium
-195,2011,DC,KKR,KKR,Feroz Shah Kotla
-196,2011,Kochi Tuskers Kerala,DCH,DCH,Nehru Stadium
-197,2011,DC,RCB,RCB,Feroz Shah Kotla
-198,2011,PWI,CSK,CSK,Dr DY Patil Sports Academy
-199,2011,CSK,PWI,CSK,"MA Chidambaram Stadium, Chepauk"
-200,2011,RR,Kochi Tuskers Kerala,RR,Sawai Mansingh Stadium
-201,2011,MI,CSK,MI,Wankhede Stadium
-202,2011,DCH,MI,MI,"Rajiv Gandhi International Stadium, Uppal"
-203,2011,DC,PBKS,DC,Feroz Shah Kotla
-204,2011,KKR,RCB,RCB,Eden Gardens
-205,2011,KKR,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Eden Gardens
-206,2011,PBKS,RR,PBKS,"Punjab Cricket Association Stadium, Mohali"
-207,2011,KKR,PBKS,KKR,Eden Gardens
-208,2011,RR,PWI,RR,Sawai Mansingh Stadium
-209,2011,DCH,PWI,PWI,"Rajiv Gandhi International Stadium, Uppal"
-210,2011,PBKS,MI,PBKS,"Punjab Cricket Association Stadium, Mohali"
-211,2011,CSK,DCH,CSK,"MA Chidambaram Stadium, Chepauk"
-212,2011,MI,PBKS,MI,Wankhede Stadium
-213,2011,DC,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Feroz Shah Kotla
-214,2011,DCH,KKR,KKR,"Rajiv Gandhi International Stadium, Uppal"
-215,2011,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk"
-216,2011,PWI,MI,MI,Dr DY Patil Sports Academy
-217,2011,Kochi Tuskers Kerala,KKR,Kochi Tuskers Kerala,Nehru Stadium
-218,2011,DCH,DC,DC,"Rajiv Gandhi International Stadium, Uppal"
-219,2011,RCB,PBKS,RCB,M Chinnaswamy Stadium
-220,2011,KKR,CSK,KKR,Eden Gardens
-221,2011,MI,DC,MI,Wankhede Stadium
-222,2011,RCB,Kochi Tuskers Kerala,RCB,M Chinnaswamy Stadium
-223,2011,PBKS,PWI,PWI,"Punjab Cricket Association Stadium, Mohali"
-224,2011,DC,DCH,DCH,Feroz Shah Kotla
-225,2011,Kochi Tuskers Kerala,RR,Kochi Tuskers Kerala,Holkar Cricket Stadium
-226,2011,PBKS,DC,PBKS,Himachal Pradesh Cricket Association Stadium
-227,2011,MI,DCH,DCH,Wankhede Stadium
-228,2011,RCB,KKR,RCB,M Chinnaswamy Stadium
-229,2011,Kochi Tuskers Kerala,PBKS,PBKS,Holkar Cricket Stadium
-230,2011,RR,CSK,CSK,Sawai Mansingh Stadium
-231,2011,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk"
-232,2011,RCB,MI,RCB,"MA Chidambaram Stadium, Chepauk"
-233,2011,MI,KKR,MI,Wankhede Stadium
-234,2011,RCB,CSK,CSK,Wankhede Stadium
-235,2011,KKR,MI,MI,Eden Gardens
-236,2011,RCB,CSK,RCB,M Chinnaswamy Stadium
-237,2011,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk"
-238,2011,RR,RCB,RCB,Sawai Mansingh Stadium
-239,2011,MI,RR,RR,Wankhede Stadium
-240,2011,Kochi Tuskers Kerala,DC,DC,Nehru Stadium
-241,2011,PWI,KKR,KKR,Dr DY Patil Sports Academy
-242,2011,PWI,DCH,DCH,Dr DY Patil Sports Academy
-243,2011,CSK,Kochi Tuskers Kerala,CSK,"MA Chidambaram Stadium, Chepauk"
-244,2011,PBKS,RCB,PBKS,Himachal Pradesh Cricket Association Stadium
-245,2011,PBKS,DCH,DCH,Himachal Pradesh Cricket Association Stadium
-246,2011,DCH,RR,RR,"Rajiv Gandhi International Stadium, Uppal"
-247,2011,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk"
-248,2011,DC,PWI,No Result,Feroz Shah Kotla
-249,2012,CSK,PWI,CSK,"MA Chidambaram Stadium, Chepauk"
-250,2012,DCH,DC,DC,"Rajiv Gandhi International Stadium, Uppal"
-251,2012,PBKS,KKR,KKR,"Punjab Cricket Association Stadium, Mohali"
-252,2012,RCB,PWI,RCB,M Chinnaswamy Stadium
-253,2012,RR,DCH,RR,Sawai Mansingh Stadium
-254,2012,MI,DC,DC,Wankhede Stadium
-255,2012,RCB,RR,RR,M Chinnaswamy Stadium
-256,2012,KKR,PBKS,PBKS,Eden Gardens
-257,2012,PWI,CSK,PWI,Subrata Roy Sahara Stadium
-258,2012,DC,DCH,DC,Feroz Shah Kotla
-259,2012,KKR,RR,KKR,Eden Gardens
-260,2012,PBKS,PWI,PBKS,"Punjab Cricket Association Stadium, Mohali"
-261,2012,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk"
-262,2012,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk"
-263,2012,KKR,MI,MI,Eden Gardens
-264,2012,PWI,RCB,RCB,Subrata Roy Sahara Stadium
-265,2012,RR,CSK,CSK,Sawai Mansingh Stadium
-266,2012,MI,RCB,RCB,Wankhede Stadium
-267,2012,DCH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Uppal"
-268,2012,PWI,RR,RR,Subrata Roy Sahara Stadium
-269,2012,DC,KKR,KKR,Feroz Shah Kotla
-270,2012,RCB,DCH,RCB,M Chinnaswamy Stadium
-271,2012,MI,CSK,MI,Wankhede Stadium
-272,2012,PBKS,RR,RR,"Punjab Cricket Association Stadium, Mohali"
-273,2012,KKR,PWI,KKR,Eden Gardens
-274,2012,CSK,DCH,CSK,"MA Chidambaram Stadium, Chepauk"
-275,2012,PWI,MI,MI,Subrata Roy Sahara Stadium
-276,2012,RCB,PBKS,PBKS,M Chinnaswamy Stadium
-277,2012,RCB,KKR,KKR,M Chinnaswamy Stadium
-278,2012,DC,CSK,CSK,"MA Chidambaram Stadium, Chepauk"
-279,2012,CSK,MI,CSK,M Chinnaswamy Stadium
-280,2012,DC,KKR,KKR,Subrata Roy Sahara Stadium
-281,2012,MI,KKR,KKR,Wankhede Stadium
-282,2012,RR,MI,MI,Sawai Mansingh Stadium
-283,2012,DCH,RCB,DCH,"Rajiv Gandhi International Stadium, Uppal"
-284,2012,PWI,KKR,KKR,Subrata Roy Sahara Stadium
-285,2012,PBKS,DC,DC,Himachal Pradesh Cricket Association Stadium
-286,2012,DCH,RR,DCH,"Rajiv Gandhi International Stadium, Uppal"
-287,2012,DC,RCB,RCB,Feroz Shah Kotla
-288,2012,PBKS,CSK,PBKS,Himachal Pradesh Cricket Association Stadium
-289,2012,PBKS,DCH,PBKS,"Punjab Cricket Association Stadium, Mohali"
-290,2012,DC,PBKS,DC,Feroz Shah Kotla
-291,2012,KKR,CSK,CSK,Eden Gardens
-292,2012,RCB,MI,MI,M Chinnaswamy Stadium
-293,2012,RR,DC,DC,Sawai Mansingh Stadium
-294,2012,PBKS,RCB,RCB,"Punjab Cricket Association Stadium, Mohali"
-295,2012,RR,PWI,RR,Sawai Mansingh Stadium
-296,2012,MI,PBKS,PBKS,Wankhede Stadium
-297,2012,DC,PWI,PWI,Feroz Shah Kotla
-298,2012,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk"
-299,2012,CSK,MI,MI,"MA Chidambaram Stadium, Chepauk"
-300,2012,DCH,PWI,DCH,Barabati Stadium
-301,2012,CSK,KKR,KKR,"MA Chidambaram Stadium, Chepauk"
-302,2012,MI,DCH,MI,Wankhede Stadium
-303,2012,DC,RR,DC,Feroz Shah Kotla
-304,2012,MI,RR,MI,Wankhede Stadium
-305,2012,KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk"
-306,2012,DC,CSK,DC,Feroz Shah Kotla
-307,2012,DCH,MI,MI,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-308,2012,PWI,PBKS,PWI,Subrata Roy Sahara Stadium
-309,2012,RR,KKR,RR,Sawai Mansingh Stadium
-310,2012,DCH,CSK,CSK,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-311,2012,RCB,DC,RCB,M Chinnaswamy Stadium
-312,2012,RR,PBKS,RR,Sawai Mansingh Stadium
-313,2012,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk"
-314,2012,DC,MI,DC,Feroz Shah Kotla
-315,2012,PWI,DCH,DCH,Subrata Roy Sahara Stadium
-316,2012,PBKS,MI,MI,"Punjab Cricket Association Stadium, Mohali"
-317,2012,PWI,DC,DC,Subrata Roy Sahara Stadium
-318,2012,KKR,DC,DC,Eden Gardens
-319,2012,MI,PWI,PWI,Wankhede Stadium
-320,2012,KKR,RCB,KKR,Eden Gardens
-321,2012,DCH,KKR,KKR,Barabati Stadium
-322,2012,RR,RCB,RCB,Sawai Mansingh Stadium
-323,2013,KKR,PWI,PWI,JSCA International Stadium Complex
-324,2013,KKR,CSK,CSK,Eden Gardens
-325,2013,PBKS,PWI,PBKS,"Punjab Cricket Association Stadium, Mohali"
-326,2013,CSK,PWI,PWI,"MA Chidambaram Stadium, Chepauk"
-327,2013,PBKS,KKR,PBKS,"Punjab Cricket Association Stadium, Mohali"
-328,2013,PBKS,SRH,SRH,"Punjab Cricket Association Stadium, Mohali"
-329,2013,SRH,KKR,SRH,"Rajiv Gandhi International Stadium, Uppal"
-330,2013,DC,PBKS,PBKS,Feroz Shah Kotla
-331,2013,RR,PWI,RR,Sawai Mansingh Stadium
-332,2013,RCB,SRH,RCB,M Chinnaswamy Stadium
-333,2013,SRH,CSK,CSK,"Rajiv Gandhi International Stadium, Uppal"
-334,2013,MI,KKR,MI,Wankhede Stadium
-335,2013,CSK,SRH,CSK,"MA Chidambaram Stadium, Chepauk"
-336,2013,KKR,SRH,KKR,Eden Gardens
-337,2013,SRH,DC,SRH,"Rajiv Gandhi International Stadium, Uppal"
-338,2013,KKR,RR,KKR,Eden Gardens
-339,2013,PWI,RCB,RCB,Subrata Roy Sahara Stadium
-340,2013,CSK,PBKS,CSK,"MA Chidambaram Stadium, Chepauk"
-341,2013,DC,KKR,DC,Shaheed Veer Narayan Singh International Stadium
-342,2013,SRH,MI,SRH,"Rajiv Gandhi International Stadium, Uppal"
-343,2013,PWI,CSK,CSK,Subrata Roy Sahara Stadium
-344,2013,MI,PBKS,MI,Wankhede Stadium
-345,2013,RR,SRH,RR,Feroz Shah Kotla
-346,2013,CSK,MI,CSK,Feroz Shah Kotla
-347,2013,CSK,MI,MI,Eden Gardens
-348,2013,MI,RR,MI,Eden Gardens
-349,2013,RCB,PBKS,PBKS,M Chinnaswamy Stadium
-350,2013,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk"
-351,2013,RCB,PWI,RCB,M Chinnaswamy Stadium
-352,2013,DC,MI,DC,Feroz Shah Kotla
-353,2013,RR,PBKS,RR,Sawai Mansingh Stadium
-354,2013,PWI,SRH,SRH,Maharashtra Cricket Association Stadium
-355,2013,DC,CSK,CSK,Feroz Shah Kotla
-356,2013,RCB,DC,No Result,M Chinnaswamy Stadium
-357,2013,RR,MI,RR,Sawai Mansingh Stadium
-358,2013,PBKS,DC,PBKS,Himachal Pradesh Cricket Association Stadium
-359,2013,PWI,MI,MI,Subrata Roy Sahara Stadium
-360,2013,SRH,RCB,No Result,"Rajiv Gandhi International Stadium, Uppal"
-361,2013,SRH,PWI,SRH,"Rajiv Gandhi International Stadium, Uppal"
-362,2013,MI,PWI,MI,Wankhede Stadium
-363,2013,PWI,RR,PWI,Subrata Roy Sahara Stadium
-364,2013,DC,SRH,SRH,Feroz Shah Kotla
-365,2013,PBKS,CSK,CSK,"Punjab Cricket Association Stadium, Mohali"
-366,2013,MI,DC,MI,Wankhede Stadium
-367,2013,RR,KKR,RR,Sawai Mansingh Stadium
-368,2013,RCB,KKR,RCB,M Chinnaswamy Stadium
-369,2013,KKR,DC,KKR,Eden Gardens
-370,2013,PWI,PBKS,PBKS,Subrata Roy Sahara Stadium
-371,2013,DC,RR,RR,Feroz Shah Kotla
-372,2013,CSK,MI,MI,"MA Chidambaram Stadium, Chepauk"
-373,2013,RCB,MI,RCB,M Chinnaswamy Stadium
-374,2013,RCB,RR,RCB,M Chinnaswamy Stadium
-375,2013,SRH,PBKS,SRH,"Rajiv Gandhi International Stadium, Uppal"
-376,2013,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk"
-377,2013,RR,DC,RR,Sawai Mansingh Stadium
-378,2013,MI,CSK,MI,Wankhede Stadium
-379,2013,MI,RCB,MI,Wankhede Stadium
-380,2013,RR,RCB,RR,Sawai Mansingh Stadium
-381,2013,KKR,PBKS,KKR,Eden Gardens
-382,2013,RR,SRH,RR,Sawai Mansingh Stadium
-383,2013,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk"
-384,2013,DC,PWI,DC,Shaheed Veer Narayan Singh International Stadium
-385,2013,KKR,MI,MI,Eden Gardens
-386,2013,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk"
-387,2013,MI,RR,MI,Wankhede Stadium
-388,2013,PBKS,RCB,PBKS,"Punjab Cricket Association Stadium, Mohali"
-389,2013,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Uppal"
-390,2013,PBKS,MI,PBKS,Himachal Pradesh Cricket Association Stadium
-391,2013,PWI,DC,PWI,Subrata Roy Sahara Stadium
-392,2013,RCB,CSK,RCB,M Chinnaswamy Stadium
-393,2013,DC,RCB,RCB,Feroz Shah Kotla
-394,2013,PWI,KKR,KKR,Subrata Roy Sahara Stadium
-395,2013,RR,CSK,RR,Sawai Mansingh Stadium
-396,2013,KKR,RCB,KKR,JSCA International Stadium Complex
-397,2013,PBKS,RR,RR,"Punjab Cricket Association Stadium, Mohali"
-398,2013,MI,SRH,MI,Wankhede Stadium
-399,2014,SRH,RR,RR,Sheikh Zayed Stadium
-400,2014,PBKS,CSK,PBKS,Barabati Stadium
-401,2014,CSK,KKR,CSK,JSCA International Stadium Complex
-402,2014,MI,PBKS,MI,Wankhede Stadium
-403,2014,DC,RR,RR,Feroz Shah Kotla
-404,2014,RCB,SRH,RCB,M Chinnaswamy Stadium
-405,2014,DC,CSK,CSK,Feroz Shah Kotla
-406,2014,RR,KKR,RR,"Sardar Patel Stadium, Motera"
-407,2014,MI,RCB,MI,Wankhede Stadium
-408,2014,DC,KKR,KKR,Feroz Shah Kotla
-409,2014,MI,SRH,SRH,Dubai International Cricket Stadium
-410,2014,DC,PBKS,PBKS,Feroz Shah Kotla
-411,2014,SRH,RCB,SRH,"Rajiv Gandhi International Stadium, Uppal"
-412,2014,KKR,CSK,KKR,Eden Gardens
-413,2014,PBKS,MI,MI,"Punjab Cricket Association Stadium, Mohali"
-414,2014,KKR,RCB,KKR,Eden Gardens
-415,2014,CSK,SRH,SRH,JSCA International Stadium Complex
-416,2014,MI,DC,MI,Wankhede Stadium
-417,2014,MI,RR,MI,Wankhede Stadium
-418,2014,RCB,CSK,CSK,M Chinnaswamy Stadium
-419,2014,KKR,SRH,KKR,Eden Gardens
-420,2014,PBKS,DC,PBKS,"Punjab Cricket Association Stadium, Mohali"
-421,2014,CSK,MI,CSK,Brabourne Stadium
-422,2014,PBKS,KKR,KKR,Eden Gardens
-423,2014,CSK,PBKS,PBKS,Wankhede Stadium
-424,2014,KKR,PBKS,KKR,M Chinnaswamy Stadium
-425,2014,SRH,MI,MI,"Rajiv Gandhi International Stadium, Uppal"
-426,2014,PBKS,RR,PBKS,"Punjab Cricket Association Stadium, Mohali"
-427,2014,RR,SRH,SRH,"Sardar Patel Stadium, Motera"
-428,2014,RCB,PBKS,PBKS,M Chinnaswamy Stadium
-429,2014,DC,SRH,SRH,Feroz Shah Kotla
-430,2014,MI,CSK,CSK,Wankhede Stadium
-431,2014,PBKS,KKR,KKR,Barabati Stadium
-432,2014,RCB,RR,RR,M Chinnaswamy Stadium
-433,2014,KKR,MI,KKR,Barabati Stadium
-434,2014,CSK,RR,CSK,JSCA International Stadium Complex
-435,2014,RCB,DC,RCB,M Chinnaswamy Stadium
-436,2014,SRH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Uppal"
-437,2014,CSK,RCB,RCB,JSCA International Stadium Complex
-438,2014,RR,DC,RR,"Sardar Patel Stadium, Motera"
-439,2014,SRH,KKR,KKR,"Rajiv Gandhi International Stadium, Uppal"
-440,2014,RR,MI,MI,"Sardar Patel Stadium, Motera"
-441,2014,SRH,DC,SRH,Dubai International Cricket Stadium
-442,2014,CSK,MI,CSK,Dubai International Cricket Stadium
-443,2014,RR,RCB,RR,Sheikh Zayed Stadium
-444,2014,KKR,PBKS,PBKS,Sheikh Zayed Stadium
-445,2014,DC,MI,DC,Sharjah Cricket Stadium
-446,2014,SRH,CSK,CSK,Sharjah Cricket Stadium
-447,2014,PBKS,RCB,PBKS,Dubai International Cricket Stadium
-448,2014,KKR,RR,No Result,Sheikh Zayed Stadium
-449,2014,KKR,DC,DC,Dubai International Cricket Stadium
-450,2014,RCB,MI,RCB,Dubai International Cricket Stadium
-451,2014,MI,KKR,KKR,Sheikh Zayed Stadium
-452,2014,RR,CSK,CSK,Dubai International Cricket Stadium
-453,2014,CSK,DC,CSK,Sheikh Zayed Stadium
-454,2014,RR,PBKS,PBKS,Sharjah Cricket Stadium
-455,2014,DC,RCB,RCB,Sharjah Cricket Stadium
-456,2014,CSK,PBKS,PBKS,Sheikh Zayed Stadium
-457,2014,RCB,KKR,KKR,Sharjah Cricket Stadium
-458,2014,PBKS,SRH,PBKS,Sharjah Cricket Stadium
-459,2015,CSK,MI,MI,Wankhede Stadium
-460,2015,MI,SRH,MI,Wankhede Stadium
-461,2015,RCB,RR,RCB,Maharashtra Cricket Association Stadium
-462,2015,CSK,RCB,CSK,JSCA International Stadium Complex
-463,2015,MI,CSK,MI,Eden Gardens
-464,2015,RCB,PBKS,RCB,M Chinnaswamy Stadium
-465,2015,KKR,MI,KKR,Eden Gardens
-466,2015,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk"
-467,2015,PBKS,RR,RR,Maharashtra Cricket Association Stadium
-468,2015,CSK,SRH,CSK,"MA Chidambaram Stadium, Chepauk"
-469,2015,KKR,RCB,RCB,Eden Gardens
-470,2015,DC,RR,RR,Feroz Shah Kotla
-471,2015,MI,PBKS,PBKS,Wankhede Stadium
-472,2015,RR,MI,RR,"Sardar Patel Stadium, Motera"
-473,2015,KKR,CSK,KKR,Eden Gardens
-474,2015,PBKS,DC,DC,Maharashtra Cricket Association Stadium
-475,2015,SRH,RR,RR,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-476,2015,MI,CSK,CSK,Wankhede Stadium
-477,2015,SRH,DC,DC,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-478,2015,PBKS,KKR,KKR,Maharashtra Cricket Association Stadium
-479,2015,RR,CSK,RR,"Sardar Patel Stadium, Motera"
-480,2015,RCB,MI,MI,M Chinnaswamy Stadium
-481,2015,DC,KKR,KKR,Feroz Shah Kotla
-482,2015,RR,PBKS,No Result,"Sardar Patel Stadium, Motera"
-483,2015,SRH,KKR,SRH,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-484,2015,RCB,CSK,CSK,M Chinnaswamy Stadium
-485,2015,DC,MI,DC,Feroz Shah Kotla
-486,2015,RR,RCB,RCB,"Sardar Patel Stadium, Motera"
-487,2015,CSK,PBKS,CSK,"MA Chidambaram Stadium, Chepauk"
-488,2015,DC,RCB,RCB,Feroz Shah Kotla
-489,2015,PBKS,SRH,SRH,"Punjab Cricket Association Stadium, Mohali"
-490,2015,KKR,DC,KKR,Eden Gardens
-491,2015,RCB,RR,No Result,M Chinnaswamy Stadium
-492,2015,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk"
-493,2015,DC,PBKS,DC,Feroz Shah Kotla
-494,2015,MI,RR,MI,Wankhede Stadium
-495,2015,RCB,KKR,RCB,M Chinnaswamy Stadium
-496,2015,SRH,CSK,SRH,"Rajiv Gandhi International Stadium, Uppal"
-497,2015,PBKS,MI,MI,"Punjab Cricket Association Stadium, Mohali"
-498,2015,RR,DC,RR,Brabourne Stadium
-499,2015,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk"
-500,2015,KKR,SRH,KKR,Eden Gardens
-501,2015,MI,DC,MI,Wankhede Stadium
-502,2015,RCB,SRH,SRH,M Chinnaswamy Stadium
-503,2015,RR,SRH,SRH,Brabourne Stadium
-504,2015,CSK,MI,MI,"MA Chidambaram Stadium, Chepauk"
-505,2015,KKR,PBKS,KKR,Eden Gardens
-506,2015,DC,SRH,SRH,Shaheed Veer Narayan Singh International Stadium
-507,2015,MI,RCB,RCB,Wankhede Stadium
-508,2015,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk"
-509,2015,SRH,PBKS,SRH,"Rajiv Gandhi International Stadium, Uppal"
-510,2015,DC,CSK,DC,Shaheed Veer Narayan Singh International Stadium
-511,2015,PBKS,RCB,PBKS,"Punjab Cricket Association Stadium, Mohali"
-512,2015,MI,KKR,MI,Wankhede Stadium
-513,2015,SRH,RCB,RCB,"Rajiv Gandhi International Stadium, Uppal"
-514,2015,PBKS,CSK,CSK,"Punjab Cricket Association Stadium, Mohali"
-515,2015,RR,KKR,RR,Brabourne Stadium
-516,2015,RCB,DC,No Result,M Chinnaswamy Stadium
-517,2015,SRH,MI,MI,"Rajiv Gandhi International Stadium, Uppal"
-518,2016,RCB,SRH,SRH,M Chinnaswamy Stadium
-519,2016,GL,SRH,SRH,Feroz Shah Kotla
-520,2016,SRH,KKR,SRH,Feroz Shah Kotla
-521,2016,GL,RCB,RCB,M Chinnaswamy Stadium
-522,2016,DC,RCB,RCB,Shaheed Veer Narayan Singh International Stadium
-523,2016,KKR,SRH,KKR,Eden Gardens
-524,2016,GL,MI,GL,Green Park
-525,2016,RPS,PBKS,RPS,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-526,2016,DC,SRH,DC,Shaheed Veer Narayan Singh International Stadium
-527,2016,GL,KKR,GL,Green Park
-528,2016,RCB,PBKS,RCB,M Chinnaswamy Stadium
-529,2016,SRH,KKR,KKR,"Rajiv Gandhi International Stadium, Uppal"
-530,2016,MI,GL,GL,Wankhede Stadium
-531,2016,PBKS,RPS,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-532,2016,RCB,DC,DC,M Chinnaswamy Stadium
-533,2016,SRH,MI,SRH,"Rajiv Gandhi International Stadium, Uppal"
-534,2016,RCB,SRH,RCB,M Chinnaswamy Stadium
-535,2016,PBKS,GL,GL,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-536,2016,KKR,DC,KKR,Eden Gardens
-537,2016,MI,RPS,RPS,Wankhede Stadium
-538,2016,GL,PBKS,PBKS,Saurashtra Cricket Association Stadium
-539,2016,DC,PBKS,DC,Feroz Shah Kotla
-540,2016,GL,RPS,GL,Saurashtra Cricket Association Stadium
-541,2016,KKR,MI,MI,Eden Gardens
-542,2016,DC,KKR,DC,Feroz Shah Kotla
-543,2016,SRH,RCB,SRH,"Rajiv Gandhi International Stadium, Uppal"
-544,2016,RPS,GL,GL,Maharashtra Cricket Association Stadium
-545,2016,RPS,KKR,KKR,Maharashtra Cricket Association Stadium
-546,2016,PBKS,MI,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-547,2016,SRH,RPS,RPS,"Rajiv Gandhi International Stadium, Uppal"
-548,2016,DC,GL,GL,Feroz Shah Kotla
-549,2016,MI,KKR,MI,Wankhede Stadium
-550,2016,RPS,SRH,SRH,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-551,2016,PBKS,RCB,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-552,2016,KKR,GL,GL,Eden Gardens
-553,2016,MI,SRH,SRH,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-554,2016,PBKS,DC,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-555,2016,GL,RCB,GL,Saurashtra Cricket Association Stadium
-556,2016,SRH,PBKS,SRH,"Rajiv Gandhi International Stadium, Uppal"
-557,2016,DC,MI,DC,Feroz Shah Kotla
-558,2016,RPS,RCB,RCB,Maharashtra Cricket Association Stadium
-559,2016,GL,SRH,SRH,Saurashtra Cricket Association Stadium
-560,2016,MI,RCB,MI,Wankhede Stadium
-561,2016,PBKS,KKR,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-562,2016,RCB,GL,RCB,M Chinnaswamy Stadium
-563,2016,MI,PBKS,PBKS,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-564,2016,SRH,DC,DC,"Rajiv Gandhi International Stadium, Uppal"
-565,2016,RCB,MI,MI,M Chinnaswamy Stadium
-566,2016,KKR,PBKS,KKR,Eden Gardens
-567,2016,GL,DC,DC,Saurashtra Cricket Association Stadium
-568,2016,RCB,KKR,KKR,M Chinnaswamy Stadium
-569,2016,RPS,MI,MI,Maharashtra Cricket Association Stadium
-570,2016,SRH,GL,SRH,"Rajiv Gandhi International Stadium, Uppal"
-571,2016,RCB,RPS,RCB,M Chinnaswamy Stadium
-572,2016,DC,RPS,RPS,Feroz Shah Kotla
-573,2016,KKR,RCB,RCB,Eden Gardens
-574,2016,KKR,RPS,KKR,Eden Gardens
-575,2016,PBKS,SRH,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-576,2016,MI,DC,MI,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-577,2016,RPS,DC,RPS,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-578,2017,PBKS,RPS,PBKS,Holkar Cricket Stadium
-579,2017,GL,KKR,KKR,Saurashtra Cricket Association Stadium
-580,2017,RPS,MI,RPS,Maharashtra Cricket Association Stadium
-581,2017,SRH,RCB,SRH,"Rajiv Gandhi International Stadium, Uppal"
-582,2017,GL,RCB,RCB,Saurashtra Cricket Association Stadium
-583,2017,SRH,DC,SRH,"Rajiv Gandhi International Stadium, Uppal"
-584,2017,PBKS,MI,MI,Holkar Cricket Stadium
-585,2017,KKR,GL,GL,Eden Gardens
-586,2017,RCB,DC,RCB,M.Chinnaswamy Stadium
-587,2017,SRH,PBKS,SRH,"Rajiv Gandhi International Stadium, Uppal"
-588,2017,RCB,RPS,RPS,M Chinnaswamy Stadium
-589,2017,DC,KKR,KKR,Feroz Shah Kotla
-590,2017,KKR,PBKS,KKR,Eden Gardens
-591,2017,MI,SRH,MI,Wankhede Stadium
-592,2017,RPS,DC,DC,Maharashtra Cricket Association Stadium
-593,2017,MI,GL,MI,Wankhede Stadium
-594,2017,DC,PBKS,DC,Feroz Shah Kotla
-595,2017,KKR,SRH,KKR,Eden Gardens
-596,2017,GL,RPS,GL,Saurashtra Cricket Association Stadium
-597,2017,RCB,MI,MI,M Chinnaswamy Stadium
-598,2017,MI,RPS,RPS,Wankhede Stadium
-599,2017,SRH,KKR,KKR,M Chinnaswamy Stadium
-600,2017,MI,KKR,MI,M Chinnaswamy Stadium
-601,2017,MI,RPS,MI,"Rajiv Gandhi International Stadium, Uppal"
-602,2017,PBKS,RCB,PBKS,Holkar Cricket Stadium
-603,2017,DC,RCB,RCB,Feroz Shah Kotla
-604,2017,KKR,MI,MI,Eden Gardens
-605,2017,RPS,PBKS,RPS,Maharashtra Cricket Association Stadium
-606,2017,GL,DC,DC,Green Park
-607,2017,MI,PBKS,PBKS,Wankhede Stadium
-608,2017,DC,RPS,DC,Feroz Shah Kotla
-609,2017,GL,SRH,SRH,Green Park
-610,2017,PBKS,SRH,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-611,2017,KKR,DC,KKR,Eden Gardens
-612,2017,RCB,GL,GL,M Chinnaswamy Stadium
-613,2017,RPS,KKR,KKR,Maharashtra Cricket Association Stadium
-614,2017,MI,RPS,RPS,Wankhede Stadium
-615,2017,KKR,RCB,KKR,Eden Gardens
-616,2017,GL,PBKS,PBKS,Saurashtra Cricket Association Stadium
-617,2017,RPS,SRH,RPS,Maharashtra Cricket Association Stadium
-618,2017,MI,DC,MI,Wankhede Stadium
-619,2017,MI,KKR,MI,Wankhede Stadium
-620,2017,SRH,GL,SRH,"Rajiv Gandhi International Stadium, Uppal"
-621,2017,PBKS,KKR,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-622,2017,SRH,MI,SRH,"Rajiv Gandhi International Stadium, Uppal"
-623,2017,PBKS,GL,GL,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-624,2017,RCB,KKR,KKR,M Chinnaswamy Stadium
-625,2017,DC,MI,MI,Feroz Shah Kotla
-626,2017,SRH,RPS,RPS,"Rajiv Gandhi International Stadium, Uppal"
-627,2017,RCB,PBKS,PBKS,M Chinnaswamy Stadium
-628,2017,DC,GL,DC,Feroz Shah Kotla
-629,2017,KKR,RPS,RPS,Eden Gardens
-630,2017,DC,SRH,DC,Feroz Shah Kotla
-631,2017,RPS,GL,RPS,Maharashtra Cricket Association Stadium
-632,2017,MI,RCB,MI,Wankhede Stadium
-633,2017,SRH,KKR,SRH,"Rajiv Gandhi International Stadium, Uppal"
-634,2017,PBKS,DC,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali"
-635,2017,GL,MI,No Result,Saurashtra Cricket Association Stadium
-636,2017,RPS,RCB,RPS,Maharashtra Cricket Association Stadium
-637,2018,RR,PBKS,PBKS,Holkar Cricket Stadium
-638,2018,SRH,RCB,SRH,Rajiv Gandhi International Stadium
-639,2018,RR,PBKS,RR,Sawai Mansingh Stadium
-640,2018,MI,KKR,MI,Eden Gardens
-641,2018,DC,SRH,SRH,Arun Jaitley Stadium
-642,2018,CSK,RR,RR,Sawai Mansingh Stadium
-643,2018,KKR,PBKS,KKR,Holkar Cricket Stadium
-644,2018,DC,RCB,RCB,Arun Jaitley Stadium
-645,2018,SRH,CSK,CSK,Maharashtra Cricket Association Stadium
-646,2018,MI,RR,RR,Wankhede Stadium
-647,2018,PBKS,RCB,RCB,Holkar Cricket Stadium
-648,2018,RR,KKR,KKR,Eden Gardens
-649,2018,MI,PBKS,MI,Wankhede Stadium
-650,2018,RCB,SRH,RCB,M.Chinnaswamy Stadium
-651,2018,DC,CSK,DC,Arun Jaitley Stadium
-652,2018,RR,RCB,RR,Sawai Mansingh Stadium
-653,2018,PBKS,DC,PBKS,Arun Jaitley Stadium
-654,2018,SRH,MI,SRH,Wankhede Stadium
-655,2018,RCB,CSK,CSK,M.Chinnaswamy Stadium
-656,2018,SRH,PBKS,SRH,Rajiv Gandhi International Stadium
-657,2018,DC,KKR,DC,Arun Jaitley Stadium
-658,2018,CSK,MI,MI,Maharashtra Cricket Association Stadium
-659,2018,SRH,RR,SRH,Sawai Mansingh Stadium
-660,2018,RCB,KKR,KKR,M.Chinnaswamy Stadium
-661,2018,CSK,DC,CSK,Maharashtra Cricket Association Stadium
-662,2018,MI,KKR,MI,Wankhede Stadium
-663,2018,RCB,CSK,CSK,Maharashtra Cricket Association Stadium
-664,2018,DC,SRH,SRH,Rajiv Gandhi International Stadium
-665,2018,CSK,KKR,KKR,Eden Gardens
-666,2018,DC,RR,DC,Arun Jaitley Stadium
-667,2018,RCB,MI,RCB,M.Chinnaswamy Stadium
-668,2018,PBKS,MI,MI,Holkar Cricket Stadium
-669,2018,KKR,RR,KKR,Eden Gardens
-670,2018,SRH,KKR,KKR,Rajiv Gandhi International Stadium
-671,2018,PBKS,CSK,CSK,Maharashtra Cricket Association Stadium
-672,2018,DC,MI,DC,Arun Jaitley Stadium
-673,2018,SRH,CSK,CSK,Wankhede Stadium
-674,2018,SRH,KKR,SRH,Eden Gardens
-675,2018,SRH,CSK,CSK,Wankhede Stadium
-676,2018,MI,RCB,MI,Wankhede Stadium
-677,2018,KKR,DC,KKR,Eden Gardens
-678,2018,PBKS,CSK,PBKS,Punjab Cricket Association IS Bindra Stadium
-679,2018,RR,RCB,RR,M.Chinnaswamy Stadium
-680,2018,KKR,CSK,CSK,MA Chidambaram Stadium
-681,2018,RR,SRH,SRH,Rajiv Gandhi International Stadium
-682,2018,RCB,KKR,KKR,Eden Gardens
-683,2018,DC,PBKS,PBKS,Punjab Cricket Association IS Bindra Stadium
-684,2018,MI,CSK,CSK,Wankhede Stadium
-685,2018,MI,RR,RR,Sawai Mansingh Stadium
-686,2018,CSK,SRH,CSK,Rajiv Gandhi International Stadium
-687,2018,DC,RCB,RCB,M.Chinnaswamy Stadium
-688,2018,KKR,PBKS,PBKS,Eden Gardens
-689,2018,CSK,RR,CSK,Maharashtra Cricket Association Stadium
-690,2018,PBKS,SRH,PBKS,Punjab Cricket Association IS Bindra Stadium
-691,2018,RR,KKR,KKR,Sawai Mansingh Stadium
-692,2018,RR,DC,RR,Sawai Mansingh Stadium
-693,2018,MI,DC,DC,Wankhede Stadium
-694,2018,PBKS,RCB,RCB,M.Chinnaswamy Stadium
-695,2018,MI,SRH,SRH,Rajiv Gandhi International Stadium
-696,2018,KKR,SRH,SRH,Eden Gardens
-697,2019,CSK,SRH,SRH,Rajiv Gandhi International Stadium
-698,2019,MI,CSK,MI,Rajiv Gandhi International Stadium
-699,2019,SRH,DC,DC,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-700,2019,DC,CSK,CSK,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-701,2019,RCB,PBKS,RCB,M.Chinnaswamy Stadium
-702,2019,KKR,RR,RR,Eden Gardens
-703,2019,MI,CSK,MI,MA Chidambaram Stadium
-704,2019,SRH,RR,RR,Sawai Mansingh Stadium
-705,2019,DC,RCB,DC,Arun Jaitley Stadium
-706,2019,KKR,MI,KKR,Eden Gardens
-707,2019,SRH,PBKS,SRH,Rajiv Gandhi International Stadium
-708,2019,MI,PBKS,PBKS,Punjab Cricket Association IS Bindra Stadium
-709,2019,RCB,CSK,CSK,MA Chidambaram Stadium
-710,2019,RR,SRH,SRH,Rajiv Gandhi International Stadium
-711,2019,MI,RCB,MI,M.Chinnaswamy Stadium
-712,2019,KKR,PBKS,KKR,Eden Gardens
-713,2019,DC,CSK,CSK,Arun Jaitley Stadium
-714,2019,PBKS,RR,PBKS,Sawai Mansingh Stadium
-715,2019,DC,MI,DC,Wankhede Stadium
-716,2019,SRH,KKR,KKR,Eden Gardens
-717,2019,RCB,KKR,KKR,M.Chinnaswamy Stadium
-718,2019,DC,SRH,SRH,Arun Jaitley Stadium
-719,2019,MI,CSK,MI,Wankhede Stadium
-720,2019,RCB,RR,RR,Sawai Mansingh Stadium
-721,2019,PBKS,DC,PBKS,Punjab Cricket Association IS Bindra Stadium
-722,2019,CSK,RR,CSK,MA Chidambaram Stadium
-723,2019,SRH,RCB,SRH,Rajiv Gandhi International Stadium
-724,2019,CSK,PBKS,CSK,MA Chidambaram Stadium
-725,2019,KKR,DC,No Result,Arun Jaitley Stadium
-726,2019,MI,SRH,MI,Rajiv Gandhi International Stadium
-727,2019,RCB,DC,DC,M.Chinnaswamy Stadium
-728,2019,RR,KKR,KKR,Sawai Mansingh Stadium
-729,2019,SRH,PBKS,PBKS,Punjab Cricket Association IS Bindra Stadium
-730,2019,SRH,CSK,CSK,MA Chidambaram Stadium
-731,2019,RCB,CSK,RCB,M.Chinnaswamy Stadium
-732,2019,RR,DC,DC,Sawai Mansingh Stadium
-733,2019,PBKS,MI,MI,Wankhede Stadium
-734,2019,KKR,CSK,CSK,MA Chidambaram Stadium
-735,2019,RR,CSK,CSK,Sawai Mansingh Stadium
-736,2019,SRH,RCB,RCB,M.Chinnaswamy Stadium
-737,2019,RR,DC,DC,Arun Jaitley Stadium
-738,2019,PBKS,KKR,KKR,Punjab Cricket Association IS Bindra Stadium
-739,2019,MI,SRH,No Result,Wankhede Stadium
-740,2019,CSK,DC,CSK,MA Chidambaram Stadium
-741,2019,RCB,RR,No Result,M.Chinnaswamy Stadium
-742,2019,PBKS,RR,PBKS,Punjab Cricket Association IS Bindra Stadium
-743,2019,RCB,MI,MI,Wankhede Stadium
-744,2019,KKR,SRH,SRH,Rajiv Gandhi International Stadium
-745,2019,PBKS,DC,DC,Arun Jaitley Stadium
-746,2019,MI,RR,RR,Sawai Mansingh Stadium
-747,2019,RCB,KKR,RCB,Eden Gardens
-748,2019,MI,DC,MI,Arun Jaitley Stadium
-749,2019,CSK,MI,MI,MA Chidambaram Stadium
-750,2019,KKR,MI,MI,Wankhede Stadium
-751,2019,CSK,PBKS,PBKS,Punjab Cricket Association IS Bindra Stadium
-752,2019,DC,SRH,DC,Rajiv Gandhi International Stadium
-753,2019,KKR,CSK,CSK,Eden Gardens
-754,2019,PBKS,RCB,RCB,Punjab Cricket Association IS Bindra Stadium
-755,2019,MI,RR,RR,Wankhede Stadium
-756,2019,KKR,DC,DC,Eden Gardens
-757,2020,PBKS,CSK,CSK,Dubai International Cricket Stadium
-758,2020,RR,RCB,RCB,Sheikh Zayed Stadium
-759,2020,DC,KKR,DC,Sharjah Cricket Stadium
-760,2020,KKR,PBKS,PBKS,Sharjah Cricket Stadium
-761,2020,CSK,DC,DC,Sharjah Cricket Stadium
-762,2020,DC,RCB,DC,Dubai International Cricket Stadium
-763,2020,RR,SRH,SRH,Dubai International Cricket Stadium
-764,2020,RCB,DC,DC,Sheikh Zayed Stadium
-765,2020,KKR,SRH,No Result,Sheikh Zayed Stadium
-766,2020,MI,RR,MI,Sheikh Zayed Stadium
-767,2020,PBKS,RCB,PBKS,Dubai International Cricket Stadium
-768,2020,KKR,RR,KKR,Dubai International Cricket Stadium
-769,2020,DC,RR,DC,Sharjah Cricket Stadium
-770,2020,MI,PBKS,MI,Sheikh Zayed Stadium
-771,2020,RCB,SRH,SRH,Sharjah Cricket Stadium
-772,2020,KKR,CSK,KKR,Sheikh Zayed Stadium
-773,2020,RR,CSK,RR,Sharjah Cricket Stadium
-774,2020,MI,SRH,SRH,Sharjah Cricket Stadium
-775,2020,KKR,RCB,RCB,Sheikh Zayed Stadium
-776,2020,DC,PBKS,No Result,Dubai International Cricket Stadium
-777,2020,MI,CSK,CSK,Sheikh Zayed Stadium
-778,2020,RCB,MI,MI,Sheikh Zayed Stadium
-779,2020,PBKS,SRH,PBKS,Dubai International Cricket Stadium
-780,2020,KKR,DC,KKR,Sheikh Zayed Stadium
-781,2020,MI,KKR,MI,Sheikh Zayed Stadium
-782,2020,SRH,RR,RR,Dubai International Cricket Stadium
-783,2020,PBKS,CSK,CSK,Sheikh Zayed Stadium
-784,2020,MI,PBKS,No Result,Dubai International Cricket Stadium
-785,2020,SRH,CSK,SRH,Dubai International Cricket Stadium
-786,2020,CSK,MI,MI,Sharjah Cricket Stadium
-787,2020,RR,RCB,RCB,Dubai International Cricket Stadium
-788,2020,KKR,PBKS,KKR,Sheikh Zayed Stadium
-789,2020,SRH,DC,SRH,Dubai International Cricket Stadium
-790,2020,RCB,CSK,RCB,Dubai International Cricket Stadium
-791,2020,KKR,MI,MI,Sheikh Zayed Stadium
-792,2020,PBKS,RR,RR,Sharjah Cricket Stadium
-793,2020,CSK,SRH,CSK,Dubai International Cricket Stadium
-794,2020,DC,MI,MI,Sheikh Zayed Stadium
-795,2020,KKR,RR,KKR,Dubai International Cricket Stadium
-796,2020,RCB,PBKS,PBKS,Sharjah Cricket Stadium
-797,2020,SRH,DC,SRH,Sheikh Zayed Stadium
-798,2020,CSK,RR,RR,Sheikh Zayed Stadium
-799,2020,RCB,SRH,RCB,Dubai International Cricket Stadium
-800,2020,DC,MI,MI,Dubai International Cricket Stadium
-801,2020,KKR,CSK,CSK,Dubai International Cricket Stadium
-802,2020,PBKS,RR,RR,Sheikh Zayed Stadium
-803,2020,MI,SRH,MI,Sharjah Cricket Stadium
-804,2020,DC,CSK,DC,Dubai International Cricket Stadium
-805,2020,RCB,KKR,RCB,Sharjah Cricket Stadium
-806,2020,MI,RR,RR,Sheikh Zayed Stadium
-807,2020,SRH,PBKS,SRH,Dubai International Cricket Stadium
-808,2020,DC,RR,DC,Dubai International Cricket Stadium
-809,2020,RCB,CSK,CSK,Dubai International Cricket Stadium
-810,2020,SRH,KKR,KKR,Sheikh Zayed Stadium
-811,2020,DC,PBKS,PBKS,Dubai International Cricket Stadium
-812,2020,RCB,MI,No Result,Dubai International Cricket Stadium
-813,2020,MI,DC,MI,Dubai International Cricket Stadium
-814,2020,RCB,SRH,SRH,Sheikh Zayed Stadium
-815,2020,DC,SRH,DC,Sheikh Zayed Stadium
-816,2020,DC,MI,MI,Dubai International Cricket Stadium
-817,2021,MI,RCB,RCB,"MA Chidambaram Stadium, Chepauk, Chennai"
-818,2021,CSK,DC,DC,"Wankhede Stadium, Mumbai"
-819,2021,KKR,SRH,KKR,"MA Chidambaram Stadium, Chepauk, Chennai"
-820,2021,RR,MI,MI,Sharjah Cricket Stadium
-821,2021,DC,KKR,KKR,Sharjah Cricket Stadium
-822,2021,SRH,CSK,CSK,Sharjah Cricket Stadium
-823,2021,RCB,PBKS,RCB,Sharjah Cricket Stadium
-824,2021,CSK,RR,RR,"Zayed Cricket Stadium, Abu Dhabi"
-825,2021,MI,SRH,MI,"Zayed Cricket Stadium, Abu Dhabi"
-826,2021,RCB,KKR,KKR,"Zayed Cricket Stadium, Abu Dhabi"
-827,2021,PBKS,DC,DC,"Narendra Modi Stadium, Ahmedabad"
-828,2021,RR,SRH,RR,"Arun Jaitley Stadium, Delhi"
-829,2021,CSK,MI,MI,"Arun Jaitley Stadium, Delhi"
-830,2021,PBKS,RCB,PBKS,"Narendra Modi Stadium, Ahmedabad"
-831,2021,KKR,DC,DC,"Narendra Modi Stadium, Ahmedabad"
-832,2021,RR,MI,MI,"Arun Jaitley Stadium, Delhi"
-833,2021,SRH,CSK,CSK,"Arun Jaitley Stadium, Delhi"
-834,2021,RCB,DC,RCB,"Narendra Modi Stadium, Ahmedabad"
-835,2021,PBKS,KKR,KKR,"Narendra Modi Stadium, Ahmedabad"
-836,2021,SRH,KKR,KKR,Dubai International Cricket Stadium
-837,2021,RCB,MI,RCB,Dubai International Cricket Stadium
-838,2021,PBKS,SRH,PBKS,Sharjah Cricket Stadium
-839,2021,KKR,RR,KKR,Sharjah Cricket Stadium
-840,2021,SRH,DC,DC,Dubai International Cricket Stadium
-841,2021,CSK,MI,CSK,Dubai International Cricket Stadium
-842,2021,RR,RCB,RCB,Dubai International Cricket Stadium
-843,2021,KKR,PBKS,PBKS,Dubai International Cricket Stadium
-844,2021,DC,RCB,RCB,Dubai International Cricket Stadium
-845,2021,RR,SRH,SRH,Dubai International Cricket Stadium
-846,2021,PBKS,MI,MI,"Zayed Cricket Stadium, Abu Dhabi"
-847,2021,KKR,CSK,CSK,"Zayed Cricket Stadium, Abu Dhabi"
-848,2021,DC,RR,DC,"Zayed Cricket Stadium, Abu Dhabi"
-849,2021,MI,KKR,KKR,"Zayed Cricket Stadium, Abu Dhabi"
-850,2021,SRH,RCB,SRH,"Zayed Cricket Stadium, Abu Dhabi"
-851,2021,CSK,PBKS,PBKS,Dubai International Cricket Stadium
-852,2021,RCB,CSK,CSK,Sharjah Cricket Stadium
-853,2021,DC,KKR,KKR,Sharjah Cricket Stadium
-854,2021,RCB,KKR,KKR,Sharjah Cricket Stadium
-855,2021,DC,CSK,CSK,Dubai International Cricket Stadium
-856,2021,CSK,KKR,CSK,Dubai International Cricket Stadium
-857,2021,RR,PBKS,RR,Dubai International Cricket Stadium
-858,2021,CSK,DC,DC,Dubai International Cricket Stadium
-859,2021,MI,DC,DC,Sharjah Cricket Stadium
-860,2021,CSK,KKR,CSK,"Wankhede Stadium, Mumbai"
-861,2021,PBKS,SRH,SRH,"MA Chidambaram Stadium, Chepauk, Chennai"
-862,2021,PBKS,DC,DC,"Wankhede Stadium, Mumbai"
-863,2021,MI,DC,DC,"MA Chidambaram Stadium, Chepauk, Chennai"
-864,2021,CSK,RR,CSK,"Wankhede Stadium, Mumbai"
-865,2021,CSK,RCB,CSK,"Wankhede Stadium, Mumbai"
-866,2021,PBKS,RR,PBKS,"Wankhede Stadium, Mumbai"
-867,2021,DC,SRH,No Result,"MA Chidambaram Stadium, Chepauk, Chennai"
-868,2021,MI,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai"
-869,2021,RR,RCB,RCB,"Wankhede Stadium, Mumbai"
-870,2021,KKR,RR,RR,"Wankhede Stadium, Mumbai"
-871,2021,MI,SRH,MI,"MA Chidambaram Stadium, Chepauk, Chennai"
-872,2021,RCB,KKR,RCB,"MA Chidambaram Stadium, Chepauk, Chennai"
-873,2021,DC,RR,RR,"Wankhede Stadium, Mumbai"
-874,2021,PBKS,CSK,CSK,"Wankhede Stadium, Mumbai"
-875,2021,MI,KKR,MI,"MA Chidambaram Stadium, Chepauk, Chennai"
-876,2021,RCB,SRH,RCB,"MA Chidambaram Stadium, Chepauk, Chennai"
-877,2022,MI,DC,DC,"Brabourne Stadium, Mumbai"
-878,2022,RCB,PBKS,PBKS,"Dr DY Patil Sports Academy, Mumbai"
-879,2022,PBKS,MI,PBKS,"Maharashtra Cricket Association Stadium, Pune"
-880,2022,GT,RR,GT,"Dr DY Patil Sports Academy, Mumbai"
-881,2022,LSG,SRH,LSG,"Dr DY Patil Sports Academy, Mumbai"
-882,2022,RR,RCB,RCB,"Wankhede Stadium, Mumbai"
-883,2022,MI,KKR,KKR,"Maharashtra Cricket Association Stadium, Pune"
-884,2022,DC,LSG,LSG,"Dr DY Patil Sports Academy, Mumbai"
-885,2022,PBKS,GT,GT,"Brabourne Stadium, Mumbai"
-886,2022,CSK,SRH,SRH,"Dr DY Patil Sports Academy, Mumbai"
-887,2022,MI,RCB,RCB,"Maharashtra Cricket Association Stadium, Pune"
-888,2022,DC,KKR,DC,"Brabourne Stadium, Mumbai"
-889,2022,RR,LSG,RR,"Wankhede Stadium, Mumbai"
-890,2022,GT,SRH,SRH,"Dr DY Patil Sports Academy, Mumbai"
-891,2022,CSK,RCB,CSK,"Dr DY Patil Sports Academy, Mumbai"
-892,2022,PBKS,CSK,PBKS,"Brabourne Stadium, Mumbai"
-893,2022,RR,RCB,RR,"Maharashtra Cricket Association Stadium, Pune"
-894,2022,GT,DC,GT,"Maharashtra Cricket Association Stadium, Pune"
-895,2022,RR,MI,RR,"Dr DY Patil Sports Academy, Mumbai"
-896,2022,SRH,GT,GT,"Wankhede Stadium, Mumbai"
-897,2022,RCB,DC,RCB,"Wankhede Stadium, Mumbai"
-898,2022,LSG,MI,LSG,"Brabourne Stadium, Mumbai"
-899,2022,KKR,SRH,SRH,"Brabourne Stadium, Mumbai"
-900,2022,KKR,MI,KKR,"Dr DY Patil Sports Academy, Mumbai"
-901,2022,CSK,DC,CSK,"Dr DY Patil Sports Academy, Mumbai"
-902,2022,PBKS,CSK,PBKS,"Wankhede Stadium, Mumbai"
-903,2022,LSG,MI,LSG,"Wankhede Stadium, Mumbai"
-904,2022,RCB,SRH,SRH,"Brabourne Stadium, Mumbai"
-905,2022,GT,KKR,GT,"Dr DY Patil Sports Academy, Mumbai"
-906,2022,RR,DC,RR,"Wankhede Stadium, Mumbai"
-907,2022,MI,CSK,CSK,"Dr DY Patil Sports Academy, Mumbai"
-908,2022,PBKS,DC,DC,"Brabourne Stadium, Mumbai"
-909,2022,RCB,LSG,RCB,"Dr DY Patil Sports Academy, Mumbai"
-910,2022,RR,KKR,RR,"Brabourne Stadium, Mumbai"
-911,2022,CSK,GT,GT,"Maharashtra Cricket Association Stadium, Pune"
-912,2022,PBKS,SRH,SRH,"Dr DY Patil Sports Academy, Mumbai"
-913,2022,RR,MI,MI,"Dr DY Patil Sports Academy, Mumbai"
-914,2022,LSG,DC,LSG,"Wankhede Stadium, Mumbai"
-915,2022,CSK,SRH,CSK,"Maharashtra Cricket Association Stadium, Pune"
-916,2022,RR,KKR,KKR,"Wankhede Stadium, Mumbai"
-917,2022,GT,PBKS,PBKS,"Dr DY Patil Sports Academy, Mumbai"
-918,2022,RCB,CSK,RCB,"Maharashtra Cricket Association Stadium, Pune"
-919,2022,DC,SRH,DC,"Brabourne Stadium, Mumbai"
-920,2022,MI,GT,MI,"Brabourne Stadium, Mumbai"
-921,2022,PBKS,RR,RR,"Wankhede Stadium, Mumbai"
-922,2022,LSG,KKR,LSG,"Maharashtra Cricket Association Stadium, Pune"
-923,2022,RCB,SRH,RCB,"Wankhede Stadium, Mumbai"
-924,2022,RCB,GT,GT,"Brabourne Stadium, Mumbai"
-925,2022,RR,GT,GT,"Eden Gardens, Kolkata"
-926,2022,LSG,PBKS,LSG,"Maharashtra Cricket Association Stadium, Pune"
-927,2022,KKR,DC,DC,"Wankhede Stadium, Mumbai"
-928,2022,RCB,LSG,RCB,"Eden Gardens, Kolkata"
-929,2022,PBKS,RCB,PBKS,"Brabourne Stadium, Mumbai"
-930,2022,KKR,SRH,KKR,"Maharashtra Cricket Association Stadium, Pune"
-931,2022,CSK,GT,GT,"Wankhede Stadium, Mumbai"
-932,2022,RR,LSG,RR,"Brabourne Stadium, Mumbai"
-933,2022,DC,PBKS,DC,"Dr DY Patil Sports Academy, Mumbai"
-934,2022,SRH,MI,SRH,"Wankhede Stadium, Mumbai"
-935,2022,LSG,KKR,LSG,"Dr DY Patil Sports Academy, Mumbai"
-936,2022,GT,RCB,RCB,"Wankhede Stadium, Mumbai"
-937,2022,CSK,RR,RR,"Brabourne Stadium, Mumbai"
-938,2022,DC,MI,MI,"Wankhede Stadium, Mumbai"
-939,2022,CSK,KKR,KKR,"Wankhede Stadium, Mumbai"
-940,2022,LSG,GT,GT,"Wankhede Stadium, Mumbai"
-941,2022,PBKS,KKR,KKR,"Wankhede Stadium, Mumbai"
-942,2022,RR,SRH,RR,"Maharashtra Cricket Association Stadium, Pune"
-943,2022,KKR,RCB,RCB,"Dr DY Patil Sports Academy, Mumbai"
-944,2022,CSK,LSG,LSG,"Brabourne Stadium, Mumbai"
-945,2022,RR,GT,GT,"Narendra Modi Stadium, Ahmedabad"
-946,2022,GT,LSG,GT,"Maharashtra Cricket Association Stadium, Pune"
-947,2022,RR,DC,DC,"Dr DY Patil Sports Academy, Mumbai"
-948,2022,CSK,MI,MI,"Wankhede Stadium, Mumbai"
-949,2022,RCB,RR,RR,"Narendra Modi Stadium, Ahmedabad"
-950,2022,SRH,PBKS,PBKS,"Wankhede Stadium, Mumbai"
-951,2023,LSG,MI,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-952,2023,MI,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-953,2023,RCB,DC,DC,"Arun Jaitley Stadium, Delhi"
-954,2023,GT,LSG,GT,"Narendra Modi Stadium, Ahmedabad"
-955,2023,PBKS,MI,PBKS,"Wankhede Stadium, Mumbai"
-956,2023,GT,SRH,GT,"Narendra Modi Stadium, Ahmedabad"
-957,2023,CSK,KKR,KKR,"MA Chidambaram Stadium, Chepauk, Chennai"
-958,2023,RCB,RR,RCB,"Sawai Mansingh Stadium, Jaipur"
-959,2023,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-960,2023,RCB,MI,MI,"Wankhede Stadium, Mumbai"
-961,2023,PBKS,KKR,KKR,"Eden Gardens, Kolkata"
-962,2023,RR,SRH,SRH,"Sawai Mansingh Stadium, Jaipur"
-963,2023,PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi"
-964,2023,SRH,LSG,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-965,2023,MI,GT,MI,"Wankhede Stadium, Mumbai"
-966,2023,KKR,RR,RR,"Eden Gardens, Kolkata"
-967,2023,RR,GT,GT,"Sawai Mansingh Stadium, Jaipur"
-968,2023,RCB,GT,GT,"M Chinnaswamy Stadium, Bengaluru"
-969,2023,SRH,MI,MI,"Wankhede Stadium, Mumbai"
-970,2023,LSG,KKR,LSG,"Eden Gardens, Kolkata"
-971,2023,KKR,SRH,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-972,2023,GT,CSK,CSK,"Narendra Modi Stadium, Ahmedabad"
-973,2023,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad"
-974,2023,MI,LSG,MI,"MA Chidambaram Stadium, Chepauk, Chennai"
-975,2023,CSK,GT,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-976,2023,PBKS,RR,RR,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
-977,2023,SRH,RCB,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-978,2023,DC,PBKS,DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
-979,2023,CSK,DC,CSK,"Arun Jaitley Stadium, Delhi"
-980,2023,RR,SRH,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-981,2023,LSG,DC,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-982,2023,PBKS,KKR,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
-983,2023,CSK,GT,GT,"Narendra Modi Stadium, Ahmedabad"
-984,2023,GT,LSG,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-985,2023,SRH,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-986,2023,KKR,DC,DC,"Arun Jaitley Stadium, Delhi"
-987,2023,RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
-988,2023,LSG,RR,LSG,"Sawai Mansingh Stadium, Jaipur"
-989,2023,MI,SRH,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-990,2023,CSK,RCB,CSK,"M Chinnaswamy Stadium, Bengaluru"
-991,2023,GT,RR,RR,"Narendra Modi Stadium, Ahmedabad"
-992,2023,KKR,MI,MI,"Wankhede Stadium, Mumbai"
-993,2023,LSG,PBKS,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-994,2023,RCB,DC,RCB,"M Chinnaswamy Stadium, Bengaluru"
-995,2023,SRH,KKR,SRH,"Eden Gardens, Kolkata"
-996,2023,PBKS,GT,GT,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
-997,2023,RR,CSK,RR,"MA Chidambaram Stadium, Chepauk, Chennai"
-998,2023,DC,MI,MI,"Arun Jaitley Stadium, Delhi"
-999,2023,RCB,LSG,LSG,"M Chinnaswamy Stadium, Bengaluru"
-1000,2023,PBKS,MI,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
-1001,2023,LSG,CSK,No Result,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1002,2023,DC,GT,DC,"Narendra Modi Stadium, Ahmedabad"
-1003,2023,RCB,LSG,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1004,2023,RR,MI,MI,"Wankhede Stadium, Mumbai"
-1005,2023,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai"
-1006,2023,SRH,DC,SRH,"Arun Jaitley Stadium, Delhi"
-1007,2023,KKR,GT,GT,"Eden Gardens, Kolkata"
-1008,2023,LSG,PBKS,LSG,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
-1009,2023,RR,CSK,RR,"Sawai Mansingh Stadium, Jaipur"
-1010,2023,KKR,RCB,KKR,"M Chinnaswamy Stadium, Bengaluru"
-1011,2023,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad"
-1012,2023,DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1013,2023,CSK,KKR,CSK,"Eden Gardens, Kolkata"
-1014,2023,RCB,RR,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1015,2023,SRH,LSG,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1016,2023,RR,DC,RR,"Barsapara Cricket Stadium, Guwahati"
-1017,2023,MI,CSK,CSK,"Wankhede Stadium, Mumbai"
-1018,2023,MI,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1019,2023,CSK,LSG,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1020,2023,DC,GT,GT,"Arun Jaitley Stadium, Delhi"
-1021,2023,PBKS,RR,PBKS,"Barsapara Cricket Stadium, Guwahati"
-1022,2023,KKR,RCB,KKR,"Eden Gardens, Kolkata"
-1023,2023,PBKS,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1024,2023,GT,KKR,KKR,"Narendra Modi Stadium, Ahmedabad"
-1025,2024,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad"
-1026,2024,CSK,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1027,2024,RCB,RR,RR,"Sawai Mansingh Stadium, Jaipur"
-1028,2024,LSG,GT,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1029,2024,KKR,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1030,2024,RCB,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1031,2024,MI,DC,MI,"Wankhede Stadium, Mumbai"
-1032,2024,DC,PBKS,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1033,2024,KKR,SRH,KKR,"Eden Gardens, Kolkata"
-1034,2024,RR,LSG,RR,"Sawai Mansingh Stadium, Jaipur"
-1035,2024,LSG,RCB,LSG,"M Chinnaswamy Stadium, Bengaluru"
-1036,2024,KKR,DC,KKR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam"
-1037,2024,MI,RR,RR,"Wankhede Stadium, Mumbai"
-1038,2024,GT,PBKS,PBKS,"Narendra Modi Stadium, Ahmedabad"
-1039,2024,RR,DC,RR,"Sawai Mansingh Stadium, Jaipur"
-1040,2024,SRH,GT,GT,"Narendra Modi Stadium, Ahmedabad"
-1041,2024,LSG,PBKS,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1042,2024,RCB,KKR,KKR,"M Chinnaswamy Stadium, Bengaluru"
-1043,2024,CSK,GT,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1044,2024,SRH,MI,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1045,2024,PBKS,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1046,2024,DC,CSK,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam"
-1047,2024,RR,GT,GT,"Sawai Mansingh Stadium, Jaipur"
-1048,2024,RCB,MI,MI,"Wankhede Stadium, Mumbai"
-1049,2024,LSG,DC,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1050,2024,PBKS,RR,RR,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1051,2024,LSG,KKR,KKR,"Eden Gardens, Kolkata"
-1052,2024,CSK,MI,CSK,"Wankhede Stadium, Mumbai"
-1053,2024,SRH,RCB,SRH,"M Chinnaswamy Stadium, Bengaluru"
-1054,2024,KKR,RR,RR,"Eden Gardens, Kolkata"
-1055,2024,GT,DC,DC,"Narendra Modi Stadium, Ahmedabad"
-1056,2024,MI,PBKS,MI,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1057,2024,CSK,LSG,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1058,2024,SRH,DC,SRH,"Arun Jaitley Stadium, Delhi"
-1059,2024,KKR,RCB,KKR,"Eden Gardens, Kolkata"
-1060,2024,PBKS,GT,GT,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1061,2024,MI,RR,RR,"Sawai Mansingh Stadium, Jaipur"
-1062,2024,SRH,PBKS,SRH,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1063,2024,CSK,LSG,LSG,"MA Chidambaram Stadium, Chepauk, Chennai"
-1064,2024,KKR,LSG,KKR,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1065,2024,CSK,PBKS,CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
-1066,2024,GT,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1067,2024,KKR,MI,KKR,"Wankhede Stadium, Mumbai"
-1068,2024,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1069,2024,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai"
-1070,2024,MI,LSG,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1071,2024,DC,KKR,KKR,"Eden Gardens, Kolkata"
-1072,2024,CSK,SRH,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1073,2024,GT,RCB,RCB,"Narendra Modi Stadium, Ahmedabad"
-1074,2024,LSG,RR,RR,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1075,2024,DC,MI,DC,"Arun Jaitley Stadium, Delhi"
-1076,2024,KKR,PBKS,PBKS,"Eden Gardens, Kolkata"
-1077,2024,RCB,SRH,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1078,2024,DC,GT,DC,"Arun Jaitley Stadium, Delhi"
-1079,2024,DC,RR,DC,"Arun Jaitley Stadium, Delhi"
-1080,2024,LSG,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1081,2024,RCB,PBKS,RCB,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
-1082,2024,GT,CSK,GT,"Narendra Modi Stadium, Ahmedabad"
-1083,2024,KKR,MI,KKR,"Eden Gardens, Kolkata"
-1084,2024,RR,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1085,2024,RCB,DC,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1086,2024,DC,LSG,DC,"Arun Jaitley Stadium, Delhi"
-1087,2024,RR,PBKS,PBKS,"Barsapara Cricket Stadium, Guwahati"
-1088,2024,LSG,MI,LSG,"Wankhede Stadium, Mumbai"
-1089,2024,RCB,CSK,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1090,2024,PBKS,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1091,2024,SRH,KKR,KKR,"Narendra Modi Stadium, Ahmedabad"
-1092,2024,RCB,RR,RR,"Narendra Modi Stadium, Ahmedabad"
-1093,2024,SRH,RR,SRH,"MA Chidambaram Stadium, Chepauk, Chennai"
-1094,2024,SRH,MI,MI,"Wankhede Stadium, Mumbai"
-1095,2024,SRH,KKR,KKR,"MA Chidambaram Stadium, Chepauk, Chennai"
-1096,2025,SRH,MI,MI,"Wankhede Stadium, Mumbai"
-1097,2025,DC,GT,GT,"Narendra Modi Stadium, Ahmedabad"
-1098,2025,RCB,PBKS,PBKS,"M Chinnaswamy Stadium, Bengaluru"
-1099,2025,PBKS,RCB,RCB,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1100,2025,CSK,MI,MI,"Wankhede Stadium, Mumbai"
-1101,2025,GT,KKR,GT,"Eden Gardens, Kolkata"
-1102,2025,LSG,RR,LSG,"Sawai Mansingh Stadium, Jaipur"
-1103,2025,SRH,MI,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1104,2025,RCB,RR,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1105,2025,CSK,SRH,SRH,"MA Chidambaram Stadium, Chepauk, Chennai"
-1106,2025,PBKS,KKR,No Result,"Eden Gardens, Kolkata"
-1107,2025,MI,LSG,MI,"Wankhede Stadium, Mumbai"
-1108,2025,DC,RCB,RCB,"Arun Jaitley Stadium, Delhi"
-1109,2025,GT,RR,RR,"Sawai Mansingh Stadium, Jaipur"
-1110,2025,LSG,DC,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1111,2025,KKR,RCB,RCB,"Eden Gardens, Kolkata"
-1112,2025,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1113,2025,MI,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1114,2025,LSG,DC,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam"
-1115,2025,PBKS,GT,PBKS,"Narendra Modi Stadium, Ahmedabad"
-1116,2025,RR,KKR,KKR,"Barsapara Cricket Stadium, Guwahati"
-1117,2025,SRH,LSG,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1118,2025,RCB,CSK,RCB,"MA Chidambaram Stadium, Chepauk, Chennai"
-1119,2025,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad"
-1120,2025,SRH,DC,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam"
-1121,2025,RR,CSK,RR,"Barsapara Cricket Stadium, Guwahati"
-1122,2025,KKR,MI,MI,"Wankhede Stadium, Mumbai"
-1123,2025,LSG,PBKS,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1124,2025,RCB,GT,GT,"M Chinnaswamy Stadium, Bengaluru"
-1125,2025,KKR,SRH,KKR,"Eden Gardens, Kolkata"
-1126,2025,LSG,MI,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1127,2025,DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai"
-1128,2025,RR,PBKS,RR,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1129,2025,LSG,KKR,LSG,"Eden Gardens, Kolkata"
-1130,2025,SRH,GT,GT,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1131,2025,RCB,MI,RCB,"Wankhede Stadium, Mumbai"
-1132,2025,PBKS,CSK,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1133,2025,GT,RR,GT,"Narendra Modi Stadium, Ahmedabad"
-1134,2025,RCB,DC,DC,"M Chinnaswamy Stadium, Bengaluru"
-1135,2025,CSK,KKR,KKR,"MA Chidambaram Stadium, Chepauk, Chennai"
-1136,2025,GT,LSG,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1137,2025,PBKS,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1138,2025,RR,RCB,RCB,"Sawai Mansingh Stadium, Jaipur"
-1139,2025,MI,DC,MI,"Arun Jaitley Stadium, Delhi"
-1140,2025,LSG,CSK,CSK,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1141,2025,PBKS,KKR,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1142,2025,DC,RR,No Result,"Arun Jaitley Stadium, Delhi"
-1143,2025,SRH,RCB,SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1144,2025,CSK,GT,CSK,"Narendra Modi Stadium, Ahmedabad"
-1145,2025,SRH,KKR,SRH,"Arun Jaitley Stadium, Delhi"
-1146,2025,MI,PBKS,PBKS,"Sawai Mansingh Stadium, Jaipur"
-1147,2025,LSG,RCB,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1148,2025,PBKS,RCB,RCB,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1149,2025,MI,GT,MI,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
-1150,2025,MI,PBKS,PBKS,"Narendra Modi Stadium, Ahmedabad"
-1151,2025,RCB,PBKS,RCB,"Narendra Modi Stadium, Ahmedabad"
-1152,2025,PBKS,DC,DC,"Sawai Mansingh Stadium, Jaipur"
-1153,2025,PBKS,RR,PBKS,"Sawai Mansingh Stadium, Jaipur"
-1154,2025,DC,GT,GT,"Arun Jaitley Stadium, Delhi"
-1155,2025,LSG,SRH,SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1156,2025,CSK,RR,RR,"Arun Jaitley Stadium, Delhi"
-1157,2025,MI,DC,MI,"Wankhede Stadium, Mumbai"
-1158,2025,KKR,DC,KKR,"Arun Jaitley Stadium, Delhi"
-1159,2025,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai"
-1160,2025,MI,RR,MI,"Sawai Mansingh Stadium, Jaipur"
-1161,2025,GT,SRH,GT,"Narendra Modi Stadium, Ahmedabad"
-1162,2025,RCB,CSK,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1163,2025,KKR,RR,KKR,"Eden Gardens, Kolkata"
-1164,2025,PBKS,LSG,PBKS,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
-1165,2025,DC,SRH,No Result,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1166,2025,MI,GT,GT,"Wankhede Stadium, Mumbai"
-1167,2025,KKR,CSK,CSK,"Eden Gardens, Kolkata"
-1168,2025,PBKS,DC,No Result,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
-1169,2025,LSG,GT,LSG,"Narendra Modi Stadium, Ahmedabad"
-1170,2026,GT,DC,GT,"Arun Jaitley Stadium, Delhi"
-1171,2026,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1172,2026,RCB,RR,RR,"Barsapara Cricket Stadium, Guwahati"
-1173,2026,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai"
-1174,2026,RR,MI,RR,"Barsapara Cricket Stadium, Guwahati"
-1175,2026,KKR,LSG,LSG,"Eden Gardens, Kolkata"
-1176,2026,RCB,CSK,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1177,2026,SRH,KKR,SRH,"Eden Gardens, Kolkata"
-1178,2026,GT,PBKS,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
-1179,2026,MI,DC,DC,"Arun Jaitley Stadium, Delhi"
-1180,2026,RR,GT,RR,"Narendra Modi Stadium, Ahmedabad"
-1181,2026,SRH,LSG,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1182,2026,LSG,DC,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1183,2026,SRH,PBKS,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
-1184,2026,KKR,PBKS,No Result,"Eden Gardens, Kolkata"
-1185,2026,SRH,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1186,2026,KKR,MI,MI,"Wankhede Stadium, Mumbai"
-1187,2026,CSK,RR,RR,"Barsapara Cricket Stadium, Guwahati"
-1188,2026,LSG,GT,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-1189,2026,RCB,MI,RCB,"Wankhede Stadium, Mumbai"
-1190,2026,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1191,2026,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk, Chennai"
-1192,2026,LSG,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru"
-1193,2026,MI,PBKS,PBKS,"Wankhede Stadium, Mumbai"
-1194,2026,KKR,GT,GT,"Eden Gardens, Kolkata"
-1195,2026,RCB,DC,DC,"M Chinnaswamy Stadium, Bengaluru"
-1196,2026,SRH,CSK,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
-1197,2026,RR,KKR,KKR,"Sawai Mansingh Stadium, Jaipur"
-1198,2026,PBKS,LSG,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
-1199,2026,MI,GT,MI,"Narendra Modi Stadium, Ahmedabad"
-1200,2026,SRH,DC,SRH,"Rajiv Gandhi International Cricket Stadium, Uppal, Hyderabad"
-1201,2026,RR,LSG,RR,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow
+match_id,season,team1,team2,winner,venue,date,
+1,2008,RR,RCB,RR,Sawai Mansingh Stadium,,
+2,2008,DCH,MI,MI,"Rajiv Gandhi International Stadium, Uppal",,
+3,2008,KKR,CSK,CSK,Eden Gardens,,
+4,2008,RCB,DC,DC,M Chinnaswamy Stadium,,
+5,2008,KKR,RR,RR,Eden Gardens,,
+6,2008,MI,PBKS,PBKS,Wankhede Stadium,,
+7,2008,CSK,RCB,RCB,"MA Chidambaram Stadium, Chepauk",,
+8,2008,DC,MI,DC,Feroz Shah Kotla,,
+9,2008,CSK,RR,RR,Dr DY Patil Sports Academy,,
+10,2008,CSK,RR,RR,"MA Chidambaram Stadium, Chepauk",,
+11,2008,RCB,DCH,RCB,M Chinnaswamy Stadium,,
+12,2008,KKR,PBKS,KKR,Eden Gardens,,
+13,2008,RR,MI,RR,Sawai Mansingh Stadium,,
+14,2008,DCH,CSK,CSK,"Rajiv Gandhi International Stadium, Uppal",,
+15,2008,DC,RR,RR,Wankhede Stadium,,
+16,2008,CSK,PBKS,CSK,Wankhede Stadium,,
+17,2008,PBKS,DCH,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+18,2008,MI,KKR,MI,Wankhede Stadium,,
+19,2008,DC,DCH,DC,Feroz Shah Kotla,,
+20,2008,PBKS,RR,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+21,2008,MI,CSK,MI,Wankhede Stadium,,
+22,2008,KKR,DC,KKR,Eden Gardens,,
+23,2008,PBKS,RCB,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+24,2008,DC,PBKS,PBKS,Feroz Shah Kotla,,
+25,2008,RR,DC,RR,Sawai Mansingh Stadium,,
+26,2008,RR,CSK,RR,Sawai Mansingh Stadium,,
+27,2008,MI,DC,MI,Dr DY Patil Sports Academy,,
+28,2008,PBKS,KKR,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+29,2008,DCH,RCB,RCB,"Rajiv Gandhi International Stadium, Uppal",,
+30,2008,CSK,DC,DC,"MA Chidambaram Stadium, Chepauk",,
+31,2008,RR,KKR,RR,Sawai Mansingh Stadium,,
+32,2008,RCB,KKR,KKR,M Chinnaswamy Stadium,,
+33,2008,DC,RCB,DC,Feroz Shah Kotla,,
+34,2008,KKR,MI,MI,Eden Gardens,,
+35,2008,RCB,CSK,CSK,M Chinnaswamy Stadium,,
+36,2008,PBKS,DC,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+37,2008,MI,DCH,DCH,Dr DY Patil Sports Academy,,
+38,2008,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk",,
+39,2008,RCB,RR,RR,M Chinnaswamy Stadium,,
+40,2008,PBKS,MI,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+41,2008,DCH,RR,RR,"Rajiv Gandhi International Stadium, Uppal",,
+42,2008,CSK,MI,CSK,"MA Chidambaram Stadium, Chepauk",,
+43,2008,DCH,DC,DC,"Rajiv Gandhi International Stadium, Uppal",,
+44,2008,RR,PBKS,RR,Sawai Mansingh Stadium,,
+45,2008,KKR,DCH,KKR,Eden Gardens,,
+46,2008,MI,RCB,RCB,Wankhede Stadium,,
+47,2008,DC,RR,DC,Feroz Shah Kotla,,
+48,2008,PBKS,CSK,CSK,"Punjab Cricket Association Stadium, Mohali",,
+49,2008,DCH,KKR,KKR,"Rajiv Gandhi International Stadium, Uppal",,
+50,2008,CSK,PBKS,CSK,"MA Chidambaram Stadium, Chepauk",,
+51,2008,RCB,MI,MI,M Chinnaswamy Stadium,,
+52,2008,RR,DCH,RR,Sawai Mansingh Stadium,,
+53,2008,KKR,RCB,KKR,Eden Gardens,,
+54,2008,DC,CSK,CSK,Feroz Shah Kotla,,
+55,2008,MI,RR,MI,Dr DY Patil Sports Academy,,
+56,2008,CSK,DCH,DCH,"MA Chidambaram Stadium, Chepauk",,
+57,2008,RCB,PBKS,PBKS,M Chinnaswamy Stadium,,
+58,2008,DCH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Uppal",,
+59,2009,RR,RCB,RCB,Sawai Mansingh Stadium,,
+60,2009,MI,DC,MI,Brabourne Stadium,,
+61,2009,PBKS,DCH,DCH,Himachal Pradesh Cricket Association Stadium,,
+62,2009,DCH,RR,RR,"Vidarbha Cricket Association Stadium, Jamtha",,
+63,2009,CSK,MI,CSK,"MA Chidambaram Stadium, Chepauk",,
+64,2009,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk",,
+65,2009,DC,DCH,DCH,SuperSport Park,,
+66,2009,RCB,DCH,RCB,SuperSport Park,,
+67,2009,DC,MI,DC,SuperSport Park,,
+68,2009,CSK,PBKS,CSK,Kingsmead,,
+69,2009,KKR,RR,KKR,Kingsmead,,
+70,2009,RCB,DC,RCB,New Wanderers Stadium,,
+71,2009,CSK,KKR,KKR,SuperSport Park,,
+72,2009,DC,RR,DC,OUTsurance Oval,,
+73,2009,DCH,PBKS,PBKS,New Wanderers Stadium,,
+74,2009,DCH,KKR,DCH,New Wanderers Stadium,,
+75,2009,CSK,MI,CSK,St George's Park,,
+76,2009,DC,PBKS,PBKS,OUTsurance Oval,,
+77,2009,MI,RR,RR,Kingsmead,,
+78,2009,RCB,CSK,RCB,Kingsmead,,
+79,2009,DCH,DC,DC,Kingsmead,,
+80,2009,PBKS,MI,MI,SuperSport Park,,
+81,2009,MI,RCB,RCB,Brabourne Stadium,,
+82,2009,RR,KKR,RR,"Sardar Patel Stadium, Motera",,
+83,2009,DCH,PBKS,DCH,Barabati Stadium,,
+84,2009,DC,CSK,CSK,Feroz Shah Kotla,,
+85,2009,RCB,RR,RCB,M Chinnaswamy Stadium,,
+86,2009,DC,MI,MI,Feroz Shah Kotla,,
+87,2009,KKR,CSK,CSK,Eden Gardens,,
+88,2009,RCB,PBKS,RCB,M Chinnaswamy Stadium,,
+89,2009,RR,DC,DC,"Sardar Patel Stadium, Motera",,
+90,2009,CSK,DC,CSK,New Wanderers Stadium,,
+91,2009,RCB,MI,RCB,New Wanderers Stadium,,
+92,2009,PBKS,KKR,PBKS,St George's Park,,
+93,2009,PBKS,RR,RR,Kingsmead,,
+94,2009,DC,KKR,DC,Kingsmead,,
+95,2009,DCH,MI,DCH,SuperSport Park,,
+96,2009,CSK,DC,DC,"MA Chidambaram Stadium, Chepauk",,
+97,2009,RCB,CSK,RCB,New Wanderers Stadium,,
+98,2009,RCB,DCH,DCH,New Wanderers Stadium,,
+99,2009,DCH,KKR,KKR,Dr DY Patil Sports Academy,,
+100,2009,MI,RR,MI,Brabourne Stadium,,
+101,2009,PBKS,DC,DC,"Punjab Cricket Association Stadium, Mohali",,
+102,2009,KKR,RCB,KKR,Eden Gardens,,
+103,2009,CSK,DCH,DCH,"MA Chidambaram Stadium, Chepauk",,
+104,2009,RR,PBKS,RR,Sawai Mansingh Stadium,,
+105,2009,KKR,DC,KKR,Eden Gardens,,
+106,2009,RCB,DCH,DCH,M Chinnaswamy Stadium,,
+107,2009,PBKS,MI,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+108,2009,DCH,CSK,DCH,"Vidarbha Cricket Association Stadium, Jamtha",,
+109,2009,RCB,KKR,RCB,M Chinnaswamy Stadium,,
+110,2009,DC,PBKS,PBKS,Feroz Shah Kotla,,
+111,2009,RR,MI,MI,Sawai Mansingh Stadium,,
+112,2009,DCH,RCB,DCH,"Vidarbha Cricket Association Stadium, Jamtha",,
+113,2009,DCH,DC,DCH,Barabati Stadium,,
+114,2009,CSK,PBKS,No Result,"MA Chidambaram Stadium, Chepauk",,
+115,2009,MI,KKR,MI,Brabourne Stadium,,
+116,2009,RCB,CSK,RCB,M Chinnaswamy Stadium,,
+117,2009,PBKS,RR,RR,"Punjab Cricket Association Stadium, Mohali",,
+118,2009,CSK,MI,MI,"Brabourne Stadium, Mumbai",,
+119,2009,RR,DCH,RR,"Sardar Patel Stadium, Motera",,
+120,2009,PBKS,KKR,KKR,"Punjab Cricket Association Stadium, Mohali",,
+121,2009,RCB,DC,DC,M Chinnaswamy Stadium,,
+122,2009,RR,CSK,RR,"Sardar Patel Stadium, Motera",,
+123,2009,DCH,MI,MI,Dr DY Patil Sports Academy,,
+124,2009,DC,KKR,DC,Feroz Shah Kotla,,
+125,2009,MI,PBKS,MI,Brabourne Stadium,,
+126,2009,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk",,
+127,2009,DC,RR,DC,Feroz Shah Kotla,,
+128,2009,KKR,DCH,KKR,Eden Gardens,,
+129,2009,DCH,KKR,DCH,Newlands,,
+130,2009,CSK,MI,MI,Newlands,,
+131,2009,RCB,RR,RCB,Newlands,,
+132,2009,DC,PBKS,DC,Newlands,,
+133,2009,PBKS,KKR,KKR,Kingsmead,,
+134,2009,RCB,CSK,CSK,St George's Park,,
+135,2009,RCB,DCH,DCH,Newlands,,
+136,2009,RCB,RR,RR,SuperSport Park,,
+137,2009,CSK,PBKS,CSK,SuperSport Park,,
+138,2009,DC,MI,DC,Buffalo Park,,
+139,2009,DCH,PBKS,PBKS,De Beers Diamond Oval,,
+140,2009,CSK,RR,CSK,De Beers Diamond Oval,,
+141,2009,RCB,MI,MI,St George's Park,,
+142,2009,DC,KKR,DC,New Wanderers Stadium,,
+143,2009,DCH,RR,DCH,De Beers Diamond Oval,,
+144,2009,RCB,KKR,RCB,SuperSport Park,,
+145,2009,CSK,DC,DC,Kingsmead,,
+146,2009,KKR,RR,No Result,Newlands,,
+147,2009,RCB,PBKS,PBKS,Kingsmead,,
+148,2009,DCH,MI,DCH,Kingsmead,,
+149,2009,RCB,DC,DC,St George's Park,,
+150,2009,PBKS,RR,PBKS,Newlands,,
+151,2009,CSK,DCH,DCH,Kingsmead,,
+152,2009,KKR,MI,MI,St George's Park,,
+153,2009,DC,RR,RR,SuperSport Park,,
+154,2009,RCB,KKR,RCB,Kingsmead,,
+155,2009,PBKS,MI,PBKS,Kingsmead,,
+156,2009,DCH,DC,DC,SuperSport Park,,
+157,2009,CSK,RR,CSK,SuperSport Park,,
+158,2009,KKR,MI,MI,Buffalo Park,,
+159,2009,RCB,PBKS,RCB,Kingsmead,,
+160,2009,DCH,RR,RR,St George's Park,,
+161,2009,CSK,DCH,CSK,Buffalo Park,,
+162,2009,KKR,PBKS,PBKS,Eden Gardens,,
+163,2009,RCB,MI,MI,M Chinnaswamy Stadium,,
+164,2009,RCB,DCH,RCB,Dr DY Patil Sports Academy,,
+165,2009,KKR,MI,KKR,Eden Gardens,,
+166,2009,DC,DCH,DCH,Feroz Shah Kotla,,
+167,2009,CSK,DCH,CSK,Dr DY Patil Sports Academy,,
+168,2009,RCB,MI,MI,Dr DY Patil Sports Academy,,
+169,2009,CSK,MI,CSK,Dr DY Patil Sports Academy,,
+170,2009,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk",,
+171,2009,PBKS,RCB,RCB,"Punjab Cricket Association Stadium, Mohali",,
+172,2009,DC,RCB,DC,Feroz Shah Kotla,,
+173,2009,MI,DCH,MI,Brabourne Stadium,,
+174,2009,KKR,RR,KKR,Eden Gardens,,
+175,2009,PBKS,CSK,CSK,Himachal Pradesh Cricket Association Stadium,,
+176,2011,Kochi Tuskers Kerala,RCB,RCB,Nehru Stadium,,
+177,2011,Kochi Tuskers Kerala,CSK,Kochi Tuskers Kerala,Nehru Stadium,,
+178,2011,MI,PWI,MI,Wankhede Stadium,,
+179,2011,PWI,PBKS,PWI,Dr DY Patil Sports Academy,,
+180,2011,DC,MI,MI,Feroz Shah Kotla,,
+181,2011,RR,DC,RR,Sawai Mansingh Stadium,,
+182,2011,RCB,MI,MI,M Chinnaswamy Stadium,,
+183,2011,PBKS,CSK,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+184,2011,KKR,DCH,KKR,Eden Gardens,,
+185,2011,DCH,RCB,DCH,"Rajiv Gandhi International Stadium, Uppal",,
+186,2011,RR,KKR,KKR,Sawai Mansingh Stadium,,
+187,2011,MI,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Wankhede Stadium,,
+188,2011,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk",,
+189,2011,DCH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Uppal",,
+190,2011,PWI,DC,DC,Dr DY Patil Sports Academy,,
+191,2011,KKR,RR,KKR,Eden Gardens,,
+192,2011,PWI,Kochi Tuskers Kerala,PWI,Dr DY Patil Sports Academy,,
+193,2011,RCB,PWI,RCB,M Chinnaswamy Stadium,,
+194,2011,RR,MI,RR,Sawai Mansingh Stadium,,
+195,2011,DC,KKR,KKR,Feroz Shah Kotla,,
+196,2011,Kochi Tuskers Kerala,DCH,DCH,Nehru Stadium,,
+197,2011,DC,RCB,RCB,Feroz Shah Kotla,,
+198,2011,PWI,CSK,CSK,Dr DY Patil Sports Academy,,
+199,2011,CSK,PWI,CSK,"MA Chidambaram Stadium, Chepauk",,
+200,2011,RR,Kochi Tuskers Kerala,RR,Sawai Mansingh Stadium,,
+201,2011,MI,CSK,MI,Wankhede Stadium,,
+202,2011,DCH,MI,MI,"Rajiv Gandhi International Stadium, Uppal",,
+203,2011,DC,PBKS,DC,Feroz Shah Kotla,,
+204,2011,KKR,RCB,RCB,Eden Gardens,,
+205,2011,KKR,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Eden Gardens,,
+206,2011,PBKS,RR,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+207,2011,KKR,PBKS,KKR,Eden Gardens,,
+208,2011,RR,PWI,RR,Sawai Mansingh Stadium,,
+209,2011,DCH,PWI,PWI,"Rajiv Gandhi International Stadium, Uppal",,
+210,2011,PBKS,MI,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+211,2011,CSK,DCH,CSK,"MA Chidambaram Stadium, Chepauk",,
+212,2011,MI,PBKS,MI,Wankhede Stadium,,
+213,2011,DC,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Feroz Shah Kotla,,
+214,2011,DCH,KKR,KKR,"Rajiv Gandhi International Stadium, Uppal",,
+215,2011,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk",,
+216,2011,PWI,MI,MI,Dr DY Patil Sports Academy,,
+217,2011,Kochi Tuskers Kerala,KKR,Kochi Tuskers Kerala,Nehru Stadium,,
+218,2011,DCH,DC,DC,"Rajiv Gandhi International Stadium, Uppal",,
+219,2011,RCB,PBKS,RCB,M Chinnaswamy Stadium,,
+220,2011,KKR,CSK,KKR,Eden Gardens,,
+221,2011,MI,DC,MI,Wankhede Stadium,,
+222,2011,RCB,Kochi Tuskers Kerala,RCB,M Chinnaswamy Stadium,,
+223,2011,PBKS,PWI,PWI,"Punjab Cricket Association Stadium, Mohali",,
+224,2011,DC,DCH,DCH,Feroz Shah Kotla,,
+225,2011,Kochi Tuskers Kerala,RR,Kochi Tuskers Kerala,Holkar Cricket Stadium,,
+226,2011,PBKS,DC,PBKS,Himachal Pradesh Cricket Association Stadium,,
+227,2011,MI,DCH,DCH,Wankhede Stadium,,
+228,2011,RCB,KKR,RCB,M Chinnaswamy Stadium,,
+229,2011,Kochi Tuskers Kerala,PBKS,PBKS,Holkar Cricket Stadium,,
+230,2011,RR,CSK,CSK,Sawai Mansingh Stadium,,
+231,2011,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk",,
+232,2011,RCB,MI,RCB,"MA Chidambaram Stadium, Chepauk",,
+233,2011,MI,KKR,MI,Wankhede Stadium,,
+234,2011,RCB,CSK,CSK,Wankhede Stadium,,
+235,2011,KKR,MI,MI,Eden Gardens,,
+236,2011,RCB,CSK,RCB,M Chinnaswamy Stadium,,
+237,2011,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk",,
+238,2011,RR,RCB,RCB,Sawai Mansingh Stadium,,
+239,2011,MI,RR,RR,Wankhede Stadium,,
+240,2011,Kochi Tuskers Kerala,DC,DC,Nehru Stadium,,
+241,2011,PWI,KKR,KKR,Dr DY Patil Sports Academy,,
+242,2011,PWI,DCH,DCH,Dr DY Patil Sports Academy,,
+243,2011,CSK,Kochi Tuskers Kerala,CSK,"MA Chidambaram Stadium, Chepauk",,
+244,2011,PBKS,RCB,PBKS,Himachal Pradesh Cricket Association Stadium,,
+245,2011,PBKS,DCH,DCH,Himachal Pradesh Cricket Association Stadium,,
+246,2011,DCH,RR,RR,"Rajiv Gandhi International Stadium, Uppal",,
+247,2011,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk",,
+248,2011,DC,PWI,No Result,Feroz Shah Kotla,,
+249,2012,CSK,PWI,CSK,"MA Chidambaram Stadium, Chepauk",,
+250,2012,DCH,DC,DC,"Rajiv Gandhi International Stadium, Uppal",,
+251,2012,PBKS,KKR,KKR,"Punjab Cricket Association Stadium, Mohali",,
+252,2012,RCB,PWI,RCB,M Chinnaswamy Stadium,,
+253,2012,RR,DCH,RR,Sawai Mansingh Stadium,,
+254,2012,MI,DC,DC,Wankhede Stadium,,
+255,2012,RCB,RR,RR,M Chinnaswamy Stadium,,
+256,2012,KKR,PBKS,PBKS,Eden Gardens,,
+257,2012,PWI,CSK,PWI,Subrata Roy Sahara Stadium,,
+258,2012,DC,DCH,DC,Feroz Shah Kotla,,
+259,2012,KKR,RR,KKR,Eden Gardens,,
+260,2012,PBKS,PWI,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+261,2012,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk",,
+262,2012,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk",,
+263,2012,KKR,MI,MI,Eden Gardens,,
+264,2012,PWI,RCB,RCB,Subrata Roy Sahara Stadium,,
+265,2012,RR,CSK,CSK,Sawai Mansingh Stadium,,
+266,2012,MI,RCB,RCB,Wankhede Stadium,,
+267,2012,DCH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Uppal",,
+268,2012,PWI,RR,RR,Subrata Roy Sahara Stadium,,
+269,2012,DC,KKR,KKR,Feroz Shah Kotla,,
+270,2012,RCB,DCH,RCB,M Chinnaswamy Stadium,,
+271,2012,MI,CSK,MI,Wankhede Stadium,,
+272,2012,PBKS,RR,RR,"Punjab Cricket Association Stadium, Mohali",,
+273,2012,KKR,PWI,KKR,Eden Gardens,,
+274,2012,CSK,DCH,CSK,"MA Chidambaram Stadium, Chepauk",,
+275,2012,PWI,MI,MI,Subrata Roy Sahara Stadium,,
+276,2012,RCB,PBKS,PBKS,M Chinnaswamy Stadium,,
+277,2012,RCB,KKR,KKR,M Chinnaswamy Stadium,,
+278,2012,DC,CSK,CSK,"MA Chidambaram Stadium, Chepauk",,
+279,2012,CSK,MI,CSK,M Chinnaswamy Stadium,,
+280,2012,DC,KKR,KKR,Subrata Roy Sahara Stadium,,
+281,2012,MI,KKR,KKR,Wankhede Stadium,,
+282,2012,RR,MI,MI,Sawai Mansingh Stadium,,
+283,2012,DCH,RCB,DCH,"Rajiv Gandhi International Stadium, Uppal",,
+284,2012,PWI,KKR,KKR,Subrata Roy Sahara Stadium,,
+285,2012,PBKS,DC,DC,Himachal Pradesh Cricket Association Stadium,,
+286,2012,DCH,RR,DCH,"Rajiv Gandhi International Stadium, Uppal",,
+287,2012,DC,RCB,RCB,Feroz Shah Kotla,,
+288,2012,PBKS,CSK,PBKS,Himachal Pradesh Cricket Association Stadium,,
+289,2012,PBKS,DCH,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+290,2012,DC,PBKS,DC,Feroz Shah Kotla,,
+291,2012,KKR,CSK,CSK,Eden Gardens,,
+292,2012,RCB,MI,MI,M Chinnaswamy Stadium,,
+293,2012,RR,DC,DC,Sawai Mansingh Stadium,,
+294,2012,PBKS,RCB,RCB,"Punjab Cricket Association Stadium, Mohali",,
+295,2012,RR,PWI,RR,Sawai Mansingh Stadium,,
+296,2012,MI,PBKS,PBKS,Wankhede Stadium,,
+297,2012,DC,PWI,PWI,Feroz Shah Kotla,,
+298,2012,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk",,
+299,2012,CSK,MI,MI,"MA Chidambaram Stadium, Chepauk",,
+300,2012,DCH,PWI,DCH,Barabati Stadium,,
+301,2012,CSK,KKR,KKR,"MA Chidambaram Stadium, Chepauk",,
+302,2012,MI,DCH,MI,Wankhede Stadium,,
+303,2012,DC,RR,DC,Feroz Shah Kotla,,
+304,2012,MI,RR,MI,Wankhede Stadium,,
+305,2012,KKR,CSK,KKR,"MA Chidambaram Stadium, Chepauk",,
+306,2012,DC,CSK,DC,Feroz Shah Kotla,,
+307,2012,DCH,MI,MI,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+308,2012,PWI,PBKS,PWI,Subrata Roy Sahara Stadium,,
+309,2012,RR,KKR,RR,Sawai Mansingh Stadium,,
+310,2012,DCH,CSK,CSK,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+311,2012,RCB,DC,RCB,M Chinnaswamy Stadium,,
+312,2012,RR,PBKS,RR,Sawai Mansingh Stadium,,
+313,2012,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk",,
+314,2012,DC,MI,DC,Feroz Shah Kotla,,
+315,2012,PWI,DCH,DCH,Subrata Roy Sahara Stadium,,
+316,2012,PBKS,MI,MI,"Punjab Cricket Association Stadium, Mohali",,
+317,2012,PWI,DC,DC,Subrata Roy Sahara Stadium,,
+318,2012,KKR,DC,DC,Eden Gardens,,
+319,2012,MI,PWI,PWI,Wankhede Stadium,,
+320,2012,KKR,RCB,KKR,Eden Gardens,,
+321,2012,DCH,KKR,KKR,Barabati Stadium,,
+322,2012,RR,RCB,RCB,Sawai Mansingh Stadium,,
+323,2013,KKR,PWI,PWI,JSCA International Stadium Complex,,
+324,2013,KKR,CSK,CSK,Eden Gardens,,
+325,2013,PBKS,PWI,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+326,2013,CSK,PWI,PWI,"MA Chidambaram Stadium, Chepauk",,
+327,2013,PBKS,KKR,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+328,2013,PBKS,SRH,SRH,"Punjab Cricket Association Stadium, Mohali",,
+329,2013,SRH,KKR,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+330,2013,DC,PBKS,PBKS,Feroz Shah Kotla,,
+331,2013,RR,PWI,RR,Sawai Mansingh Stadium,,
+332,2013,RCB,SRH,RCB,M Chinnaswamy Stadium,,
+333,2013,SRH,CSK,CSK,"Rajiv Gandhi International Stadium, Uppal",,
+334,2013,MI,KKR,MI,Wankhede Stadium,,
+335,2013,CSK,SRH,CSK,"MA Chidambaram Stadium, Chepauk",,
+336,2013,KKR,SRH,KKR,Eden Gardens,,
+337,2013,SRH,DC,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+338,2013,KKR,RR,KKR,Eden Gardens,,
+339,2013,PWI,RCB,RCB,Subrata Roy Sahara Stadium,,
+340,2013,CSK,PBKS,CSK,"MA Chidambaram Stadium, Chepauk",,
+341,2013,DC,KKR,DC,Shaheed Veer Narayan Singh International Stadium,,
+342,2013,SRH,MI,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+343,2013,PWI,CSK,CSK,Subrata Roy Sahara Stadium,,
+344,2013,MI,PBKS,MI,Wankhede Stadium,,
+345,2013,RR,SRH,RR,Feroz Shah Kotla,,
+346,2013,CSK,MI,CSK,Feroz Shah Kotla,,
+347,2013,CSK,MI,MI,Eden Gardens,,
+348,2013,MI,RR,MI,Eden Gardens,,
+349,2013,RCB,PBKS,PBKS,M Chinnaswamy Stadium,,
+350,2013,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk",,
+351,2013,RCB,PWI,RCB,M Chinnaswamy Stadium,,
+352,2013,DC,MI,DC,Feroz Shah Kotla,,
+353,2013,RR,PBKS,RR,Sawai Mansingh Stadium,,
+354,2013,PWI,SRH,SRH,Maharashtra Cricket Association Stadium,,
+355,2013,DC,CSK,CSK,Feroz Shah Kotla,,
+356,2013,RCB,DC,No Result,M Chinnaswamy Stadium,,
+357,2013,RR,MI,RR,Sawai Mansingh Stadium,,
+358,2013,PBKS,DC,PBKS,Himachal Pradesh Cricket Association Stadium,,
+359,2013,PWI,MI,MI,Subrata Roy Sahara Stadium,,
+360,2013,SRH,RCB,No Result,"Rajiv Gandhi International Stadium, Uppal",,
+361,2013,SRH,PWI,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+362,2013,MI,PWI,MI,Wankhede Stadium,,
+363,2013,PWI,RR,PWI,Subrata Roy Sahara Stadium,,
+364,2013,DC,SRH,SRH,Feroz Shah Kotla,,
+365,2013,PBKS,CSK,CSK,"Punjab Cricket Association Stadium, Mohali",,
+366,2013,MI,DC,MI,Wankhede Stadium,,
+367,2013,RR,KKR,RR,Sawai Mansingh Stadium,,
+368,2013,RCB,KKR,RCB,M Chinnaswamy Stadium,,
+369,2013,KKR,DC,KKR,Eden Gardens,,
+370,2013,PWI,PBKS,PBKS,Subrata Roy Sahara Stadium,,
+371,2013,DC,RR,RR,Feroz Shah Kotla,,
+372,2013,CSK,MI,MI,"MA Chidambaram Stadium, Chepauk",,
+373,2013,RCB,MI,RCB,M Chinnaswamy Stadium,,
+374,2013,RCB,RR,RCB,M Chinnaswamy Stadium,,
+375,2013,SRH,PBKS,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+376,2013,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk",,
+377,2013,RR,DC,RR,Sawai Mansingh Stadium,,
+378,2013,MI,CSK,MI,Wankhede Stadium,,
+379,2013,MI,RCB,MI,Wankhede Stadium,,
+380,2013,RR,RCB,RR,Sawai Mansingh Stadium,,
+381,2013,KKR,PBKS,KKR,Eden Gardens,,
+382,2013,RR,SRH,RR,Sawai Mansingh Stadium,,
+383,2013,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk",,
+384,2013,DC,PWI,DC,Shaheed Veer Narayan Singh International Stadium,,
+385,2013,KKR,MI,MI,Eden Gardens,,
+386,2013,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk",,
+387,2013,MI,RR,MI,Wankhede Stadium,,
+388,2013,PBKS,RCB,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+389,2013,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+390,2013,PBKS,MI,PBKS,Himachal Pradesh Cricket Association Stadium,,
+391,2013,PWI,DC,PWI,Subrata Roy Sahara Stadium,,
+392,2013,RCB,CSK,RCB,M Chinnaswamy Stadium,,
+393,2013,DC,RCB,RCB,Feroz Shah Kotla,,
+394,2013,PWI,KKR,KKR,Subrata Roy Sahara Stadium,,
+395,2013,RR,CSK,RR,Sawai Mansingh Stadium,,
+396,2013,KKR,RCB,KKR,JSCA International Stadium Complex,,
+397,2013,PBKS,RR,RR,"Punjab Cricket Association Stadium, Mohali",,
+398,2013,MI,SRH,MI,Wankhede Stadium,,
+399,2014,SRH,RR,RR,Sheikh Zayed Stadium,,
+400,2014,PBKS,CSK,PBKS,Barabati Stadium,,
+401,2014,CSK,KKR,CSK,JSCA International Stadium Complex,,
+402,2014,MI,PBKS,MI,Wankhede Stadium,,
+403,2014,DC,RR,RR,Feroz Shah Kotla,,
+404,2014,RCB,SRH,RCB,M Chinnaswamy Stadium,,
+405,2014,DC,CSK,CSK,Feroz Shah Kotla,,
+406,2014,RR,KKR,RR,"Sardar Patel Stadium, Motera",,
+407,2014,MI,RCB,MI,Wankhede Stadium,,
+408,2014,DC,KKR,KKR,Feroz Shah Kotla,,
+409,2014,MI,SRH,SRH,Dubai International Cricket Stadium,,
+410,2014,DC,PBKS,PBKS,Feroz Shah Kotla,,
+411,2014,SRH,RCB,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+412,2014,KKR,CSK,KKR,Eden Gardens,,
+413,2014,PBKS,MI,MI,"Punjab Cricket Association Stadium, Mohali",,
+414,2014,KKR,RCB,KKR,Eden Gardens,,
+415,2014,CSK,SRH,SRH,JSCA International Stadium Complex,,
+416,2014,MI,DC,MI,Wankhede Stadium,,
+417,2014,MI,RR,MI,Wankhede Stadium,,
+418,2014,RCB,CSK,CSK,M Chinnaswamy Stadium,,
+419,2014,KKR,SRH,KKR,Eden Gardens,,
+420,2014,PBKS,DC,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+421,2014,CSK,MI,CSK,Brabourne Stadium,,
+422,2014,PBKS,KKR,KKR,Eden Gardens,,
+423,2014,CSK,PBKS,PBKS,Wankhede Stadium,,
+424,2014,KKR,PBKS,KKR,M Chinnaswamy Stadium,,
+425,2014,SRH,MI,MI,"Rajiv Gandhi International Stadium, Uppal",,
+426,2014,PBKS,RR,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+427,2014,RR,SRH,SRH,"Sardar Patel Stadium, Motera",,
+428,2014,RCB,PBKS,PBKS,M Chinnaswamy Stadium,,
+429,2014,DC,SRH,SRH,Feroz Shah Kotla,,
+430,2014,MI,CSK,CSK,Wankhede Stadium,,
+431,2014,PBKS,KKR,KKR,Barabati Stadium,,
+432,2014,RCB,RR,RR,M Chinnaswamy Stadium,,
+433,2014,KKR,MI,KKR,Barabati Stadium,,
+434,2014,CSK,RR,CSK,JSCA International Stadium Complex,,
+435,2014,RCB,DC,RCB,M Chinnaswamy Stadium,,
+436,2014,SRH,PBKS,PBKS,"Rajiv Gandhi International Stadium, Uppal",,
+437,2014,CSK,RCB,RCB,JSCA International Stadium Complex,,
+438,2014,RR,DC,RR,"Sardar Patel Stadium, Motera",,
+439,2014,SRH,KKR,KKR,"Rajiv Gandhi International Stadium, Uppal",,
+440,2014,RR,MI,MI,"Sardar Patel Stadium, Motera",,
+441,2014,SRH,DC,SRH,Dubai International Cricket Stadium,,
+442,2014,CSK,MI,CSK,Dubai International Cricket Stadium,,
+443,2014,RR,RCB,RR,Sheikh Zayed Stadium,,
+444,2014,KKR,PBKS,PBKS,Sheikh Zayed Stadium,,
+445,2014,DC,MI,DC,Sharjah Cricket Stadium,,
+446,2014,SRH,CSK,CSK,Sharjah Cricket Stadium,,
+447,2014,PBKS,RCB,PBKS,Dubai International Cricket Stadium,,
+448,2014,KKR,RR,No Result,Sheikh Zayed Stadium,,
+449,2014,KKR,DC,DC,Dubai International Cricket Stadium,,
+450,2014,RCB,MI,RCB,Dubai International Cricket Stadium,,
+451,2014,MI,KKR,KKR,Sheikh Zayed Stadium,,
+452,2014,RR,CSK,CSK,Dubai International Cricket Stadium,,
+453,2014,CSK,DC,CSK,Sheikh Zayed Stadium,,
+454,2014,RR,PBKS,PBKS,Sharjah Cricket Stadium,,
+455,2014,DC,RCB,RCB,Sharjah Cricket Stadium,,
+456,2014,CSK,PBKS,PBKS,Sheikh Zayed Stadium,,
+457,2014,RCB,KKR,KKR,Sharjah Cricket Stadium,,
+458,2014,PBKS,SRH,PBKS,Sharjah Cricket Stadium,,
+459,2015,CSK,MI,MI,Wankhede Stadium,,
+460,2015,MI,SRH,MI,Wankhede Stadium,,
+461,2015,RCB,RR,RCB,Maharashtra Cricket Association Stadium,,
+462,2015,CSK,RCB,CSK,JSCA International Stadium Complex,,
+463,2015,MI,CSK,MI,Eden Gardens,,
+464,2015,RCB,PBKS,RCB,M Chinnaswamy Stadium,,
+465,2015,KKR,MI,KKR,Eden Gardens,,
+466,2015,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk",,
+467,2015,PBKS,RR,RR,Maharashtra Cricket Association Stadium,,
+468,2015,CSK,SRH,CSK,"MA Chidambaram Stadium, Chepauk",,
+469,2015,KKR,RCB,RCB,Eden Gardens,,
+470,2015,DC,RR,RR,Feroz Shah Kotla,,
+471,2015,MI,PBKS,PBKS,Wankhede Stadium,,
+472,2015,RR,MI,RR,"Sardar Patel Stadium, Motera",,
+473,2015,KKR,CSK,KKR,Eden Gardens,,
+474,2015,PBKS,DC,DC,Maharashtra Cricket Association Stadium,,
+475,2015,SRH,RR,RR,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+476,2015,MI,CSK,CSK,Wankhede Stadium,,
+477,2015,SRH,DC,DC,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+478,2015,PBKS,KKR,KKR,Maharashtra Cricket Association Stadium,,
+479,2015,RR,CSK,RR,"Sardar Patel Stadium, Motera",,
+480,2015,RCB,MI,MI,M Chinnaswamy Stadium,,
+481,2015,DC,KKR,KKR,Feroz Shah Kotla,,
+482,2015,RR,PBKS,No Result,"Sardar Patel Stadium, Motera",,
+483,2015,SRH,KKR,SRH,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+484,2015,RCB,CSK,CSK,M Chinnaswamy Stadium,,
+485,2015,DC,MI,DC,Feroz Shah Kotla,,
+486,2015,RR,RCB,RCB,"Sardar Patel Stadium, Motera",,
+487,2015,CSK,PBKS,CSK,"MA Chidambaram Stadium, Chepauk",,
+488,2015,DC,RCB,RCB,Feroz Shah Kotla,,
+489,2015,PBKS,SRH,SRH,"Punjab Cricket Association Stadium, Mohali",,
+490,2015,KKR,DC,KKR,Eden Gardens,,
+491,2015,RCB,RR,No Result,M Chinnaswamy Stadium,,
+492,2015,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk",,
+493,2015,DC,PBKS,DC,Feroz Shah Kotla,,
+494,2015,MI,RR,MI,Wankhede Stadium,,
+495,2015,RCB,KKR,RCB,M Chinnaswamy Stadium,,
+496,2015,SRH,CSK,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+497,2015,PBKS,MI,MI,"Punjab Cricket Association Stadium, Mohali",,
+498,2015,RR,DC,RR,Brabourne Stadium,,
+499,2015,CSK,RCB,CSK,"MA Chidambaram Stadium, Chepauk",,
+500,2015,KKR,SRH,KKR,Eden Gardens,,
+501,2015,MI,DC,MI,Wankhede Stadium,,
+502,2015,RCB,SRH,SRH,M Chinnaswamy Stadium,,
+503,2015,RR,SRH,SRH,Brabourne Stadium,,
+504,2015,CSK,MI,MI,"MA Chidambaram Stadium, Chepauk",,
+505,2015,KKR,PBKS,KKR,Eden Gardens,,
+506,2015,DC,SRH,SRH,Shaheed Veer Narayan Singh International Stadium,,
+507,2015,MI,RCB,RCB,Wankhede Stadium,,
+508,2015,CSK,RR,CSK,"MA Chidambaram Stadium, Chepauk",,
+509,2015,SRH,PBKS,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+510,2015,DC,CSK,DC,Shaheed Veer Narayan Singh International Stadium,,
+511,2015,PBKS,RCB,PBKS,"Punjab Cricket Association Stadium, Mohali",,
+512,2015,MI,KKR,MI,Wankhede Stadium,,
+513,2015,SRH,RCB,RCB,"Rajiv Gandhi International Stadium, Uppal",,
+514,2015,PBKS,CSK,CSK,"Punjab Cricket Association Stadium, Mohali",,
+515,2015,RR,KKR,RR,Brabourne Stadium,,
+516,2015,RCB,DC,No Result,M Chinnaswamy Stadium,,
+517,2015,SRH,MI,MI,"Rajiv Gandhi International Stadium, Uppal",,
+518,2016,RCB,SRH,SRH,M Chinnaswamy Stadium,,
+519,2016,GL,SRH,SRH,Feroz Shah Kotla,,
+520,2016,SRH,KKR,SRH,Feroz Shah Kotla,,
+521,2016,GL,RCB,RCB,M Chinnaswamy Stadium,,
+522,2016,DC,RCB,RCB,Shaheed Veer Narayan Singh International Stadium,,
+523,2016,KKR,SRH,KKR,Eden Gardens,,
+524,2016,GL,MI,GL,Green Park,,
+525,2016,RPS,PBKS,RPS,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+526,2016,DC,SRH,DC,Shaheed Veer Narayan Singh International Stadium,,
+527,2016,GL,KKR,GL,Green Park,,
+528,2016,RCB,PBKS,RCB,M Chinnaswamy Stadium,,
+529,2016,SRH,KKR,KKR,"Rajiv Gandhi International Stadium, Uppal",,
+530,2016,MI,GL,GL,Wankhede Stadium,,
+531,2016,PBKS,RPS,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+532,2016,RCB,DC,DC,M Chinnaswamy Stadium,,
+533,2016,SRH,MI,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+534,2016,RCB,SRH,RCB,M Chinnaswamy Stadium,,
+535,2016,PBKS,GL,GL,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+536,2016,KKR,DC,KKR,Eden Gardens,,
+537,2016,MI,RPS,RPS,Wankhede Stadium,,
+538,2016,GL,PBKS,PBKS,Saurashtra Cricket Association Stadium,,
+539,2016,DC,PBKS,DC,Feroz Shah Kotla,,
+540,2016,GL,RPS,GL,Saurashtra Cricket Association Stadium,,
+541,2016,KKR,MI,MI,Eden Gardens,,
+542,2016,DC,KKR,DC,Feroz Shah Kotla,,
+543,2016,SRH,RCB,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+544,2016,RPS,GL,GL,Maharashtra Cricket Association Stadium,,
+545,2016,RPS,KKR,KKR,Maharashtra Cricket Association Stadium,,
+546,2016,PBKS,MI,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+547,2016,SRH,RPS,RPS,"Rajiv Gandhi International Stadium, Uppal",,
+548,2016,DC,GL,GL,Feroz Shah Kotla,,
+549,2016,MI,KKR,MI,Wankhede Stadium,,
+550,2016,RPS,SRH,SRH,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+551,2016,PBKS,RCB,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+552,2016,KKR,GL,GL,Eden Gardens,,
+553,2016,MI,SRH,SRH,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+554,2016,PBKS,DC,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+555,2016,GL,RCB,GL,Saurashtra Cricket Association Stadium,,
+556,2016,SRH,PBKS,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+557,2016,DC,MI,DC,Feroz Shah Kotla,,
+558,2016,RPS,RCB,RCB,Maharashtra Cricket Association Stadium,,
+559,2016,GL,SRH,SRH,Saurashtra Cricket Association Stadium,,
+560,2016,MI,RCB,MI,Wankhede Stadium,,
+561,2016,PBKS,KKR,KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+562,2016,RCB,GL,RCB,M Chinnaswamy Stadium,,
+563,2016,MI,PBKS,PBKS,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+564,2016,SRH,DC,DC,"Rajiv Gandhi International Stadium, Uppal",,
+565,2016,RCB,MI,MI,M Chinnaswamy Stadium,,
+566,2016,KKR,PBKS,KKR,Eden Gardens,,
+567,2016,GL,DC,DC,Saurashtra Cricket Association Stadium,,
+568,2016,RCB,KKR,KKR,M Chinnaswamy Stadium,,
+569,2016,RPS,MI,MI,Maharashtra Cricket Association Stadium,,
+570,2016,SRH,GL,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+571,2016,RCB,RPS,RCB,M Chinnaswamy Stadium,,
+572,2016,DC,RPS,RPS,Feroz Shah Kotla,,
+573,2016,KKR,RCB,RCB,Eden Gardens,,
+574,2016,KKR,RPS,KKR,Eden Gardens,,
+575,2016,PBKS,SRH,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+576,2016,MI,DC,MI,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+577,2016,RPS,DC,RPS,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+578,2017,PBKS,RPS,PBKS,Holkar Cricket Stadium,,
+579,2017,GL,KKR,KKR,Saurashtra Cricket Association Stadium,,
+580,2017,RPS,MI,RPS,Maharashtra Cricket Association Stadium,,
+581,2017,SRH,RCB,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+582,2017,GL,RCB,RCB,Saurashtra Cricket Association Stadium,,
+583,2017,SRH,DC,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+584,2017,PBKS,MI,MI,Holkar Cricket Stadium,,
+585,2017,KKR,GL,GL,Eden Gardens,,
+586,2017,RCB,DC,RCB,M.Chinnaswamy Stadium,,
+587,2017,SRH,PBKS,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+588,2017,RCB,RPS,RPS,M Chinnaswamy Stadium,,
+589,2017,DC,KKR,KKR,Feroz Shah Kotla,,
+590,2017,KKR,PBKS,KKR,Eden Gardens,,
+591,2017,MI,SRH,MI,Wankhede Stadium,,
+592,2017,RPS,DC,DC,Maharashtra Cricket Association Stadium,,
+593,2017,MI,GL,MI,Wankhede Stadium,,
+594,2017,DC,PBKS,DC,Feroz Shah Kotla,,
+595,2017,KKR,SRH,KKR,Eden Gardens,,
+596,2017,GL,RPS,GL,Saurashtra Cricket Association Stadium,,
+597,2017,RCB,MI,MI,M Chinnaswamy Stadium,,
+598,2017,MI,RPS,RPS,Wankhede Stadium,,
+599,2017,SRH,KKR,KKR,M Chinnaswamy Stadium,,
+600,2017,MI,KKR,MI,M Chinnaswamy Stadium,,
+601,2017,MI,RPS,MI,"Rajiv Gandhi International Stadium, Uppal",,
+602,2017,PBKS,RCB,PBKS,Holkar Cricket Stadium,,
+603,2017,DC,RCB,RCB,Feroz Shah Kotla,,
+604,2017,KKR,MI,MI,Eden Gardens,,
+605,2017,RPS,PBKS,RPS,Maharashtra Cricket Association Stadium,,
+606,2017,GL,DC,DC,Green Park,,
+607,2017,MI,PBKS,PBKS,Wankhede Stadium,,
+608,2017,DC,RPS,DC,Feroz Shah Kotla,,
+609,2017,GL,SRH,SRH,Green Park,,
+610,2017,PBKS,SRH,SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+611,2017,KKR,DC,KKR,Eden Gardens,,
+612,2017,RCB,GL,GL,M Chinnaswamy Stadium,,
+613,2017,RPS,KKR,KKR,Maharashtra Cricket Association Stadium,,
+614,2017,MI,RPS,RPS,Wankhede Stadium,,
+615,2017,KKR,RCB,KKR,Eden Gardens,,
+616,2017,GL,PBKS,PBKS,Saurashtra Cricket Association Stadium,,
+617,2017,RPS,SRH,RPS,Maharashtra Cricket Association Stadium,,
+618,2017,MI,DC,MI,Wankhede Stadium,,
+619,2017,MI,KKR,MI,Wankhede Stadium,,
+620,2017,SRH,GL,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+621,2017,PBKS,KKR,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+622,2017,SRH,MI,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+623,2017,PBKS,GL,GL,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+624,2017,RCB,KKR,KKR,M Chinnaswamy Stadium,,
+625,2017,DC,MI,MI,Feroz Shah Kotla,,
+626,2017,SRH,RPS,RPS,"Rajiv Gandhi International Stadium, Uppal",,
+627,2017,RCB,PBKS,PBKS,M Chinnaswamy Stadium,,
+628,2017,DC,GL,DC,Feroz Shah Kotla,,
+629,2017,KKR,RPS,RPS,Eden Gardens,,
+630,2017,DC,SRH,DC,Feroz Shah Kotla,,
+631,2017,RPS,GL,RPS,Maharashtra Cricket Association Stadium,,
+632,2017,MI,RCB,MI,Wankhede Stadium,,
+633,2017,SRH,KKR,SRH,"Rajiv Gandhi International Stadium, Uppal",,
+634,2017,PBKS,DC,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali",,
+635,2017,GL,MI,No Result,Saurashtra Cricket Association Stadium,,
+636,2017,RPS,RCB,RPS,Maharashtra Cricket Association Stadium,,
+637,2018,RR,PBKS,PBKS,Holkar Cricket Stadium,,
+638,2018,SRH,RCB,SRH,Rajiv Gandhi International Stadium,,
+639,2018,RR,PBKS,RR,Sawai Mansingh Stadium,,
+640,2018,MI,KKR,MI,Eden Gardens,,
+641,2018,DC,SRH,SRH,Arun Jaitley Stadium,,
+642,2018,CSK,RR,RR,Sawai Mansingh Stadium,,
+643,2018,KKR,PBKS,KKR,Holkar Cricket Stadium,,
+644,2018,DC,RCB,RCB,Arun Jaitley Stadium,,
+645,2018,SRH,CSK,CSK,Maharashtra Cricket Association Stadium,,
+646,2018,MI,RR,RR,Wankhede Stadium,,
+647,2018,PBKS,RCB,RCB,Holkar Cricket Stadium,,
+648,2018,RR,KKR,KKR,Eden Gardens,,
+649,2018,MI,PBKS,MI,Wankhede Stadium,,
+650,2018,RCB,SRH,RCB,M.Chinnaswamy Stadium,,
+651,2018,DC,CSK,DC,Arun Jaitley Stadium,,
+652,2018,RR,RCB,RR,Sawai Mansingh Stadium,,
+653,2018,PBKS,DC,PBKS,Arun Jaitley Stadium,,
+654,2018,SRH,MI,SRH,Wankhede Stadium,,
+655,2018,RCB,CSK,CSK,M.Chinnaswamy Stadium,,
+656,2018,SRH,PBKS,SRH,Rajiv Gandhi International Stadium,,
+657,2018,DC,KKR,DC,Arun Jaitley Stadium,,
+658,2018,CSK,MI,MI,Maharashtra Cricket Association Stadium,,
+659,2018,SRH,RR,SRH,Sawai Mansingh Stadium,,
+660,2018,RCB,KKR,KKR,M.Chinnaswamy Stadium,,
+661,2018,CSK,DC,CSK,Maharashtra Cricket Association Stadium,,
+662,2018,MI,KKR,MI,Wankhede Stadium,,
+663,2018,RCB,CSK,CSK,Maharashtra Cricket Association Stadium,,
+664,2018,DC,SRH,SRH,Rajiv Gandhi International Stadium,,
+665,2018,CSK,KKR,KKR,Eden Gardens,,
+666,2018,DC,RR,DC,Arun Jaitley Stadium,,
+667,2018,RCB,MI,RCB,M.Chinnaswamy Stadium,,
+668,2018,PBKS,MI,MI,Holkar Cricket Stadium,,
+669,2018,KKR,RR,KKR,Eden Gardens,,
+670,2018,SRH,KKR,KKR,Rajiv Gandhi International Stadium,,
+671,2018,PBKS,CSK,CSK,Maharashtra Cricket Association Stadium,,
+672,2018,DC,MI,DC,Arun Jaitley Stadium,,
+673,2018,SRH,CSK,CSK,Wankhede Stadium,,
+674,2018,SRH,KKR,SRH,Eden Gardens,,
+675,2018,SRH,CSK,CSK,Wankhede Stadium,,
+676,2018,MI,RCB,MI,Wankhede Stadium,,
+677,2018,KKR,DC,KKR,Eden Gardens,,
+678,2018,PBKS,CSK,PBKS,Punjab Cricket Association IS Bindra Stadium,,
+679,2018,RR,RCB,RR,M.Chinnaswamy Stadium,,
+680,2018,KKR,CSK,CSK,MA Chidambaram Stadium,,
+681,2018,RR,SRH,SRH,Rajiv Gandhi International Stadium,,
+682,2018,RCB,KKR,KKR,Eden Gardens,,
+683,2018,DC,PBKS,PBKS,Punjab Cricket Association IS Bindra Stadium,,
+684,2018,MI,CSK,CSK,Wankhede Stadium,,
+685,2018,MI,RR,RR,Sawai Mansingh Stadium,,
+686,2018,CSK,SRH,CSK,Rajiv Gandhi International Stadium,,
+687,2018,DC,RCB,RCB,M.Chinnaswamy Stadium,,
+688,2018,KKR,PBKS,PBKS,Eden Gardens,,
+689,2018,CSK,RR,CSK,Maharashtra Cricket Association Stadium,,
+690,2018,PBKS,SRH,PBKS,Punjab Cricket Association IS Bindra Stadium,,
+691,2018,RR,KKR,KKR,Sawai Mansingh Stadium,,
+692,2018,RR,DC,RR,Sawai Mansingh Stadium,,
+693,2018,MI,DC,DC,Wankhede Stadium,,
+694,2018,PBKS,RCB,RCB,M.Chinnaswamy Stadium,,
+695,2018,MI,SRH,SRH,Rajiv Gandhi International Stadium,,
+696,2018,KKR,SRH,SRH,Eden Gardens,,
+697,2019,CSK,SRH,SRH,Rajiv Gandhi International Stadium,,
+698,2019,MI,CSK,MI,Rajiv Gandhi International Stadium,,
+699,2019,SRH,DC,DC,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+700,2019,DC,CSK,CSK,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,,
+701,2019,RCB,PBKS,RCB,M.Chinnaswamy Stadium,,
+702,2019,KKR,RR,RR,Eden Gardens,,
+703,2019,MI,CSK,MI,MA Chidambaram Stadium,,
+704,2019,SRH,RR,RR,Sawai Mansingh Stadium,,
+705,2019,DC,RCB,DC,Arun Jaitley Stadium,,
+706,2019,KKR,MI,KKR,Eden Gardens,,
+707,2019,SRH,PBKS,SRH,Rajiv Gandhi International Stadium,,
+708,2019,MI,PBKS,PBKS,Punjab Cricket Association IS Bindra Stadium,,
+709,2019,RCB,CSK,CSK,MA Chidambaram Stadium,,
+710,2019,RR,SRH,SRH,Rajiv Gandhi International Stadium,,
+711,2019,MI,RCB,MI,M.Chinnaswamy Stadium,,
+712,2019,KKR,PBKS,KKR,Eden Gardens,,
+713,2019,DC,CSK,CSK,Arun Jaitley Stadium,,
+714,2019,PBKS,RR,PBKS,Sawai Mansingh Stadium,,
+715,2019,DC,MI,DC,Wankhede Stadium,,
+716,2019,SRH,KKR,KKR,Eden Gardens,,
+717,2019,RCB,KKR,KKR,M.Chinnaswamy Stadium,,
+718,2019,DC,SRH,SRH,Arun Jaitley Stadium,,
+719,2019,MI,CSK,MI,Wankhede Stadium,,
+720,2019,RCB,RR,RR,Sawai Mansingh Stadium,,
+721,2019,PBKS,DC,PBKS,Punjab Cricket Association IS Bindra Stadium,,
+722,2019,CSK,RR,CSK,MA Chidambaram Stadium,,
+723,2019,SRH,RCB,SRH,Rajiv Gandhi International Stadium,,
+724,2019,CSK,PBKS,CSK,MA Chidambaram Stadium,,
+725,2019,KKR,DC,No Result,Arun Jaitley Stadium,,
+726,2019,MI,SRH,MI,Rajiv Gandhi International Stadium,,
+727,2019,RCB,DC,DC,M.Chinnaswamy Stadium,,
+728,2019,RR,KKR,KKR,Sawai Mansingh Stadium,,
+729,2019,SRH,PBKS,PBKS,Punjab Cricket Association IS Bindra Stadium,,
+730,2019,SRH,CSK,CSK,MA Chidambaram Stadium,,
+731,2019,RCB,CSK,RCB,M.Chinnaswamy Stadium,,
+732,2019,RR,DC,DC,Sawai Mansingh Stadium,,
+733,2019,PBKS,MI,MI,Wankhede Stadium,,
+734,2019,KKR,CSK,CSK,MA Chidambaram Stadium,,
+735,2019,RR,CSK,CSK,Sawai Mansingh Stadium,,
+736,2019,SRH,RCB,RCB,M.Chinnaswamy Stadium,,
+737,2019,RR,DC,DC,Arun Jaitley Stadium,,
+738,2019,PBKS,KKR,KKR,Punjab Cricket Association IS Bindra Stadium,,
+739,2019,MI,SRH,No Result,Wankhede Stadium,,
+740,2019,CSK,DC,CSK,MA Chidambaram Stadium,,
+741,2019,RCB,RR,No Result,M.Chinnaswamy Stadium,,
+742,2019,PBKS,RR,PBKS,Punjab Cricket Association IS Bindra Stadium,,
+743,2019,RCB,MI,MI,Wankhede Stadium,,
+744,2019,KKR,SRH,SRH,Rajiv Gandhi International Stadium,,
+745,2019,PBKS,DC,DC,Arun Jaitley Stadium,,
+746,2019,MI,RR,RR,Sawai Mansingh Stadium,,
+747,2019,RCB,KKR,RCB,Eden Gardens,,
+748,2019,MI,DC,MI,Arun Jaitley Stadium,,
+749,2019,CSK,MI,MI,MA Chidambaram Stadium,,
+750,2019,KKR,MI,MI,Wankhede Stadium,,
+751,2019,CSK,PBKS,PBKS,Punjab Cricket Association IS Bindra Stadium,,
+752,2019,DC,SRH,DC,Rajiv Gandhi International Stadium,,
+753,2019,KKR,CSK,CSK,Eden Gardens,,
+754,2019,PBKS,RCB,RCB,Punjab Cricket Association IS Bindra Stadium,,
+755,2019,MI,RR,RR,Wankhede Stadium,,
+756,2019,KKR,DC,DC,Eden Gardens,,
+757,2020,PBKS,CSK,CSK,Dubai International Cricket Stadium,,
+758,2020,RR,RCB,RCB,Sheikh Zayed Stadium,,
+759,2020,DC,KKR,DC,Sharjah Cricket Stadium,,
+760,2020,KKR,PBKS,PBKS,Sharjah Cricket Stadium,,
+761,2020,CSK,DC,DC,Sharjah Cricket Stadium,,
+762,2020,DC,RCB,DC,Dubai International Cricket Stadium,,
+763,2020,RR,SRH,SRH,Dubai International Cricket Stadium,,
+764,2020,RCB,DC,DC,Sheikh Zayed Stadium,,
+765,2020,KKR,SRH,No Result,Sheikh Zayed Stadium,,
+766,2020,MI,RR,MI,Sheikh Zayed Stadium,,
+767,2020,PBKS,RCB,PBKS,Dubai International Cricket Stadium,,
+768,2020,KKR,RR,KKR,Dubai International Cricket Stadium,,
+769,2020,DC,RR,DC,Sharjah Cricket Stadium,,
+770,2020,MI,PBKS,MI,Sheikh Zayed Stadium,,
+771,2020,RCB,SRH,SRH,Sharjah Cricket Stadium,,
+772,2020,KKR,CSK,KKR,Sheikh Zayed Stadium,,
+773,2020,RR,CSK,RR,Sharjah Cricket Stadium,,
+774,2020,MI,SRH,SRH,Sharjah Cricket Stadium,,
+775,2020,KKR,RCB,RCB,Sheikh Zayed Stadium,,
+776,2020,DC,PBKS,No Result,Dubai International Cricket Stadium,,
+777,2020,MI,CSK,CSK,Sheikh Zayed Stadium,,
+778,2020,RCB,MI,MI,Sheikh Zayed Stadium,,
+779,2020,PBKS,SRH,PBKS,Dubai International Cricket Stadium,,
+780,2020,KKR,DC,KKR,Sheikh Zayed Stadium,,
+781,2020,MI,KKR,MI,Sheikh Zayed Stadium,,
+782,2020,SRH,RR,RR,Dubai International Cricket Stadium,,
+783,2020,PBKS,CSK,CSK,Sheikh Zayed Stadium,,
+784,2020,MI,PBKS,No Result,Dubai International Cricket Stadium,,
+785,2020,SRH,CSK,SRH,Dubai International Cricket Stadium,,
+786,2020,CSK,MI,MI,Sharjah Cricket Stadium,,
+787,2020,RR,RCB,RCB,Dubai International Cricket Stadium,,
+788,2020,KKR,PBKS,KKR,Sheikh Zayed Stadium,,
+789,2020,SRH,DC,SRH,Dubai International Cricket Stadium,,
+790,2020,RCB,CSK,RCB,Dubai International Cricket Stadium,,
+791,2020,KKR,MI,MI,Sheikh Zayed Stadium,,
+792,2020,PBKS,RR,RR,Sharjah Cricket Stadium,,
+793,2020,CSK,SRH,CSK,Dubai International Cricket Stadium,,
+794,2020,DC,MI,MI,Sheikh Zayed Stadium,,
+795,2020,KKR,RR,KKR,Dubai International Cricket Stadium,,
+796,2020,RCB,PBKS,PBKS,Sharjah Cricket Stadium,,
+797,2020,SRH,DC,SRH,Sheikh Zayed Stadium,,
+798,2020,CSK,RR,RR,Sheikh Zayed Stadium,,
+799,2020,RCB,SRH,RCB,Dubai International Cricket Stadium,,
+800,2020,DC,MI,MI,Dubai International Cricket Stadium,,
+801,2020,KKR,CSK,CSK,Dubai International Cricket Stadium,,
+802,2020,PBKS,RR,RR,Sheikh Zayed Stadium,,
+803,2020,MI,SRH,MI,Sharjah Cricket Stadium,,
+804,2020,DC,CSK,DC,Dubai International Cricket Stadium,,
+805,2020,RCB,KKR,RCB,Sharjah Cricket Stadium,,
+806,2020,MI,RR,RR,Sheikh Zayed Stadium,,
+807,2020,SRH,PBKS,SRH,Dubai International Cricket Stadium,,
+808,2020,DC,RR,DC,Dubai International Cricket Stadium,,
+809,2020,RCB,CSK,CSK,Dubai International Cricket Stadium,,
+810,2020,SRH,KKR,KKR,Sheikh Zayed Stadium,,
+811,2020,DC,PBKS,PBKS,Dubai International Cricket Stadium,,
+812,2020,RCB,MI,No Result,Dubai International Cricket Stadium,,
+813,2020,MI,DC,MI,Dubai International Cricket Stadium,,
+814,2020,RCB,SRH,SRH,Sheikh Zayed Stadium,,
+815,2020,DC,SRH,DC,Sheikh Zayed Stadium,,
+816,2020,DC,MI,MI,Dubai International Cricket Stadium,,
+817,2021,MI,RCB,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",,
+818,2021,CSK,DC,DC,"Wankhede Stadium, Mumbai",,
+819,2021,KKR,SRH,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",,
+820,2021,RR,MI,MI,Sharjah Cricket Stadium,,
+821,2021,DC,KKR,KKR,Sharjah Cricket Stadium,,
+822,2021,SRH,CSK,CSK,Sharjah Cricket Stadium,,
+823,2021,RCB,PBKS,RCB,Sharjah Cricket Stadium,,
+824,2021,CSK,RR,RR,"Zayed Cricket Stadium, Abu Dhabi",,
+825,2021,MI,SRH,MI,"Zayed Cricket Stadium, Abu Dhabi",,
+826,2021,RCB,KKR,KKR,"Zayed Cricket Stadium, Abu Dhabi",,
+827,2021,PBKS,DC,DC,"Narendra Modi Stadium, Ahmedabad",,
+828,2021,RR,SRH,RR,"Arun Jaitley Stadium, Delhi",,
+829,2021,CSK,MI,MI,"Arun Jaitley Stadium, Delhi",,
+830,2021,PBKS,RCB,PBKS,"Narendra Modi Stadium, Ahmedabad",,
+831,2021,KKR,DC,DC,"Narendra Modi Stadium, Ahmedabad",,
+832,2021,RR,MI,MI,"Arun Jaitley Stadium, Delhi",,
+833,2021,SRH,CSK,CSK,"Arun Jaitley Stadium, Delhi",,
+834,2021,RCB,DC,RCB,"Narendra Modi Stadium, Ahmedabad",,
+835,2021,PBKS,KKR,KKR,"Narendra Modi Stadium, Ahmedabad",,
+836,2021,SRH,KKR,KKR,Dubai International Cricket Stadium,,
+837,2021,RCB,MI,RCB,Dubai International Cricket Stadium,,
+838,2021,PBKS,SRH,PBKS,Sharjah Cricket Stadium,,
+839,2021,KKR,RR,KKR,Sharjah Cricket Stadium,,
+840,2021,SRH,DC,DC,Dubai International Cricket Stadium,,
+841,2021,CSK,MI,CSK,Dubai International Cricket Stadium,,
+842,2021,RR,RCB,RCB,Dubai International Cricket Stadium,,
+843,2021,KKR,PBKS,PBKS,Dubai International Cricket Stadium,,
+844,2021,DC,RCB,RCB,Dubai International Cricket Stadium,,
+845,2021,RR,SRH,SRH,Dubai International Cricket Stadium,,
+846,2021,PBKS,MI,MI,"Zayed Cricket Stadium, Abu Dhabi",,
+847,2021,KKR,CSK,CSK,"Zayed Cricket Stadium, Abu Dhabi",,
+848,2021,DC,RR,DC,"Zayed Cricket Stadium, Abu Dhabi",,
+849,2021,MI,KKR,KKR,"Zayed Cricket Stadium, Abu Dhabi",,
+850,2021,SRH,RCB,SRH,"Zayed Cricket Stadium, Abu Dhabi",,
+851,2021,CSK,PBKS,PBKS,Dubai International Cricket Stadium,,
+852,2021,RCB,CSK,CSK,Sharjah Cricket Stadium,,
+853,2021,DC,KKR,KKR,Sharjah Cricket Stadium,,
+854,2021,RCB,KKR,KKR,Sharjah Cricket Stadium,,
+855,2021,DC,CSK,CSK,Dubai International Cricket Stadium,,
+856,2021,CSK,KKR,CSK,Dubai International Cricket Stadium,,
+857,2021,RR,PBKS,RR,Dubai International Cricket Stadium,,
+858,2021,CSK,DC,DC,Dubai International Cricket Stadium,,
+859,2021,MI,DC,DC,Sharjah Cricket Stadium,,
+860,2021,CSK,KKR,CSK,"Wankhede Stadium, Mumbai",,
+861,2021,PBKS,SRH,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",,
+862,2021,PBKS,DC,DC,"Wankhede Stadium, Mumbai",,
+863,2021,MI,DC,DC,"MA Chidambaram Stadium, Chepauk, Chennai",,
+864,2021,CSK,RR,CSK,"Wankhede Stadium, Mumbai",,
+865,2021,CSK,RCB,CSK,"Wankhede Stadium, Mumbai",,
+866,2021,PBKS,RR,PBKS,"Wankhede Stadium, Mumbai",,
+867,2021,DC,SRH,No Result,"MA Chidambaram Stadium, Chepauk, Chennai",,
+868,2021,MI,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",,
+869,2021,RR,RCB,RCB,"Wankhede Stadium, Mumbai",,
+870,2021,KKR,RR,RR,"Wankhede Stadium, Mumbai",,
+871,2021,MI,SRH,MI,"MA Chidambaram Stadium, Chepauk, Chennai",,
+872,2021,RCB,KKR,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",,
+873,2021,DC,RR,RR,"Wankhede Stadium, Mumbai",,
+874,2021,PBKS,CSK,CSK,"Wankhede Stadium, Mumbai",,
+875,2021,MI,KKR,MI,"MA Chidambaram Stadium, Chepauk, Chennai",,
+876,2021,RCB,SRH,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",,
+877,2022,MI,DC,DC,"Brabourne Stadium, Mumbai",,
+878,2022,RCB,PBKS,PBKS,"Dr DY Patil Sports Academy, Mumbai",,
+879,2022,PBKS,MI,PBKS,"Maharashtra Cricket Association Stadium, Pune",,
+880,2022,GT,RR,GT,"Dr DY Patil Sports Academy, Mumbai",,
+881,2022,LSG,SRH,LSG,"Dr DY Patil Sports Academy, Mumbai",,
+882,2022,RR,RCB,RCB,"Wankhede Stadium, Mumbai",,
+883,2022,MI,KKR,KKR,"Maharashtra Cricket Association Stadium, Pune",,
+884,2022,DC,LSG,LSG,"Dr DY Patil Sports Academy, Mumbai",,
+885,2022,PBKS,GT,GT,"Brabourne Stadium, Mumbai",,
+886,2022,CSK,SRH,SRH,"Dr DY Patil Sports Academy, Mumbai",,
+887,2022,MI,RCB,RCB,"Maharashtra Cricket Association Stadium, Pune",,
+888,2022,DC,KKR,DC,"Brabourne Stadium, Mumbai",,
+889,2022,RR,LSG,RR,"Wankhede Stadium, Mumbai",,
+890,2022,GT,SRH,SRH,"Dr DY Patil Sports Academy, Mumbai",,
+891,2022,CSK,RCB,CSK,"Dr DY Patil Sports Academy, Mumbai",,
+892,2022,PBKS,CSK,PBKS,"Brabourne Stadium, Mumbai",,
+893,2022,RR,RCB,RR,"Maharashtra Cricket Association Stadium, Pune",,
+894,2022,GT,DC,GT,"Maharashtra Cricket Association Stadium, Pune",,
+895,2022,RR,MI,RR,"Dr DY Patil Sports Academy, Mumbai",,
+896,2022,SRH,GT,GT,"Wankhede Stadium, Mumbai",,
+897,2022,RCB,DC,RCB,"Wankhede Stadium, Mumbai",,
+898,2022,LSG,MI,LSG,"Brabourne Stadium, Mumbai",,
+899,2022,KKR,SRH,SRH,"Brabourne Stadium, Mumbai",,
+900,2022,KKR,MI,KKR,"Dr DY Patil Sports Academy, Mumbai",,
+901,2022,CSK,DC,CSK,"Dr DY Patil Sports Academy, Mumbai",,
+902,2022,PBKS,CSK,PBKS,"Wankhede Stadium, Mumbai",,
+903,2022,LSG,MI,LSG,"Wankhede Stadium, Mumbai",,
+904,2022,RCB,SRH,SRH,"Brabourne Stadium, Mumbai",,
+905,2022,GT,KKR,GT,"Dr DY Patil Sports Academy, Mumbai",,
+906,2022,RR,DC,RR,"Wankhede Stadium, Mumbai",,
+907,2022,MI,CSK,CSK,"Dr DY Patil Sports Academy, Mumbai",,
+908,2022,PBKS,DC,DC,"Brabourne Stadium, Mumbai",,
+909,2022,RCB,LSG,RCB,"Dr DY Patil Sports Academy, Mumbai",,
+910,2022,RR,KKR,RR,"Brabourne Stadium, Mumbai",,
+911,2022,CSK,GT,GT,"Maharashtra Cricket Association Stadium, Pune",,
+912,2022,PBKS,SRH,SRH,"Dr DY Patil Sports Academy, Mumbai",,
+913,2022,RR,MI,MI,"Dr DY Patil Sports Academy, Mumbai",,
+914,2022,LSG,DC,LSG,"Wankhede Stadium, Mumbai",,
+915,2022,CSK,SRH,CSK,"Maharashtra Cricket Association Stadium, Pune",,
+916,2022,RR,KKR,KKR,"Wankhede Stadium, Mumbai",,
+917,2022,GT,PBKS,PBKS,"Dr DY Patil Sports Academy, Mumbai",,
+918,2022,RCB,CSK,RCB,"Maharashtra Cricket Association Stadium, Pune",,
+919,2022,DC,SRH,DC,"Brabourne Stadium, Mumbai",,
+920,2022,MI,GT,MI,"Brabourne Stadium, Mumbai",,
+921,2022,PBKS,RR,RR,"Wankhede Stadium, Mumbai",,
+922,2022,LSG,KKR,LSG,"Maharashtra Cricket Association Stadium, Pune",,
+923,2022,RCB,SRH,RCB,"Wankhede Stadium, Mumbai",,
+924,2022,RCB,GT,GT,"Brabourne Stadium, Mumbai",,
+925,2022,RR,GT,GT,"Eden Gardens, Kolkata",,
+926,2022,LSG,PBKS,LSG,"Maharashtra Cricket Association Stadium, Pune",,
+927,2022,KKR,DC,DC,"Wankhede Stadium, Mumbai",,
+928,2022,RCB,LSG,RCB,"Eden Gardens, Kolkata",,
+929,2022,PBKS,RCB,PBKS,"Brabourne Stadium, Mumbai",,
+930,2022,KKR,SRH,KKR,"Maharashtra Cricket Association Stadium, Pune",,
+931,2022,CSK,GT,GT,"Wankhede Stadium, Mumbai",,
+932,2022,RR,LSG,RR,"Brabourne Stadium, Mumbai",,
+933,2022,DC,PBKS,DC,"Dr DY Patil Sports Academy, Mumbai",,
+934,2022,SRH,MI,SRH,"Wankhede Stadium, Mumbai",,
+935,2022,LSG,KKR,LSG,"Dr DY Patil Sports Academy, Mumbai",,
+936,2022,GT,RCB,RCB,"Wankhede Stadium, Mumbai",,
+937,2022,CSK,RR,RR,"Brabourne Stadium, Mumbai",,
+938,2022,DC,MI,MI,"Wankhede Stadium, Mumbai",,
+939,2022,CSK,KKR,KKR,"Wankhede Stadium, Mumbai",,
+940,2022,LSG,GT,GT,"Wankhede Stadium, Mumbai",,
+941,2022,PBKS,KKR,KKR,"Wankhede Stadium, Mumbai",,
+942,2022,RR,SRH,RR,"Maharashtra Cricket Association Stadium, Pune",,
+943,2022,KKR,RCB,RCB,"Dr DY Patil Sports Academy, Mumbai",,
+944,2022,CSK,LSG,LSG,"Brabourne Stadium, Mumbai",,
+945,2022,RR,GT,GT,"Narendra Modi Stadium, Ahmedabad",,
+946,2022,GT,LSG,GT,"Maharashtra Cricket Association Stadium, Pune",,
+947,2022,RR,DC,DC,"Dr DY Patil Sports Academy, Mumbai",,
+948,2022,CSK,MI,MI,"Wankhede Stadium, Mumbai",,
+949,2022,RCB,RR,RR,"Narendra Modi Stadium, Ahmedabad",,
+950,2022,SRH,PBKS,PBKS,"Wankhede Stadium, Mumbai",,
+951,2023,LSG,MI,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+952,2023,MI,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+953,2023,RCB,DC,DC,"Arun Jaitley Stadium, Delhi",,
+954,2023,GT,LSG,GT,"Narendra Modi Stadium, Ahmedabad",,
+955,2023,PBKS,MI,PBKS,"Wankhede Stadium, Mumbai",,
+956,2023,GT,SRH,GT,"Narendra Modi Stadium, Ahmedabad",,
+957,2023,CSK,KKR,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",,
+958,2023,RCB,RR,RCB,"Sawai Mansingh Stadium, Jaipur",,
+959,2023,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+960,2023,RCB,MI,MI,"Wankhede Stadium, Mumbai",,
+961,2023,PBKS,KKR,KKR,"Eden Gardens, Kolkata",,
+962,2023,RR,SRH,SRH,"Sawai Mansingh Stadium, Jaipur",,
+963,2023,PBKS,DC,PBKS,"Arun Jaitley Stadium, Delhi",,
+964,2023,SRH,LSG,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+965,2023,MI,GT,MI,"Wankhede Stadium, Mumbai",,
+966,2023,KKR,RR,RR,"Eden Gardens, Kolkata",,
+967,2023,RR,GT,GT,"Sawai Mansingh Stadium, Jaipur",,
+968,2023,RCB,GT,GT,"M Chinnaswamy Stadium, Bengaluru",,
+969,2023,SRH,MI,MI,"Wankhede Stadium, Mumbai",,
+970,2023,LSG,KKR,LSG,"Eden Gardens, Kolkata",,
+971,2023,KKR,SRH,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+972,2023,GT,CSK,CSK,"Narendra Modi Stadium, Ahmedabad",,
+973,2023,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad",,
+974,2023,MI,LSG,MI,"MA Chidambaram Stadium, Chepauk, Chennai",,
+975,2023,CSK,GT,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+976,2023,PBKS,RR,RR,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,
+977,2023,SRH,RCB,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+978,2023,DC,PBKS,DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,
+979,2023,CSK,DC,CSK,"Arun Jaitley Stadium, Delhi",,
+980,2023,RR,SRH,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+981,2023,LSG,DC,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+982,2023,PBKS,KKR,PBKS,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,
+983,2023,CSK,GT,GT,"Narendra Modi Stadium, Ahmedabad",,
+984,2023,GT,LSG,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+985,2023,SRH,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+986,2023,KKR,DC,DC,"Arun Jaitley Stadium, Delhi",,
+987,2023,RCB,PBKS,RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,
+988,2023,LSG,RR,LSG,"Sawai Mansingh Stadium, Jaipur",,
+989,2023,MI,SRH,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+990,2023,CSK,RCB,CSK,"M Chinnaswamy Stadium, Bengaluru",,
+991,2023,GT,RR,RR,"Narendra Modi Stadium, Ahmedabad",,
+992,2023,KKR,MI,MI,"Wankhede Stadium, Mumbai",,
+993,2023,LSG,PBKS,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+994,2023,RCB,DC,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+995,2023,SRH,KKR,SRH,"Eden Gardens, Kolkata",,
+996,2023,PBKS,GT,GT,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,
+997,2023,RR,CSK,RR,"MA Chidambaram Stadium, Chepauk, Chennai",,
+998,2023,DC,MI,MI,"Arun Jaitley Stadium, Delhi",,
+999,2023,RCB,LSG,LSG,"M Chinnaswamy Stadium, Bengaluru",,
+1000,2023,PBKS,MI,MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,
+1001,2023,LSG,CSK,No Result,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1002,2023,DC,GT,DC,"Narendra Modi Stadium, Ahmedabad",,
+1003,2023,RCB,LSG,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1004,2023,RR,MI,MI,"Wankhede Stadium, Mumbai",,
+1005,2023,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1006,2023,SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",,
+1007,2023,KKR,GT,GT,"Eden Gardens, Kolkata",,
+1008,2023,LSG,PBKS,LSG,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",,
+1009,2023,RR,CSK,RR,"Sawai Mansingh Stadium, Jaipur",,
+1010,2023,KKR,RCB,KKR,"M Chinnaswamy Stadium, Bengaluru",,
+1011,2023,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad",,
+1012,2023,DC,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1013,2023,CSK,KKR,CSK,"Eden Gardens, Kolkata",,
+1014,2023,RCB,RR,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1015,2023,SRH,LSG,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1016,2023,RR,DC,RR,"Barsapara Cricket Stadium, Guwahati",,
+1017,2023,MI,CSK,CSK,"Wankhede Stadium, Mumbai",,
+1018,2023,MI,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1019,2023,CSK,LSG,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1020,2023,DC,GT,GT,"Arun Jaitley Stadium, Delhi",,
+1021,2023,PBKS,RR,PBKS,"Barsapara Cricket Stadium, Guwahati",,
+1022,2023,KKR,RCB,KKR,"Eden Gardens, Kolkata",,
+1023,2023,PBKS,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1024,2023,GT,KKR,KKR,"Narendra Modi Stadium, Ahmedabad",,
+1025,2024,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad",,
+1026,2024,CSK,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1027,2024,RCB,RR,RR,"Sawai Mansingh Stadium, Jaipur",,
+1028,2024,LSG,GT,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1029,2024,KKR,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1030,2024,RCB,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1031,2024,MI,DC,MI,"Wankhede Stadium, Mumbai",,
+1032,2024,DC,PBKS,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1033,2024,KKR,SRH,KKR,"Eden Gardens, Kolkata",,
+1034,2024,RR,LSG,RR,"Sawai Mansingh Stadium, Jaipur",,
+1035,2024,LSG,RCB,LSG,"M Chinnaswamy Stadium, Bengaluru",,
+1036,2024,KKR,DC,KKR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,
+1037,2024,MI,RR,RR,"Wankhede Stadium, Mumbai",,
+1038,2024,GT,PBKS,PBKS,"Narendra Modi Stadium, Ahmedabad",,
+1039,2024,RR,DC,RR,"Sawai Mansingh Stadium, Jaipur",,
+1040,2024,SRH,GT,GT,"Narendra Modi Stadium, Ahmedabad",,
+1041,2024,LSG,PBKS,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1042,2024,RCB,KKR,KKR,"M Chinnaswamy Stadium, Bengaluru",,
+1043,2024,CSK,GT,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1044,2024,SRH,MI,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1045,2024,PBKS,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1046,2024,DC,CSK,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,
+1047,2024,RR,GT,GT,"Sawai Mansingh Stadium, Jaipur",,
+1048,2024,RCB,MI,MI,"Wankhede Stadium, Mumbai",,
+1049,2024,LSG,DC,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1050,2024,PBKS,RR,RR,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1051,2024,LSG,KKR,KKR,"Eden Gardens, Kolkata",,
+1052,2024,CSK,MI,CSK,"Wankhede Stadium, Mumbai",,
+1053,2024,SRH,RCB,SRH,"M Chinnaswamy Stadium, Bengaluru",,
+1054,2024,KKR,RR,RR,"Eden Gardens, Kolkata",,
+1055,2024,GT,DC,DC,"Narendra Modi Stadium, Ahmedabad",,
+1056,2024,MI,PBKS,MI,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1057,2024,CSK,LSG,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1058,2024,SRH,DC,SRH,"Arun Jaitley Stadium, Delhi",,
+1059,2024,KKR,RCB,KKR,"Eden Gardens, Kolkata",,
+1060,2024,PBKS,GT,GT,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1061,2024,MI,RR,RR,"Sawai Mansingh Stadium, Jaipur",,
+1062,2024,SRH,PBKS,SRH,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1063,2024,CSK,LSG,LSG,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1064,2024,KKR,LSG,KKR,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1065,2024,CSK,PBKS,CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,
+1066,2024,GT,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1067,2024,KKR,MI,KKR,"Wankhede Stadium, Mumbai",,
+1068,2024,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1069,2024,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1070,2024,MI,LSG,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1071,2024,DC,KKR,KKR,"Eden Gardens, Kolkata",,
+1072,2024,CSK,SRH,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1073,2024,GT,RCB,RCB,"Narendra Modi Stadium, Ahmedabad",,
+1074,2024,LSG,RR,RR,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1075,2024,DC,MI,DC,"Arun Jaitley Stadium, Delhi",,
+1076,2024,KKR,PBKS,PBKS,"Eden Gardens, Kolkata",,
+1077,2024,RCB,SRH,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1078,2024,DC,GT,DC,"Arun Jaitley Stadium, Delhi",,
+1079,2024,DC,RR,DC,"Arun Jaitley Stadium, Delhi",,
+1080,2024,LSG,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1081,2024,RCB,PBKS,RCB,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,
+1082,2024,GT,CSK,GT,"Narendra Modi Stadium, Ahmedabad",,
+1083,2024,KKR,MI,KKR,"Eden Gardens, Kolkata",,
+1084,2024,RR,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1085,2024,RCB,DC,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1086,2024,DC,LSG,DC,"Arun Jaitley Stadium, Delhi",,
+1087,2024,RR,PBKS,PBKS,"Barsapara Cricket Stadium, Guwahati",,
+1088,2024,LSG,MI,LSG,"Wankhede Stadium, Mumbai",,
+1089,2024,RCB,CSK,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1090,2024,PBKS,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1091,2024,SRH,KKR,KKR,"Narendra Modi Stadium, Ahmedabad",,
+1092,2024,RCB,RR,RR,"Narendra Modi Stadium, Ahmedabad",,
+1093,2024,SRH,RR,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1094,2024,SRH,MI,MI,"Wankhede Stadium, Mumbai",,
+1095,2024,SRH,KKR,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1096,2025,SRH,MI,MI,"Wankhede Stadium, Mumbai",,
+1097,2025,DC,GT,GT,"Narendra Modi Stadium, Ahmedabad",,
+1098,2025,RCB,PBKS,PBKS,"M Chinnaswamy Stadium, Bengaluru",,
+1099,2025,PBKS,RCB,RCB,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1100,2025,CSK,MI,MI,"Wankhede Stadium, Mumbai",,
+1101,2025,GT,KKR,GT,"Eden Gardens, Kolkata",,
+1102,2025,LSG,RR,LSG,"Sawai Mansingh Stadium, Jaipur",,
+1103,2025,SRH,MI,MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1104,2025,RCB,RR,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1105,2025,CSK,SRH,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1106,2025,PBKS,KKR,No Result,"Eden Gardens, Kolkata",,
+1107,2025,MI,LSG,MI,"Wankhede Stadium, Mumbai",,
+1108,2025,DC,RCB,RCB,"Arun Jaitley Stadium, Delhi",,
+1109,2025,GT,RR,RR,"Sawai Mansingh Stadium, Jaipur",,
+1110,2025,LSG,DC,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1111,2025,KKR,RCB,RCB,"Eden Gardens, Kolkata",,
+1112,2025,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1113,2025,MI,CSK,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1114,2025,LSG,DC,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,
+1115,2025,PBKS,GT,PBKS,"Narendra Modi Stadium, Ahmedabad",,
+1116,2025,RR,KKR,KKR,"Barsapara Cricket Stadium, Guwahati",,
+1117,2025,SRH,LSG,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1118,2025,RCB,CSK,RCB,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1119,2025,GT,MI,GT,"Narendra Modi Stadium, Ahmedabad",,
+1120,2025,SRH,DC,DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,
+1121,2025,RR,CSK,RR,"Barsapara Cricket Stadium, Guwahati",,
+1122,2025,KKR,MI,MI,"Wankhede Stadium, Mumbai",,
+1123,2025,LSG,PBKS,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1124,2025,RCB,GT,GT,"M Chinnaswamy Stadium, Bengaluru",,
+1125,2025,KKR,SRH,KKR,"Eden Gardens, Kolkata",,
+1126,2025,LSG,MI,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1127,2025,DC,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1128,2025,RR,PBKS,RR,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1129,2025,LSG,KKR,LSG,"Eden Gardens, Kolkata",,
+1130,2025,SRH,GT,GT,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1131,2025,RCB,MI,RCB,"Wankhede Stadium, Mumbai",,
+1132,2025,PBKS,CSK,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1133,2025,GT,RR,GT,"Narendra Modi Stadium, Ahmedabad",,
+1134,2025,RCB,DC,DC,"M Chinnaswamy Stadium, Bengaluru",,
+1135,2025,CSK,KKR,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1136,2025,GT,LSG,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1137,2025,PBKS,SRH,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1138,2025,RR,RCB,RCB,"Sawai Mansingh Stadium, Jaipur",,
+1139,2025,MI,DC,MI,"Arun Jaitley Stadium, Delhi",,
+1140,2025,LSG,CSK,CSK,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1141,2025,PBKS,KKR,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1142,2025,DC,RR,No Result,"Arun Jaitley Stadium, Delhi",,
+1143,2025,SRH,RCB,SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1144,2025,CSK,GT,CSK,"Narendra Modi Stadium, Ahmedabad",,
+1145,2025,SRH,KKR,SRH,"Arun Jaitley Stadium, Delhi",,
+1146,2025,MI,PBKS,PBKS,"Sawai Mansingh Stadium, Jaipur",,
+1147,2025,LSG,RCB,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1148,2025,PBKS,RCB,RCB,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1149,2025,MI,GT,MI,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,
+1150,2025,MI,PBKS,PBKS,"Narendra Modi Stadium, Ahmedabad",,
+1151,2025,RCB,PBKS,RCB,"Narendra Modi Stadium, Ahmedabad",,
+1152,2025,PBKS,DC,DC,"Sawai Mansingh Stadium, Jaipur",,
+1153,2025,PBKS,RR,PBKS,"Sawai Mansingh Stadium, Jaipur",,
+1154,2025,DC,GT,GT,"Arun Jaitley Stadium, Delhi",,
+1155,2025,LSG,SRH,SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1156,2025,CSK,RR,RR,"Arun Jaitley Stadium, Delhi",,
+1157,2025,MI,DC,MI,"Wankhede Stadium, Mumbai",,
+1158,2025,KKR,DC,KKR,"Arun Jaitley Stadium, Delhi",,
+1159,2025,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1160,2025,MI,RR,MI,"Sawai Mansingh Stadium, Jaipur",,
+1161,2025,GT,SRH,GT,"Narendra Modi Stadium, Ahmedabad",,
+1162,2025,RCB,CSK,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1163,2025,KKR,RR,KKR,"Eden Gardens, Kolkata",,
+1164,2025,PBKS,LSG,PBKS,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,
+1165,2025,DC,SRH,No Result,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1166,2025,MI,GT,GT,"Wankhede Stadium, Mumbai",,
+1167,2025,KKR,CSK,CSK,"Eden Gardens, Kolkata",,
+1168,2025,PBKS,DC,No Result,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,
+1169,2025,LSG,GT,LSG,"Narendra Modi Stadium, Ahmedabad",,
+1170,2026,GT,DC,GT,"Arun Jaitley Stadium, Delhi",,
+1171,2026,CSK,DC,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1172,2026,RCB,RR,RR,"Barsapara Cricket Stadium, Guwahati",,
+1173,2026,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1174,2026,RR,MI,RR,"Barsapara Cricket Stadium, Guwahati",,
+1175,2026,KKR,LSG,LSG,"Eden Gardens, Kolkata",,
+1176,2026,RCB,CSK,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1177,2026,SRH,KKR,SRH,"Eden Gardens, Kolkata",,
+1178,2026,GT,PBKS,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,
+1179,2026,MI,DC,DC,"Arun Jaitley Stadium, Delhi",,
+1180,2026,RR,GT,RR,"Narendra Modi Stadium, Ahmedabad",,
+1181,2026,SRH,LSG,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1182,2026,LSG,DC,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1183,2026,SRH,PBKS,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,
+1184,2026,KKR,PBKS,No Result,"Eden Gardens, Kolkata",,
+1185,2026,SRH,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1186,2026,KKR,MI,MI,"Wankhede Stadium, Mumbai",,
+1187,2026,CSK,RR,RR,"Barsapara Cricket Stadium, Guwahati",,
+1188,2026,LSG,GT,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,
+1189,2026,RCB,MI,RCB,"Wankhede Stadium, Mumbai",,
+1190,2026,SRH,RR,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1191,2026,CSK,KKR,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",,
+1192,2026,LSG,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",,
+1193,2026,MI,PBKS,PBKS,"Wankhede Stadium, Mumbai",,
+1194,2026,KKR,GT,GT,"Eden Gardens, Kolkata",,
+1195,2026,RCB,DC,DC,"M Chinnaswamy Stadium, Bengaluru",,
+1196,2026,SRH,CSK,SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,
+1197,2026,RR,KKR,KKR,"Sawai Mansingh Stadium, Jaipur",,
+1198,2026,PBKS,LSG,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,
+1199,2026,MI,GT,MI,"Narendra Modi Stadium, Ahmedabad",,
+1200,2026,SRH,DC,SRH,"Rajiv Gandhi International Cricket Stadium, Uppal, Hyderabad",,
+1201,2026,RR,LSG,RR,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow,
 1202,2026,CSK,MI,CSK,MA Chidambaram Stadium, Chepauk, Chennai
-1203,2026,GT,RCB,RCB,M Chinnaswamy Stadium, Bengaluru
-1204,2026,DC,PBKS,PBKS,Arun Jaitley Stadium, Delhi
-1205,2026,RR,SRH,SRH,Sawai Mansingh Stadium, Jaipur
+1203,2026,GT,RCB,RCB,M Chinnaswamy Stadium, Bengaluru,
+1204,2026,DC,PBKS,PBKS,Arun Jaitley Stadium, Delhi,
+1205,2026,RR,SRH,SRH,Sawai Mansingh Stadium, Jaipur,
 1206,2026,GT,CSK,GT,MA Chidambaram Stadium, Chepauk, Chennai
-1207,2026,KKR,LSG,KKR,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow
+1207,2026,KKR,LSG,KKR,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow,
