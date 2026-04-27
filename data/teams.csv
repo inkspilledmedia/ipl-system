@@ -1,14 +1,16 @@
 team,home_venue,full_name
-CSK,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings
+CSK,"MA Chidambaram Stadium, Chennai",Chennai Super Kings
 RCB,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru
 MI,"Wankhede Stadium, Mumbai",Mumbai Indians
+MI,"Dr DY Patil Stadium, Mumbai",Mumbai Indians
 RR,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals
-RR,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals
+RR,"Barsapara Stadium, Guwahati",Rajasthan Royals
 KKR,"Eden Gardens, Kolkata",Kolkata Knight Riders
-LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants
+LSG,"Ekana Cricket Stadium, Lucknow",Lucknow Super Giants
 GT,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans
 DC,Feroz Shah Kotla,Delhi Capitals
 DC,"Arun Jaitley Stadium, Delhi",Delhi Capitals
-PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings
-PBKS,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings
-SRH,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad
+PBKS,"PCA New Stadium, Mullanpur",Punjab Kings
+PBKS,"HPCA Stadium, Dharamsala",Punjab Kings
+SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",Sunrisers Hyderabad
+SRH,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad

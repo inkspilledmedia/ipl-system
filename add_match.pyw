@@ -156,7 +156,7 @@ class AddMatchApp:
         # Append the new match
         with open(csv_path, "a", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
-            writer.writerow([next_id, "2026", t1, t2, w, v])
+            writer.writerow([next_id, "2026", t1, t2, w, v, d])
 
         self.status.config(
             text=f"Added: {t1} vs {t2} → {w} won at {v}",

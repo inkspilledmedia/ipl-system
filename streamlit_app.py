@@ -111,21 +111,20 @@ def _github_update_file(new_content, sha, message):
 
 
 def _check_duplicate(content, team1, team2, match_date):
-    """Check if a match between these teams on this date already exists."""
+    """Check if a match between these teams on this date already exists.
+    CSV format: match_id,season,team1,team2,winner,venue,date
+    Date is column index 6 (if present)."""
     date_str = str(match_date)
     for line in content.strip().split("\n")[1:]:  # skip header
         parts = line.strip().split(",")
         if len(parts) >= 6:
             csv_t1 = parts[2].strip()
             csv_t2 = parts[3].strip()
-            # Check both orderings (CSK vs KKR and KKR vs CSK)
             teams_match = (csv_t1 == team1 and csv_t2 == team2) or \
                           (csv_t1 == team2 and csv_t2 == team1)
-            # Check if venue/date column contains the date
-            # Date could be in column 5 or 6 depending on CSV format
-            row_text = ",".join(parts)
-            date_match = date_str in row_text
-            if teams_match and date_match:
+            # Check date in column 6 if it exists
+            csv_date = parts[6].strip() if len(parts) >= 7 else ""
+            if teams_match and csv_date == date_str:
                 return True
     return False
 
@@ -207,7 +206,7 @@ with tab2:
                     lines = content.strip().split("\n")
                     next_id = len(lines)
 
-                    new_row = f"\n{next_id},2026,{m_team1},{m_team2},{winner},{venue}"
+                    new_row = f"\n{next_id},2026,{m_team1},{m_team2},{winner},{venue},{match_date}"
                     new_content = content.rstrip() + new_row + "\n"
 
                     success, msg = _github_update_file(
