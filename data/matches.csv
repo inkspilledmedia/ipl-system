@@ -1168,42 +1168,42 @@ match_id,season,team1,team2,winner,venue,date
 1167,2025,KKR,CSK,CSK,"Eden Gardens, Kolkata",
 1168,2025,PBKS,DC,No Result,"HPCA Stadium, Dharamsala",
 1169,2025,LSG,GT,LSG,"Narendra Modi Stadium, Ahmedabad",
-1170,2026,GT,DC,GT,"Arun Jaitley Stadium, Delhi",8/4/2026
-1171,2026,CSK,DC,CSK,"MA Chidambaram Stadium, Chennai",11/4/2026
-1172,2026,RCB,RR,RR,"Barsapara Stadium, Guwahati",10/4/2026
-1173,2026,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chennai",3/4/2026
-1174,2026,RR,MI,RR,"Barsapara Stadium, Guwahati",7/4/2026
-1175,2026,KKR,LSG,LSG,"Eden Gardens, Kolkata",9/4/2026
-1176,2026,RCB,CSK,RCB,"M Chinnaswamy Stadium, Bengaluru",5/4/2026
-1177,2026,SRH,KKR,SRH,"Eden Gardens, Kolkata",2/4/2026
-1178,2026,GT,PBKS,PBKS,"PCA New Stadium, Mullanpur",31/3/2026
-1179,2026,MI,DC,DC,"Arun Jaitley Stadium, Delhi",4/4/2026
-1180,2026,RR,GT,RR,"Narendra Modi Stadium, Ahmedabad",4/4/2026
-1181,2026,SRH,LSG,LSG,"Rajiv Gandhi Intl Stadium, Hyderabad",5/4/2026
-1182,2026,LSG,DC,DC,"Ekana Cricket Stadium, Lucknow",1/4/2026
-1183,2026,SRH,PBKS,PBKS,"PCA New Stadium, Mullanpur",11/4/2026
-1184,2026,KKR,PBKS,No Result,"Eden Gardens, Kolkata",6/4/2026
-1185,2026,SRH,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",28/3/2026
-1186,2026,KKR,MI,MI,"Wankhede Stadium, Mumbai",29/3/2026
-1187,2026,CSK,RR,RR,"Barsapara Stadium, Guwahati",30/3/2026
-1188,2026,LSG,GT,GT,"Ekana Cricket Stadium, Lucknow",12/4/2026
-1189,2026,RCB,MI,RCB,"Wankhede Stadium, Mumbai",12/4/2026
-1190,2026,SRH,RR,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",13/4/2026
-1191,2026,CSK,KKR,CSK,"MA Chidambaram Stadium, Chennai",14/4/2026
-1192,2026,LSG,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",15/4/2026
-1193,2026,MI,PBKS,PBKS,"Wankhede Stadium, Mumbai",16/4/2026
-1194,2026,KKR,GT,GT,"Eden Gardens, Kolkata",17/4/2026
-1195,2026,RCB,DC,DC,"M Chinnaswamy Stadium, Bengaluru",18/4/2026
-1196,2026,SRH,CSK,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",18/4/2026
-1197,2026,RR,KKR,KKR,"Sawai Mansingh Stadium, Jaipur",19/4/2026
-1198,2026,PBKS,LSG,PBKS,"PCA New Stadium, Mullanpur",19/4/2026
-1199,2026,MI,GT,MI,"Narendra Modi Stadium, Ahmedabad",20/4/2026
-1200,2026,SRH,DC,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",21/4/2026
-1201,2026,RR,LSG,RR,"Ekana Cricket Stadium, Lucknow",22/4/2026
-1202,2026,CSK,MI,CSK,"MA Chidambaram Stadium, Chennai",23/4/2026
-1203,2026,GT,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",24/4/2026
-1204,2026,DC,PBKS,PBKS,"Arun Jaitley Stadium, Delhi",25/4/2026
-1205,2026,RR,SRH,SRH,"Sawai Mansingh Stadium, Jaipur",25/4/2026
-1206,2026,GT,CSK,GT,"MA Chidambaram Stadium, Chennai",26/4/2026
-1207,2026,KKR,LSG,KKR,"Ekana Cricket Stadium, Lucknow",26/4/2026
-1208,2026,CSK,MI,CSK,MA Chidambaram Stadium, Chennai,2026-04-23
+1170,2026,GT,DC,GT,"Arun Jaitley Stadium, Delhi",2026-04-08
+1171,2026,CSK,DC,CSK,"MA Chidambaram Stadium, Chennai",2026-04-11
+1172,2026,RCB,RR,RR,"Barsapara Stadium, Guwahati",2026-04-10
+1173,2026,CSK,PBKS,PBKS,"MA Chidambaram Stadium, Chennai",2026-04-04
+1174,2026,RR,MI,RR,"Barsapara Stadium, Guwahati",2026-04-07
+1175,2026,KKR,LSG,LSG,"Eden Gardens, Kolkata",2026-04-09
+1176,2026,RCB,CSK,RCB,"M Chinnaswamy Stadium, Bengaluru",2026-04-04
+1177,2026,SRH,KKR,SRH,"Eden Gardens, Kolkata",2026-04-02
+1178,2026,GT,PBKS,PBKS,"PCA New Stadium, Mullanpur",2026-03-31
+1179,2026,MI,DC,DC,"Arun Jaitley Stadium, Delhi",2026-04-04
+1180,2026,RR,GT,RR,"Narendra Modi Stadium, Ahmedabad",2026-04-04
+1181,2026,SRH,LSG,LSG,"Rajiv Gandhi Intl Stadium, Hyderabad",2026-04-05
+1182,2026,LSG,DC,DC,"Ekana Cricket Stadium, Lucknow",2026-04-01
+1183,2026,SRH,PBKS,PBKS,"PCA New Stadium, Mullanpur",2026-04-11
+1184,2026,KKR,PBKS,No Result,"Eden Gardens, Kolkata",2026-04-06
+1185,2026,SRH,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",2026-03-28
+1186,2026,KKR,MI,MI,"Wankhede Stadium, Mumbai",2026-03-29
+1187,2026,CSK,RR,RR,"Barsapara Stadium, Guwahati",2026-03-30
+1188,2026,LSG,GT,GT,"Ekana Cricket Stadium, Lucknow",2026-04-12
+1189,2026,RCB,MI,RCB,"Wankhede Stadium, Mumbai",2026-04-12
+1190,2026,SRH,RR,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2026-04-13
+1191,2026,CSK,KKR,CSK,"MA Chidambaram Stadium, Chennai",2026-04-14
+1192,2026,LSG,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",2026-04-15
+1193,2026,MI,PBKS,PBKS,"Wankhede Stadium, Mumbai",2026-04-16
+1194,2026,KKR,GT,GT,"Eden Gardens, Kolkata",2026-04-17
+1195,2026,RCB,DC,DC,"M Chinnaswamy Stadium, Bengaluru",2026-04-18
+1196,2026,SRH,CSK,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2026-04-18
+1197,2026,RR,KKR,KKR,"Sawai Mansingh Stadium, Jaipur",2026-04-19
+1198,2026,PBKS,LSG,PBKS,"PCA New Stadium, Mullanpur",2026-04-19
+1199,2026,MI,GT,MI,"Narendra Modi Stadium, Ahmedabad",2026-04-20
+1200,2026,SRH,DC,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2026-04-21
+1201,2026,RR,LSG,RR,"Ekana Cricket Stadium, Lucknow",2026-04-22
+1202,2026,CSK,MI,CSK,"MA Chidambaram Stadium, Chennai",2026-04-23
+1203,2026,GT,RCB,RCB,"M Chinnaswamy Stadium, Bengaluru",2026-04-24
+1204,2026,DC,PBKS,PBKS,"Arun Jaitley Stadium, Delhi",2026-04-25
+1205,2026,RR,SRH,SRH,"Sawai Mansingh Stadium, Jaipur",2026-04-25
+1206,2026,GT,CSK,GT,"MA Chidambaram Stadium, Chennai",2026-04-26
+1207,2026,KKR,LSG,KKR,"Ekana Cricket Stadium, Lucknow",2026-04-26
+
