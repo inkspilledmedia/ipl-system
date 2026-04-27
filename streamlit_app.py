@@ -110,21 +110,39 @@ def _github_update_file(new_content, sha, message):
     return False, r.json().get("message", "Unknown error")
 
 
+def _normalize_date(date_str):
+    """Convert any date format to YYYY-MM-DD for comparison."""
+    date_str = date_str.strip().strip('"')
+    if not date_str:
+        return ""
+    # Already YYYY-MM-DD
+    if len(date_str) == 10 and date_str[4] == "-":
+        return date_str
+    # Try M/D/YYYY or MM/DD/YYYY
+    for fmt in ("%m/%d/%Y", "%d/%m/%Y", "%m-%d-%Y", "%d-%m-%Y",
+                "%Y/%m/%d", "%d/%m/%y", "%m/%d/%y"):
+        try:
+            from datetime import datetime
+            dt = datetime.strptime(date_str, fmt)
+            return dt.strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    return date_str
+
+
 def _check_duplicate(content, team1, team2, match_date):
     """Check if a match between these teams on this date already exists.
-    CSV format: match_id,season,team1,team2,winner,venue,date
-    Date is column index 6 (if present)."""
-    date_str = str(match_date)
-    for line in content.strip().split("\n")[1:]:  # skip header
+    Handles all date formats (4/8/2026, 2026-04-08, 08/04/2026 etc.)"""
+    target_date = _normalize_date(str(match_date))
+    for line in content.strip().split("\n")[1:]:
         parts = line.strip().split(",")
         if len(parts) >= 6:
             csv_t1 = parts[2].strip()
             csv_t2 = parts[3].strip()
             teams_match = (csv_t1 == team1 and csv_t2 == team2) or \
                           (csv_t1 == team2 and csv_t2 == team1)
-            # Check date in column 6 if it exists
-            csv_date = parts[6].strip() if len(parts) >= 7 else ""
-            if teams_match and csv_date == date_str:
+            csv_date = _normalize_date(parts[6]) if len(parts) >= 7 else ""
+            if teams_match and csv_date == target_date:
                 return True
     return False
 
