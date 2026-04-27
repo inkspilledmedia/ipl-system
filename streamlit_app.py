@@ -1,10 +1,8 @@
 """
 IPL Head-to-Head Template Generator — Streamlit Web App
-Adds matches directly to GitHub so all teammates see updates instantly.
+Stadium dropdown + duplicate match prevention + GitHub sync.
 """
 import streamlit as st
-import csv
-import io
 import base64
 import requests
 from pathlib import Path
@@ -15,7 +13,6 @@ st.set_page_config(page_title="IPL Template Generator", page_icon="🏏", layout
 BASE = Path(__file__).resolve().parent
 MATCHES_CSV = BASE / "data" / "matches.csv"
 
-# GitHub config — reads from Streamlit secrets
 GITHUB_REPO = "inkspilledmedia/ipl-system"
 GITHUB_FILE = "data/matches.csv"
 GITHUB_BRANCH = "main"
@@ -28,15 +25,32 @@ TEAM_FULL = {
     "LSG": "Lucknow Super Giants", "RR": "Rajasthan Royals",
     "GT": "Gujarat Titans", "PBKS": "Punjab Kings",
 }
-VENUES = {
-    "CSK": "Chepauk", "MI": "Wankhede", "RCB": "Chinnaswamy",
-    "KKR": "Eden Gardens", "SRH": "Rajiv Gandhi Stadium",
-    "DC": "Arun Jaitley Stadium", "LSG": "Ekana Stadium",
-    "RR": "Sawai Mansingh", "GT": "Narendra Modi Stadium",
-    "PBKS": "PCA Mullanpur",
+
+# All IPL stadiums — team home grounds listed first
+STADIUMS = [
+    "MA Chidambaram Stadium, Chennai",
+    "Wankhede Stadium, Mumbai",
+    "M Chinnaswamy Stadium, Bengaluru",
+    "Eden Gardens, Kolkata",
+    "Rajiv Gandhi Intl Stadium, Hyderabad",
+    "Arun Jaitley Stadium, Delhi",
+    "Ekana Cricket Stadium, Lucknow",
+    "Sawai Mansingh Stadium, Jaipur",
+    "Narendra Modi Stadium, Ahmedabad",
+    "PCA New Stadium, Mullanpur",
+    "HPCA Stadium, Dharamsala",
+    "Barsapara Stadium, Guwahati",
+    "ACA-VDCA Stadium, Visakhapatnam",
+    "Dr DY Patil Stadium, Mumbai",
+    "MCA Stadium, Pune",
+]
+
+# Map team to their default home stadium index in STADIUMS list
+TEAM_HOME_INDEX = {
+    "CSK": 0, "MI": 1, "RCB": 2, "KKR": 3, "SRH": 4,
+    "DC": 5, "LSG": 6, "RR": 7, "GT": 8, "PBKS": 9,
 }
 
-# ---- Custom CSS ----
 st.markdown("""
 <style>
     .stApp { background-color: #1a1a2e; }
@@ -51,7 +65,6 @@ st.caption("Template Generator")
 
 
 def _get_github_token():
-    """Get GitHub token from Streamlit secrets."""
     try:
         return st.secrets["GITHUB_TOKEN"]
     except Exception:
@@ -59,7 +72,6 @@ def _get_github_token():
 
 
 def _github_get_file():
-    """Fetch current matches.csv content + SHA from GitHub."""
     token = _get_github_token()
     if not token:
         return None, None
@@ -78,7 +90,6 @@ def _github_get_file():
 
 
 def _github_update_file(new_content, sha, message):
-    """Push updated matches.csv to GitHub."""
     token = _get_github_token()
     if not token:
         return False, "GitHub token not configured"
@@ -97,6 +108,26 @@ def _github_update_file(new_content, sha, message):
     if r.status_code == 200:
         return True, "Success"
     return False, r.json().get("message", "Unknown error")
+
+
+def _check_duplicate(content, team1, team2, match_date):
+    """Check if a match between these teams on this date already exists."""
+    date_str = str(match_date)
+    for line in content.strip().split("\n")[1:]:  # skip header
+        parts = line.strip().split(",")
+        if len(parts) >= 6:
+            csv_t1 = parts[2].strip()
+            csv_t2 = parts[3].strip()
+            # Check both orderings (CSK vs KKR and KKR vs CSK)
+            teams_match = (csv_t1 == team1 and csv_t2 == team2) or \
+                          (csv_t1 == team2 and csv_t2 == team1)
+            # Check if venue/date column contains the date
+            # Date could be in column 5 or 6 depending on CSV format
+            row_text = ",".join(parts)
+            date_match = date_str in row_text
+            if teams_match and date_match:
+                return True
+    return False
 
 
 # ---- Tabs ----
@@ -143,7 +174,6 @@ with tab1:
 with tab2:
     st.subheader("Add Match Result")
 
-    # Check if GitHub is configured
     token = _get_github_token()
     if not token:
         st.error("⚠️ GitHub token not configured. Ask admin to add GITHUB_TOKEN in Streamlit secrets.")
@@ -157,29 +187,32 @@ with tab2:
                                     format_func=lambda x: f"{x} — {TEAM_FULL[x]}")
 
         winner = st.selectbox("Winner", [m_team1, m_team2], key="m_winner")
-        venue = st.text_input("Venue", value=VENUES.get(m_team1, ""), key="m_venue")
+
+        # Stadium dropdown — auto-selects Team 1 home ground
+        default_idx = TEAM_HOME_INDEX.get(m_team1, 0)
+        venue = st.selectbox("Stadium", STADIUMS, index=default_idx, key="m_venue")
+
+        match_date = st.date_input("Match Date", value=date.today(), key="m_date")
 
         if m_team1 == m_team2:
             st.warning("Please select two different teams.")
         elif st.button("➕ Add Match", type="primary", use_container_width=True):
-            with st.spinner("Saving to GitHub..."):
-                # Fetch current CSV from GitHub
+            with st.spinner("Checking for duplicates..."):
                 content, sha = _github_get_file()
                 if content is None:
                     st.error("❌ Could not fetch matches.csv from GitHub.")
+                elif _check_duplicate(content, m_team1, m_team2, match_date):
+                    st.error(f"⚠️ This match already exists: {m_team1} vs {m_team2} on {match_date}. Entry blocked.")
                 else:
-                    # Count lines for next match_id
                     lines = content.strip().split("\n")
-                    next_id = len(lines)  # header is line 0
+                    next_id = len(lines)
 
-                    # Append new row
                     new_row = f"\n{next_id},2026,{m_team1},{m_team2},{winner},{venue}"
                     new_content = content.rstrip() + new_row + "\n"
 
-                    # Push to GitHub
                     success, msg = _github_update_file(
                         new_content, sha,
-                        f"Added match: {m_team1} vs {m_team2} - {winner} won"
+                        f"Added match: {m_team1} vs {m_team2} - {winner} won at {venue}"
                     )
                     if success:
                         st.success(f"✅ Added: {m_team1} vs {m_team2} → {winner} won at {venue}")
@@ -187,7 +220,7 @@ with tab2:
                     else:
                         st.error(f"❌ GitHub push failed: {msg}")
 
-        # Show current match count from GitHub
+        # Show current match count
         content, _ = _github_get_file()
         if content:
             count = len(content.strip().split("\n")) - 1
