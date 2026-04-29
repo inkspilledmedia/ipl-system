@@ -1,8 +1,9 @@
 """
 IPL Head-to-Head Template Generator — Streamlit Web App
-Stadium dropdown + duplicate match prevention + GitHub sync.
+Player overrides + stadium dropdown + duplicate prevention + GitHub sync.
 """
 import streamlit as st
+import json
 import base64
 import requests
 from pathlib import Path
@@ -12,9 +13,10 @@ st.set_page_config(page_title="IPL Template Generator", page_icon="🏏", layout
 
 BASE = Path(__file__).resolve().parent
 MATCHES_CSV = BASE / "data" / "matches.csv"
+PLAYERS_CSV = BASE / "data" / "players.csv"
+CONFIG_FILE = BASE / "config.json"
 
 GITHUB_REPO = "inkspilledmedia/ipl-system"
-GITHUB_FILE = "data/matches.csv"
 GITHUB_BRANCH = "main"
 
 TEAMS = ["CSK", "MI", "RCB", "KKR", "SRH", "DC", "LSG", "RR", "GT", "PBKS"]
@@ -26,7 +28,6 @@ TEAM_FULL = {
     "GT": "Gujarat Titans", "PBKS": "Punjab Kings",
 }
 
-# All IPL stadiums — team home grounds listed first
 STADIUMS = [
     "MA Chidambaram Stadium, Chennai",
     "Wankhede Stadium, Mumbai",
@@ -45,7 +46,6 @@ STADIUMS = [
     "MCA Stadium, Pune",
 ]
 
-# Map team to their default home stadium index in STADIUMS list
 TEAM_HOME_INDEX = {
     "CSK": 0, "MI": 1, "RCB": 2, "KKR": 3, "SRH": 4,
     "DC": 5, "LSG": 6, "RR": 7, "GT": 8, "PBKS": 9,
@@ -71,7 +71,7 @@ def _get_github_token():
         return None
 
 
-def _github_get_file():
+def _github_get_file(filepath):
     token = _get_github_token()
     if not token:
         return None, None
@@ -79,7 +79,7 @@ def _github_get_file():
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json",
     }
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}?ref={GITHUB_BRANCH}"
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{filepath}?ref={GITHUB_BRANCH}"
     r = requests.get(url, headers=headers)
     if r.status_code == 200:
         data = r.json()
@@ -89,7 +89,7 @@ def _github_get_file():
     return None, None
 
 
-def _github_update_file(new_content, sha, message):
+def _github_update_file(filepath, new_content, sha, message):
     token = _get_github_token()
     if not token:
         return False, "GitHub token not configured"
@@ -97,7 +97,7 @@ def _github_update_file(new_content, sha, message):
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json",
     }
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}"
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{filepath}"
     payload = {
         "message": message,
         "content": base64.b64encode(new_content.encode("utf-8")).decode("utf-8"),
@@ -111,14 +111,11 @@ def _github_update_file(new_content, sha, message):
 
 
 def _normalize_date(date_str):
-    """Convert any date format to YYYY-MM-DD for comparison."""
     date_str = date_str.strip().strip('"')
     if not date_str:
         return ""
-    # Already YYYY-MM-DD
     if len(date_str) == 10 and date_str[4] == "-":
         return date_str
-    # Try M/D/YYYY or MM/DD/YYYY
     for fmt in ("%m/%d/%Y", "%d/%m/%Y", "%m-%d-%Y", "%d-%m-%Y",
                 "%Y/%m/%d", "%d/%m/%y", "%m/%d/%y"):
         try:
@@ -131,12 +128,12 @@ def _normalize_date(date_str):
 
 
 def _check_duplicate(content, team1, team2, match_date):
-    """Check if a match between these teams on this date already exists.
-    Handles all date formats (4/8/2026, 2026-04-08, 08/04/2026 etc.)"""
+    """CSV format: match_id,season,team1,team2,winner,venue,date
+    Indices: 0=match_id, 1=season, 2=team1, 3=team2, 4=winner, 5=venue, 6=date"""
     target_date = _normalize_date(str(match_date))
     for line in content.strip().split("\n")[1:]:
         parts = line.strip().split(",")
-        if len(parts) >= 6:
+        if len(parts) >= 5:
             csv_t1 = parts[2].strip()
             csv_t2 = parts[3].strip()
             teams_match = (csv_t1 == team1 and csv_t2 == team2) or \
@@ -145,6 +142,30 @@ def _check_duplicate(content, team1, team2, match_date):
             if teams_match and csv_date == target_date:
                 return True
     return False
+
+
+def _get_team_players(team):
+    """Get list of players for a team from players.csv."""
+    players = {"batsmen": [], "bowlers": []}
+    if PLAYERS_CSV.exists():
+        import pandas as pd
+        df = pd.read_csv(PLAYERS_CSV)
+        df = df[df["current_team"].str.upper() == team.upper()]
+        df = df[df["active"] == 1]
+        for _, row in df.iterrows():
+            if row["role"] == "bat":
+                players["batsmen"].append(row["name"])
+            elif row["role"] == "bowl":
+                players["bowlers"].append(row["name"])
+    return players
+
+
+def _save_config(config):
+    config_str = json.dumps(config, indent=4)
+    CONFIG_FILE.write_text(config_str)
+    content, sha = _github_get_file("config.json")
+    if sha:
+        _github_update_file("config.json", config_str, sha, "Updated player overrides")
 
 
 # ---- Tabs ----
@@ -163,7 +184,53 @@ with tab1:
     if team_a == team_b:
         st.warning("Please select two different teams.")
     else:
+        # Player override section
+        with st.expander("🔄 Override Players (optional — click to change predicted players)"):
+            st.caption("Leave as 'Auto' to use predicted players. Select a name to override.")
+
+            players_a = _get_team_players(team_a)
+            players_b = _get_team_players(team_b)
+
+            col_a, col_b = st.columns(2)
+            with col_a:
+                st.markdown(f"**{team_a} Batsmen**")
+                ov_a_bat1 = st.selectbox("Batsman 1", ["Auto"] + players_a["batsmen"], key="ov_ab1")
+                ov_a_bat2 = st.selectbox("Batsman 2", ["Auto"] + players_a["batsmen"], key="ov_ab2")
+                st.markdown(f"**{team_a} Bowlers**")
+                ov_a_bowl1 = st.selectbox("Bowler 1", ["Auto"] + players_a["bowlers"], key="ov_aw1")
+                ov_a_bowl2 = st.selectbox("Bowler 2", ["Auto"] + players_a["bowlers"], key="ov_aw2")
+            with col_b:
+                st.markdown(f"**{team_b} Batsmen**")
+                ov_b_bat1 = st.selectbox("Batsman 1", ["Auto"] + players_b["batsmen"], key="ov_bb1")
+                ov_b_bat2 = st.selectbox("Batsman 2", ["Auto"] + players_b["batsmen"], key="ov_bb2")
+                st.markdown(f"**{team_b} Bowlers**")
+                ov_b_bowl1 = st.selectbox("Bowler 1", ["Auto"] + players_b["bowlers"], key="ov_bw1")
+                ov_b_bowl2 = st.selectbox("Bowler 2", ["Auto"] + players_b["bowlers"], key="ov_bw2")
+
         if st.button("⚡ GENERATE TEMPLATE", type="primary", use_container_width=True):
+            # Build overrides
+            match_key = f"{team_a}_vs_{team_b}"
+            overrides = {}
+            if ov_a_bat1 != "Auto": overrides["teamA_bat1"] = ov_a_bat1
+            if ov_a_bat2 != "Auto": overrides["teamA_bat2"] = ov_a_bat2
+            if ov_a_bowl1 != "Auto": overrides["teamA_bowl1"] = ov_a_bowl1
+            if ov_a_bowl2 != "Auto": overrides["teamA_bowl2"] = ov_a_bowl2
+            if ov_b_bat1 != "Auto": overrides["teamB_bat1"] = ov_b_bat1
+            if ov_b_bat2 != "Auto": overrides["teamB_bat2"] = ov_b_bat2
+            if ov_b_bowl1 != "Auto": overrides["teamB_bowl1"] = ov_b_bowl1
+            if ov_b_bowl2 != "Auto": overrides["teamB_bowl2"] = ov_b_bowl2
+
+            # Save to config.json if any overrides
+            if overrides:
+                try:
+                    config = json.loads(CONFIG_FILE.read_text()) if CONFIG_FILE.exists() else {}
+                except Exception:
+                    config = {}
+                if "overrides" not in config:
+                    config["overrides"] = {}
+                config["overrides"][match_key] = overrides
+                _save_config(config)
+
             with st.spinner(f"Generating {team_a} vs {team_b}..."):
                 try:
                     from main import generate
@@ -205,7 +272,6 @@ with tab2:
 
         winner = st.selectbox("Winner", [m_team1, m_team2], key="m_winner")
 
-        # Stadium dropdown — auto-selects Team 1 home ground
         default_idx = TEAM_HOME_INDEX.get(m_team1, 0)
         venue = st.selectbox("Stadium", STADIUMS, index=default_idx, key="m_venue")
 
@@ -215,20 +281,18 @@ with tab2:
             st.warning("Please select two different teams.")
         elif st.button("➕ Add Match", type="primary", use_container_width=True):
             with st.spinner("Checking for duplicates..."):
-                content, sha = _github_get_file()
+                content, sha = _github_get_file("data/matches.csv")
                 if content is None:
                     st.error("❌ Could not fetch matches.csv from GitHub.")
                 elif _check_duplicate(content, m_team1, m_team2, match_date):
                     st.error(f"⚠️ This match already exists: {m_team1} vs {m_team2} on {match_date}. Entry blocked.")
                 else:
-                    lines = content.strip().split("\n")
-                    next_id = len(lines)
-
+                    next_id = len(content.strip().split("\n"))
                     new_row = f"\n{next_id},2026,{m_team1},{m_team2},{winner},{venue},{match_date}"
                     new_content = content.rstrip() + new_row + "\n"
 
                     success, msg = _github_update_file(
-                        new_content, sha,
+                        "data/matches.csv", new_content, sha,
                         f"Added match: {m_team1} vs {m_team2} - {winner} won at {venue}"
                     )
                     if success:
@@ -237,8 +301,7 @@ with tab2:
                     else:
                         st.error(f"❌ GitHub push failed: {msg}")
 
-        # Show current match count
-        content, _ = _github_get_file()
+        content, _ = _github_get_file("data/matches.csv")
         if content:
             count = len(content.strip().split("\n")) - 1
             st.info(f"📊 Currently {count} matches in database (synced from GitHub)")
