@@ -34,6 +34,16 @@
             "teamB_bat2": "Tilak Varma",
             "teamB_bowl1": "Allah Ghazanfar",
             "teamB_bowl2": "Ashwani Kumar"
+        },
+        "SRH_vs_KKR": {
+            "teamA_bat1": "Abhishek Sharma",
+            "teamA_bat2": "Heinrich Klaasen",
+            "teamA_bowl1": "Eshan Malinga",
+            "teamA_bowl2": "Sakib Hussain",
+            "teamB_bat1": "Rinku Singh",
+            "teamB_bat2": "Rovman Powell",
+            "teamB_bowl1": "Sunil Narine",
+            "teamB_bowl2": "Varun Chakravarthy"
         }
     },
     "_example": {
