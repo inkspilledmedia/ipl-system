@@ -94,6 +94,16 @@
             "teamB_bat2": "Rajat Patidar",
             "teamB_bowl1": "Josh Hazlewood",
             "teamB_bowl2": "Bhuvneshwar Kumar"
+        },
+        "KKR_vs_DC": {
+            "teamA_bat1": "Rinku Singh",
+            "teamA_bat2": "Rovman Powell",
+            "teamA_bowl1": "Sunil Narine",
+            "teamA_bowl2": "Varun Chakravarthy",
+            "teamB_bat1": "KL Rahul",
+            "teamB_bat2": "Tristan Stubbs",
+            "teamB_bowl1": "Kuldeep Yadav",
+            "teamB_bowl2": "Mukesh Kumar"
         }
     },
     "_example": {
