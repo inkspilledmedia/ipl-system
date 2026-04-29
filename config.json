@@ -84,6 +84,16 @@
             "teamB_bat2": "Shreyas Iyer",
             "teamB_bowl1": "Yuzvendra Chahal",
             "teamB_bowl2": "Arshdeep Singh"
+        },
+        "LSG_vs_RCB": {
+            "teamA_bat1": "Mitchell Marsh",
+            "teamA_bat2": "Aiden Markram",
+            "teamA_bowl1": "Mohammad Shami",
+            "teamA_bowl2": "Prince Yadav",
+            "teamB_bat1": "Virat Kohli",
+            "teamB_bat2": "Rajat Patidar",
+            "teamB_bowl1": "Josh Hazlewood",
+            "teamB_bowl2": "Bhuvneshwar Kumar"
         }
     },
     "_example": {
