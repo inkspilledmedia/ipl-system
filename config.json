@@ -44,6 +44,16 @@
             "teamB_bat2": "Rovman Powell",
             "teamB_bowl1": "Sunil Narine",
             "teamB_bowl2": "Varun Chakravarthy"
+        },
+        "GT_vs_PBKS": {
+            "teamA_bat1": "Shubman Gill",
+            "teamA_bat2": "Sai Sudharsan",
+            "teamA_bowl1": "Kagiso Rabada",
+            "teamA_bowl2": "Rashid Khan",
+            "teamB_bat1": "Prabhsimran Singh",
+            "teamB_bat2": "Shreyas Iyer",
+            "teamB_bowl1": "Yuzvendra Chahal",
+            "teamB_bowl2": "Arshdeep Singh"
         }
     },
     "_example": {
