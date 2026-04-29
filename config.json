@@ -74,6 +74,16 @@
             "teamB_bat2": "Tristan Stubbs",
             "teamB_bowl1": "Kuldeep Yadav",
             "teamB_bowl2": "Mukesh Kumar"
+        },
+        "SRH_vs_PBKS": {
+            "teamA_bat1": "Abhishek Sharma",
+            "teamA_bat2": "Heinrich Klaasen",
+            "teamA_bowl1": "Eshan Malinga",
+            "teamA_bowl2": "Sakib Hussain",
+            "teamB_bat1": "Prabhsimran Singh",
+            "teamB_bat2": "Shreyas Iyer",
+            "teamB_bowl1": "Yuzvendra Chahal",
+            "teamB_bowl2": "Arshdeep Singh"
         }
     },
     "_example": {
