@@ -3,17 +3,14 @@
     "_usage": "Any field set here will override the auto-generated value.",
     "overrides": {
         "CSK_vs_KKR": {
-            "total_matches": null,
-            "teamA_wins": null,
-            "teamB_wins": null,
-            "teamA_bat1": null,
-            "teamA_bat2": null,
-            "teamA_bowl1": null,
-            "teamA_bowl2": null,
-            "teamB_bat1": null,
-            "teamB_bat2": null,
-            "teamB_bowl1": null,
-            "teamB_bowl2": null
+            "teamA_bat1": "Dewald Brevis",
+            "teamA_bat2": "Sanju Samson",
+            "teamA_bowl1": "Anshul Kamboj",
+            "teamA_bowl2": "Noor Ahmad",
+            "teamB_bat1": "Rinku Singh",
+            "teamB_bat2": "Rovman Powell",
+            "teamB_bowl1": "Sunil Narine",
+            "teamB_bowl2": "Varun Chakravarthy"
         },
         "RR_vs_DC": {
             "teamA_bat1": "Vaibhav Suryavanshi",
