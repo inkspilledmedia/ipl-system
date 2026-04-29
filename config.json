@@ -1,7 +1,6 @@
 {
     "_comment": "Manual overrides for the IPL template generator.",
     "_usage": "Any field set here will override the auto-generated value.",
-
     "overrides": {
         "CSK_vs_KKR": {
             "total_matches": null,
@@ -15,9 +14,18 @@
             "teamB_bat2": null,
             "teamB_bowl1": null,
             "teamB_bowl2": null
+        },
+        "RR_vs_DC": {
+            "teamA_bat1": "Vaibhav Suryavanshi",
+            "teamA_bat2": "Yashasvi Jaiswal",
+            "teamA_bowl1": "Ravi Bishnoi",
+            "teamA_bowl2": "Jofra Archer",
+            "teamB_bat1": "KL Rahul",
+            "teamB_bat2": "Tristan Stubbs",
+            "teamB_bowl1": "Kuldeep Yadav",
+            "teamB_bowl2": "Mukesh Kumar"
         }
     },
-
     "_example": {
         "RCB_vs_MI": {
             "total_matches": 35,
@@ -33,7 +41,6 @@
             "teamB_bowl2": "Trent Boult"
         }
     },
-
     "font_sizes": {
         "_comment": "Override font sizes. Set to null to use defaults.",
         "title_head": null,
