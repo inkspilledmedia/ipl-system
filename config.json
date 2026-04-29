@@ -104,6 +104,16 @@
             "teamB_bat2": "Tristan Stubbs",
             "teamB_bowl1": "Kuldeep Yadav",
             "teamB_bowl2": "Mukesh Kumar"
+        },
+        "DC_vs_KKR": {
+            "teamA_bat1": "KL Rahul",
+            "teamA_bat2": "Tristan Stubbs",
+            "teamA_bowl1": "Kuldeep Yadav",
+            "teamA_bowl2": "Mukesh Kumar",
+            "teamB_bat1": "Rinku Singh",
+            "teamB_bat2": "Rovman Powell",
+            "teamB_bowl1": "Sunil Narine",
+            "teamB_bowl2": "Varun Chakravarthy"
         }
     },
     "_example": {
