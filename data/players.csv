@@ -1,7 +1,7 @@
 name,current_team,role,active,avg,strike_rate,wickets,economy,recent_form,vs_opponent_avg,home_boost
 Yuzvendra Chahal,PBKS,bowl,1,5.29,43.03,225,8.01,2,1,1
-Bhuvneshwar Kumar,RCB,allrounder,1,8.74,92.23,208,7.71,2,1,1
-Sunil Narine,KKR,allrounder,1,17.46,165.85,198,6.8,1.6,1,1
+Bhuvneshwar Kumar,RCB,bowl,1,8.74,92.23,208,7.71,2,1,1
+Sunil Narine,KKR,bowl,1,17.46,165.85,198,6.8,1.6,1,1
 Piyush Chawla,MI,allrounder,0,13,107.59,192,7.98,1.6,1,1
 Ravichandran Ashwin,CSK,allrounder,0,14.88,114.42,188,7.05,1.8,1,1
 Jasprit Bumrah,MI,bowl,1,10.43,90.12,186,7.29,2.6,1,1
@@ -11,7 +11,7 @@ Vaibhav Suryavanshi,RR,bat,1,38.31,220.36,0,0,40,2.17,1
 Amit Mishra,LSG,allrounder,0,17.32,86.59,174,7.3,1.2,1,1
 Ravindra Jadeja,RR,allrounder,1,28.11,129.96,175,7.66,1.6,1,1
 Lasith Malinga,MI,bowl,0,8.8,85.44,170,7.03,1.8,1,1
-Rashid Khan,GT,allrounder,1,14.16,159.42,164,7.11,1.4,1,1
+Rashid Khan,GT,bowl,1,14.16,159.42,164,7.11,1.4,1,1
 Cooper Connolly,PBKS,bat,1,55.75,163.98,0,0,39.67,1.47,1
 Heinrich Klaasen,SRH,bat,1,41,165.08,0,0,44.8,1.59,1
 Harshal Patel,SRH,bowl,1,8.84,117.6,151,8.92,1.6,1,1
@@ -145,7 +145,7 @@ Eoin Morgan,KKR,bat,0,26.04,119.05,0,0,20.2,1.19,1
 George Bailey,PBKS,bat,0,28.83,120.11,0,0,16.8,1.2,1
 Manan Vohra,PBKS,bat,0,24.07,125.49,0,0,18.2,1.25,1
 Misbah-ul-Haq,RCB,bat,0,16.71,142.68,0,0,15,1.43,1
-Krunal Pandya,RCB,allrounder,1,21.48,131.82,101,7.52,1.4,1,1
+Krunal Pandya,RCB,bowl,1,21.48,131.82,101,7.52,1.4,1,1
 Dale Steyn,RCB,bowl,0,8.79,102.45,97,6.79,1.6,1,1
 Herschelle Gibbs,DC,bat,0,30.55,105.85,0,0,22.2,1.06,1
 Simon Katich,RCB,bat,0,30.12,126.18,0,0,9.6,1.26,1
@@ -216,7 +216,7 @@ Manish Juneja,MI,bat,0,20.83,93.28,0,0,19.4,0.93,1
 Harpreet Singh,PBKS,bat,0,24.6,103.36,0,0,9.4,1.03,1
 Vishnu Zol,RCB,bat,0,14.5,111.54,0,0,14.5,1.12,1
 Irfan Pathan,SRH,allrounder,0,26.14,116.75,80,7.7,1.2,1,1
-Hardik Pandya,MI,allrounder,1,28.17,146.81,81,9.3,1,1,1
+Hardik Pandya,MI,bat,1,28.17,146.81,81,9.3,1,1,1
 Manhas,DC,bat,0,24.48,105.76,0,6,7,1.06,1
 Pat Cummins,SRH,allrounder,0,20.4,152.24,79,8.81,1.8,1,1
 Bharat Chipli,DC,bat,0,18.67,109.38,0,20,10.6,1.09,1
@@ -343,7 +343,7 @@ Ryan Harris,DC,bowl,0,9.75,104.46,45,7.53,1.8,1,1
 Tarun Srivastava,KXIP,bat,0,8,72.73,0,0,2.67,0.73,1
 Anil Kumble,RCB,bowl,0,17.5,71.43,45,6.65,1.6,1,1
 Sreenath Aravind,RCB,bowl,0,19.67,100,45,8.05,1.6,1,1
-Marcus Stoinis,PBKS,allrounder,1,28.03,145.45,44,9.84,2,1,1
+Marcus Stoinis,PBKS,bat,1,28.03,145.45,44,9.84,2,1,1
 Varun Aaron,GT,bowl,0,16.67,68.49,44,8.6,1.8,1,1
 Yash Dhull,DC,bat,0,5.33,69.57,0,0,5.33,0.7,1
 Devdutt Shorey,DC,bat,0,6.5,65,0,0,6.5,0.65,1
@@ -369,7 +369,7 @@ Doug Bollinger,CSK,bowl,0,21,91.3,38,7.16,1.8,1,1
 Pradeep Sangwan,GT,bowl,0,3.71,55.32,38,8.4,1.6,1,1
 Marco Jansen,PBKS,bowl,1,12.58,107.86,41,9.28,1.4,1,1
 Daniel Christian,RCB,allrounder,0,17.04,112.75,38,7.93,1.2,1,1
-Mitchell Marsh,LSG,allrounder,1,27.3,142.01,37,8.52,1.6,1,1
+Mitchell Marsh,LSG,bat,1,27.3,142.01,37,8.52,1.6,1,1
 Mayank Markande,MI,bowl,1,16,114.29,37,9.16,1.6,1,1
 Manpreet Gony,CSK,bowl,0,12.38,130.26,37,8.54,1.4,1,1
 Shivam Singh,PBKS,bat,0,2,66.67,0,0,2,0.67,1
@@ -385,7 +385,7 @@ Unmukt Birla,RR,bat,0,7,46.67,0,0,7,0.47,1
 Lungi Ngidi,DC,bowl,1,3,42.86,36,8.5,1.8,1,1
 Kevon Cooper,RR,bowl,0,12.89,165.71,33,7.89,1.4,1,1
 Suryansh Shedge,PBKS,bat,1,2.33,63.64,0,13.33,2.33,0.58,1
-Rahul Tewatia,GT,allrounder,1,23.22,136.11,32,7.91,1,1,1
+Rahul Tewatia,GT,bat,1,23.22,136.11,32,7.91,1,1,1
 Sai Kishore,GT,bowl,1,4.5,112.5,32,8.86,1.4,1,1
 Adam Zampa,RR,bowl,0,5,60,31,8.29,2.6,1,1
 Abhishek Tomar,KKR,bat,0,4,50,0,0,4,0.5,1
@@ -458,7 +458,7 @@ Anureet Singh,KXIP,bowl,0,9,76.6,18,8.87,1.4,1,1
 Ishwar Pandey,CSK,bowl,0,0,0,18,7.79,1.4,1,1
 Mukesh Choudhary,CSK,bowl,1,6,100,19,9.96,2.6,1,1
 Ashish Reddy,SRH,bowl,0,21.54,142.86,18,8.89,1,1,1
-Cameron Green,KKR,allrounder,1,37.78,153.27,17,9.46,1,1,1
+Cameron Green,KKR,bat,1,37.78,153.27,17,9.46,1,1,1
 Dilhara Fernando,MI,bowl,0,4,133.33,17,7.37,1.8,1,1
 Brad Hodge,KKR,allrounder,0,35,121.42,17,7.82,1.8,1,1
 Deepak Rathi,MI,bowl,0,1,25,17,8.17,1.4,1,1
@@ -484,7 +484,7 @@ Sandeep Lamichhane,DC,bowl,0,0,0,13,8.45,1.6,1,1
 Carlos Brathwaite,KKR,bowl,0,15.08,150.83,13,8.66,1.6,1,1
 Romario Shepherd,RCB,bowl,1,24.89,200,13,12.36,1.6,1,1
 Sanath Jayasuriya,MI,allrounder,0,28.44,134.03,13,7.89,1.4,1,1
-Liam Livingstone,SRH,allrounder,1,25.38,155.17,13,9.02,1.4,1,1
+Liam Livingstone,SRH,bat,1,25.38,155.17,13,9.02,1.4,1,1
 Tom Curran,RR,bowl,0,25.4,117.59,13,10.29,1.4,1,1
 Ramesh Powar,MI,bowl,0,33.5,104.69,13,7.29,1.2,1,1
 Dushmantha Chameera,DC,bowl,1,13.25,126.2,13,9.73,1,1,1
@@ -528,7 +528,7 @@ Vikram Pratap Singh,MI,bowl,0,0,0,10,8.53,1.4,1,1
 Ben Cutting,MI,bowl,0,23.8,163.01,10,8.96,1.4,1,1
 Deepak Hooda,CSK,allrounder,0,19.96,123.41,10,8.44,1.2,1,1
 Anukul Roy,KKR,bowl,1,10.83,127.46,10,8.51,1.2,1,1
-Nitish Rana,DC,allrounder,1,27.1,136.04,10,8.44,1.2,1,1
+Nitish Rana,DC,bat,1,27.1,136.04,10,8.44,1.2,1,1
 Lalit Yadav,DC,allrounder,0,20.33,101.33,10,8.78,1.2,1,1
 Akash Deep,KKR,bowl,0,8.33,178.57,10,11.01,1.2,1,1
 Keemo Paul,DC,bowl,0,4.5,69.23,9,7.97,2.25,1,1
@@ -549,7 +549,7 @@ Beuran Hendricks,MI,bowl,0,1,33.33,9,9.13,1.2,1,1
 Akash Singh,LSG,bowl,1,0,0,9,9.54,1.2,1,1
 Vijay Shankar,GT,allrounder,0,26.8,125.18,9,8,1.2,1,1
 Abhishek Nayar,RR,allrounder,0,22.4,114.29,9,8.11,1,1,1
-Riyan Parag,RR,allrounder,1,25.03,140.99,9,9.64,1,1,1
+Riyan Parag,RR,bat,1,25.03,140.99,9,9.64,1,1,1
 Sandeep Warrier,MI,bowl,0,0,0,8,8.76,2,1,1
 Thilan Thushara,CSK,bowl,0,12,63.16,8,6.83,1.6,1,1
 Scott Styris,DC,bowl,0,18.71,97.76,8,7.51,1.6,1,1
@@ -559,7 +559,7 @@ Yudhvir Singh,LSG,bowl,0,7.33,137.5,8,10.63,1.6,1,1
 David Hussey,KKR,allrounder,0,30.74,120.07,8,9.01,1.4,1,1
 KC Cariappa,RR,bowl,0,8,114.29,8,9.35,1.4,1,1
 Isuru Udana,RCB,bowl,0,5,136.36,8,9.43,1.4,1,1
-Will Jacks,MI,allrounder,1,27.24,152.81,8,9.57,1.4,1,1
+Will Jacks,MI,bat,1,27.24,152.81,8,9.57,1.4,1,1
 Ajantha Mendis,KKR,bowl,0,1.5,50,8,7.4,1.4,1,1
 Syed Mohammad,RCB,bowl,0,14.5,107.41,8,8.76,1.4,1,1
 Ankit Chavan,RR,bowl,0,12,109.09,8,7.98,1.2,1,1
@@ -576,12 +576,12 @@ Gerhard Viljoen,PBKS,bowl,0,1.5,42.86,7,9.41,1.4,1,1
 Mohammed Asif,RR,bowl,0,0,0,7,9.73,1.4,1,1
 Abhijit Salvi,MI,bowl,0,0,0,7,7.88,1.4,1,1
 Pradeep Amarnath,RCB,bowl,0,0,0,7,10.95,1.4,1,1
-Nitish Kumar Reddy,SRH,allrounder,1,28.23,138,9,10.34,1.4,1,1
+Nitish Kumar Reddy,SRH,bat,1,28.23,138,9,10.34,1.4,1,1
 Abhimanyu Mithun,RCB,bowl,0,6.8,130.77,7,9.17,1.2,1,1
 Kevin Pietersen,DC,allrounder,0,38.5,132.06,7,7.27,1.2,1,1
 Jerome Taylor,MI,bowl,0,3,75,6,8.21,2,1,1
 Saurabh Kaushik,RR,bowl,0,0,0,6,8.69,2,1,1
-Ramandeep Singh,KKR,allrounder,1,19.53,151.04,7,13.43,2,1,1
+Ramandeep Singh,KKR,bat,1,19.53,151.04,7,13.43,2,1,1
 Jacob Duffy,RCB,bowl,1,0,0,6,11.5,2,1,1
 Odean Smith,PBKS,bowl,0,17,102,6,11.31,2,1,1
 William O'Rourke,RR,bowl,0,0,0,6,12.38,2,1,1
@@ -602,7 +602,7 @@ Darshan Nalkande,GT,bowl,0,12,100,6,10.11,1.5,1,1
 Vikram Singh Malik,DC,bowl,0,7,100,6,7.58,1.2,1,1
 Sudeep Tyagi,CSK,bowl,0,3,75,6,8.29,1.2,1,1
 David Willey,RCB,bowl,0,26.5,82.81,6,7.52,1.2,1,1
-Aiden Markram,LSG,allrounder,1,30.81,137.28,6,9.59,1.2,1,1
+Aiden Markram,LSG,bat,1,30.81,137.28,6,9.59,1.2,1,1
 Xavier Bartlett,PBKS,bowl,1,22,110,6,10.23,1.2,1,1
 Suraj Randiv,CSK,bowl,0,2,50,6,7.43,1.2,1,1
 Tirumalasetti Suman,SRH,allrounder,0,23.31,115.16,6,7.82,1.2,1,1
@@ -613,7 +613,7 @@ Marchant de Lange,KKR,bowl,0,1,50,5,8.84,2.5,1,1
 Praful Hinge,SRH,bowl,1,0,0,5,11.75,4,1,1
 Siddharth Narwal,RR,bowl,0,12.33,127.59,5,10.78,2.5,1,1
 Blessing Muzarabani,KKR,bowl,1,0,0,4,10.71,4,1,1
-Jamie Overton,CSK,allrounder,1,39.33,147.5,8,10.76,2.5,1,1
+Jamie Overton,CSK,bowl,1,39.33,147.5,8,10.76,2.5,1,1
 Gurkeerat Singh Mann,RCB,allrounder,0,23.23,117.2,5,7.1,1.67,1,1
 Abhishek Dole,RR,bowl,0,17,147.83,5,9.37,1.67,1,1
 Oshane Thomas,RR,bowl,0,0,0,5,8.1,1.67,1,1
@@ -639,7 +639,7 @@ Robin Peterson,MI,bowl,0,32,100,3,8.75,3,1,1
 Doug Bracewell,SRH,bowl,0,12,133.33,3,7.68,3,1,1
 Rajvardhan Hangargekar,CSK,bowl,0,0,0,3,8.37,3,1,1
 Justin Kemp,RR,bowl,0,13,104,3,7.4,3,1,1
-Ayush Badoni,LSG,allrounder,1,26.45,139.4,4,9.22,1.33,1,1
+Ayush Badoni,LSG,bat,1,26.45,139.4,4,9.22,1.33,1,1
 DJ Muthuswami,CSK,bowl,0,1,33.33,4,7.71,1.33,1,1
 Shivam Sharma,PBKS,bowl,0,5,166.67,4,8.68,1.33,1,1
 Virat Kohli,RCB,bat,1,39.77,133.44,4,8.8,1.33,1,1
@@ -656,14 +656,14 @@ David Thornely,MI,bowl,0,13,72.22,3,5.45,1.5,1,1
 Stuart Harwood,RR,bowl,0,9,64.29,3,6.63,1.5,1,1
 John Hastings,KKR,bowl,0,0,0,3,6.49,1.5,1,1
 Ashok Menaria,RR,allrounder,0,20.05,109.26,3,7.65,1.5,1,1
-Shashank Singh,PBKS,allrounder,1,39.24,159.69,4,9.1,1.5,1,1
+Shashank Singh,PBKS,bat,1,39.24,159.69,4,9.1,1.5,1,1
 Pragyan Sahu,RR,bowl,0,19,146.15,3,8.52,1.5,1,1
 Brijesh Sharma,RR,bowl,1,0,33.34,3,8.65,1.5,1,1
 Johann van der Wath,RCB,bowl,0,9,105.88,3,10.58,1.5,1,1
 Abhinandan Singh,RCB,bowl,1,0,0,3,12.62,1.5,1,1
 Rohan Ninan,MI,bowl,0,3,50,3,10.83,1.5,1,1
 Krishmar Santokie,MI,bowl,0,0,0,3,10.71,1.5,1,1
-Venkatesh Iyer,RCB,allrounder,1,30.55,138.1,3,10.59,1.5,1,1
+Venkatesh Iyer,RCB,bat,1,30.55,138.1,3,10.59,1.5,1,1
 Lalit Ablish,DC,bowl,0,0,0,3,10.13,1.5,1,1
 Jason Richardson,RCB,bowl,0,5.67,62.96,3,10.34,1.5,1,1
 Ravichandran Sathish,MI,bowl,0,19.29,114.41,3,9.71,1,1,1
@@ -682,7 +682,7 @@ Swapnil Chitnis,MI,bowl,0,16.5,107.61,2,9.79,2,1,1
 Scott Kuggeleijn,CSK,bowl,0,0,0,2,8.52,2,1,1
 Allah Ghazanfar,MI,bowl,1,0,0,6,9.35,2,1,1
 Mangesh Khote,MI,bowl,0,12,109.09,2,10.4,2,1,1
-Travis Head,SRH,allrounder,1,33.05,166.76,2,11.69,2,1,1
+Travis Head,SRH,bat,1,33.05,166.76,2,11.69,2,1,1
 Amit Uniyal,RR,bowl,0,4,57.14,2,10.58,2,1,1
 David Payne,SRH,bowl,0,6,120,2,13.55,2,1,1
 Michael Clarke,PWI,bowl,0,19.6,102.08,2,6.55,1,1,1
@@ -707,12 +707,12 @@ Kyle Abbott,DC,bowl,0,13,162.5,2,10.71,1,1,1
 Jerome Scantlebury-Searles,PBKS,bowl,0,8,133.33,2,11.87,1,1,1
 Luke Wright,PWI,bowl,0,26.5,168.25,2,10,1,1,1
 Kwena Maphaka,RR,bowl,1,8,266.67,2,13,1,1,1
-Abdul Samad,LSG,allrounder,1,18.91,147.02,2,13.16,1,1,1
+Abdul Samad,LSG,bat,1,18.91,147.02,2,13.16,1,1,1
 Dayanand Kalyankrishna,DC,bowl,0,3,37.5,2,10.56,1,1,1
 Navdeep Singh,PBKS,bowl,0,0,0,1,4.32,1,1,1
 Sandesh Mundhe,PWI,bowl,0,0,0,1,5.14,1,1,1
 Lee Carseldine,RR,bowl,0,40.5,114.08,1,5.14,1,1,1
-Ajinkya Rahane,KKR,allrounder,1,30.32,125.53,1,5,1,1,1
+Ajinkya Rahane,KKR,bat,1,30.32,125.53,1,5,1,1,1
 Hanuma Vihari,SRH,bowl,0,14.95,85.8,1,6.7,1,1,1
 Graham Napier,MI,bowl,0,15,93.75,1,7,1,1,1
 Tyron Henderson,RR,bowl,0,11,68.75,1,6.83,1,1,1
@@ -727,11 +727,11 @@ Aaron Finch,RCB,allrounder,0,25.83,123.35,1,9.14,1,1,1
 D'Arcy Short,RR,bowl,0,23,112.75,1,7.67,1,1,1
 Andrew Noffke,RCB,bowl,0,9,75,1,9.84,1,1,1
 Ali Murtaza Jhunjhunwala,MI,bowl,0,21.7,99.54,1,8.86,1,1,1
-Shahrukh Khan,GT,allrounder,1,20.73,148.65,1,9.33,1,1,1
+Shahrukh Khan,GT,bat,1,20.73,148.65,1,9.33,1,1,1
 Ishan Porel,PBKS,bowl,0,0,0,1,9.69,1,1,1
 Doddapaneni Ravi Teja,DC,allrounder,0,20.83,115.38,1,9.33,1,1,1
 Sunil Joshi,RCB,bowl,0,6,37.5,1,8.95,1,1,1
-Sherfane Rutherford,MI,allrounder,1,26.32,146.2,1,8.63,1,1,1
+Sherfane Rutherford,MI,bat,1,26.32,146.2,1,8.63,1,1,1
 Vijayakanth Viyaskanth,SRH,bowl,0,7,140,1,9,1,1,1
 Shreevats Sarkar,KKR,bowl,0,0,0,1,8.16,1,1,1
 Duan Jansen,MI,bowl,0,0,0,1,11.36,1,1,1
