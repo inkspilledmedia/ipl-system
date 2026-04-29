@@ -24,6 +24,16 @@
             "teamB_bat2": "Tristan Stubbs",
             "teamB_bowl1": "Kuldeep Yadav",
             "teamB_bowl2": "Mukesh Kumar"
+        },
+        "CSK_vs_MI": {
+            "teamA_bat1": "Sanju Samson",
+            "teamA_bat2": "Dewald Brevis",
+            "teamA_bowl1": "Anshul Kamboj",
+            "teamA_bowl2": "Akeal Hosein",
+            "teamB_bat1": "Quinton de Kock",
+            "teamB_bat2": "Tilak Varma",
+            "teamB_bowl1": "Allah Mohammad Ghazanfar",
+            "teamB_bowl2": "Ashwani Kumar"
         }
     },
     "_example": {
