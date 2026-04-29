@@ -114,6 +114,16 @@
             "teamB_bat2": "Rovman Powell",
             "teamB_bowl1": "Sunil Narine",
             "teamB_bowl2": "Varun Chakravarthy"
+        },
+        "RR_vs_GT": {
+            "teamA_bat1": "Vaibhav Suryavanshi",
+            "teamA_bat2": "Yashasvi Jaiswal",
+            "teamA_bowl1": "Ravi Bishnoi",
+            "teamA_bowl2": "Jofra Archer",
+            "teamB_bat1": "Shubman Gill",
+            "teamB_bat2": "Sai Sudharsan",
+            "teamB_bowl1": "Kagiso Rabada",
+            "teamB_bowl2": "Rashid Khan"
         }
     },
     "_example": {
