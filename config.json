@@ -251,6 +251,16 @@
             "teamB_bat2": "Angkrish Raghuvanshi",
             "teamB_bowl1": "Sunil Narine",
             "teamB_bowl2": "Varun Chakravarthy"
+        },
+        "RCB_vs_LSG": {
+            "teamA_bat1": "Rajat Patidar",
+            "teamA_bat2": "Virat Kohli",
+            "teamA_bowl1": "Josh Hazlewood",
+            "teamA_bowl2": "Romario Shepherd",
+            "teamB_bat1": "Josh Inglis",
+            "teamB_bat2": "George Linde",
+            "teamB_bowl1": "Mohammad Shami",
+            "teamB_bowl2": "Akash Singh"
         }
     },
     "_example": {
