@@ -131,6 +131,16 @@
             "teamB_bat2": "Aiden Markram",
             "teamB_bowl1": "Mohammad Shami",
             "teamB_bowl2": "Prince Yadav"
+        },
+        "MI_vs_RCB": {
+            "teamA_bat1": "Will Jacks",
+            "teamA_bat2": "Ryan Rickelton",
+            "teamA_bowl1": "Allah Ghazanfar",
+            "teamA_bowl2": "Ashwani Kumar",
+            "teamB_bat1": "Virat Kohli",
+            "teamB_bat2": "Rajat Patidar",
+            "teamB_bowl1": "Josh Hazlewood",
+            "teamB_bowl2": "Bhuvneshwar Kumar"
         }
     },
     "_example": {
