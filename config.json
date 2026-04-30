@@ -151,6 +151,16 @@
             "teamB_bat2": "Tristan Stubbs",
             "teamB_bowl1": "Kuldeep Yadav",
             "teamB_bowl2": "Mukesh Kumar"
+        },
+        "GT_vs_SRH": {
+            "teamA_bat1": "Shubman Gill",
+            "teamA_bat2": "Sai Sudharsan",
+            "teamA_bowl1": "Kagiso Rabada",
+            "teamA_bowl2": "Rashid Khan",
+            "teamB_bat1": "Abhishek Sharma",
+            "teamB_bat2": "Heinrich Klaasen",
+            "teamB_bowl1": "Eshan Malinga",
+            "teamB_bowl2": "Sakib Hussain"
         }
     },
     "_example": {
