@@ -141,6 +141,16 @@
             "teamB_bat2": "Rajat Patidar",
             "teamB_bowl1": "Josh Hazlewood",
             "teamB_bowl2": "Bhuvneshwar Kumar"
+        },
+        "PBKS_vs_DC": {
+            "teamA_bat1": "Prabhsimran Singh",
+            "teamA_bat2": "Shreyas Iyer",
+            "teamA_bowl1": "Yuzvendra Chahal",
+            "teamA_bowl2": "Arshdeep Singh",
+            "teamB_bat1": "KL Rahul",
+            "teamB_bat2": "Tristan Stubbs",
+            "teamB_bowl1": "Kuldeep Yadav",
+            "teamB_bowl2": "Mukesh Kumar"
         }
     },
     "_example": {
