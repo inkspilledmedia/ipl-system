@@ -201,6 +201,16 @@
             "teamB_bat2": "Angkrish Raghuvanshi",
             "teamB_bowl1": "Sunil Narine",
             "teamB_bowl2": "Varun Chakravarthy"
+        },
+        "PBKS_vs_RCB": {
+            "teamA_bat1": "Prabhsimran Singh",
+            "teamA_bat2": "Shreyas Iyer",
+            "teamA_bowl1": "Yuzvendra Chahal",
+            "teamA_bowl2": "Arshdeep Singh",
+            "teamB_bat1": "Virat Kohli",
+            "teamB_bat2": "Rajat Patidar",
+            "teamB_bowl1": "Josh Hazlewood",
+            "teamB_bowl2": "Bhuvneshwar Kumar"
         }
     },
     "_example": {
