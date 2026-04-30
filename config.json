@@ -221,6 +221,16 @@
             "teamB_bat2": "Yashasvi Jaiswal",
             "teamB_bowl1": "Ravi Bishnoi",
             "teamB_bowl2": "Jofra Archer"
+        },
+        "CSK_vs_SRH": {
+            "teamA_bat1": "Sanju Samson",
+            "teamA_bat2": "Dewald Brevis",
+            "teamA_bowl1": "Anshul Kamboj",
+            "teamA_bowl2": "Akeal Hosein",
+            "teamB_bat1": "Abhishek Sharma",
+            "teamB_bat2": "Heinrich Klaasen",
+            "teamB_bowl1": "Eshan Malinga",
+            "teamB_bowl2": "Sakib Hussain"
         }
     },
     "_example": {
