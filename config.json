@@ -231,6 +231,16 @@
             "teamB_bat2": "Heinrich Klaasen",
             "teamB_bowl1": "Eshan Malinga",
             "teamB_bowl2": "Sakib Hussain"
+        },
+        "RR_vs_LSG": {
+            "teamA_bat1": "Vaibhav Suryavanshi",
+            "teamA_bat2": "Yashasvi Jaiswal",
+            "teamA_bowl1": "Ravi Bishnoi",
+            "teamA_bowl2": "Jofra Archer",
+            "teamB_bat1": "Mitchell Marsh",
+            "teamB_bat2": "Aiden Markram",
+            "teamB_bowl1": "Mohammad Shami",
+            "teamB_bowl2": "Prince Yadav"
         }
     },
     "_example": {
