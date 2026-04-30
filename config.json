@@ -241,6 +241,16 @@
             "teamB_bat2": "Aiden Markram",
             "teamB_bowl1": "Mohammad Shami",
             "teamB_bowl2": "Prince Yadav"
+        },
+        "MI_vs_KKR": {
+            "teamA_bat1": "Will Jacks",
+            "teamA_bat2": "Ryan Rickelton",
+            "teamA_bowl1": "Allah Ghazanfar",
+            "teamA_bowl2": "Ashwani Kumar",
+            "teamB_bat1": "Rinku Singh",
+            "teamB_bat2": "Angkrish Raghuvanshi",
+            "teamB_bowl1": "Sunil Narine",
+            "teamB_bowl2": "Varun Chakravarthy"
         }
     },
     "_example": {
