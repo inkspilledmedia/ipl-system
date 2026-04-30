@@ -211,6 +211,16 @@
             "teamB_bat2": "Rajat Patidar",
             "teamB_bowl1": "Josh Hazlewood",
             "teamB_bowl2": "Bhuvneshwar Kumar"
+        },
+        "DC_vs_RR": {
+            "teamA_bat1": "KL Rahul",
+            "teamA_bat2": "Tristan Stubbs",
+            "teamA_bowl1": "Kuldeep Yadav",
+            "teamA_bowl2": "Mukesh Kumar",
+            "teamB_bat1": "Vaibhav Suryavanshi",
+            "teamB_bat2": "Yashasvi Jaiswal",
+            "teamB_bowl1": "Ravi Bishnoi",
+            "teamB_bowl2": "Jofra Archer"
         }
     },
     "_example": {
