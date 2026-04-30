@@ -171,6 +171,16 @@
             "teamB_bat2": "Angkrish Raghuvanshi",
             "teamB_bowl1": "Varun Chakravarthy",
             "teamB_bowl2": "Sunil Narine"
+        },
+        "PBKS_vs_MI": {
+            "teamA_bat1": "Prabhsimran Singh",
+            "teamA_bat2": "Shreyas Iyer",
+            "teamA_bowl1": "Yuzvendra Chahal",
+            "teamA_bowl2": "Arshdeep Singh",
+            "teamB_bat1": "Will Jacks",
+            "teamB_bat2": "Ryan Rickelton",
+            "teamB_bowl1": "Allah Ghazanfar",
+            "teamB_bowl2": "Ashwani Kumar"
         }
     },
     "_example": {
