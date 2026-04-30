@@ -191,6 +191,16 @@
             "teamB_bat2": "Sai Sudharsan",
             "teamB_bowl1": "Kagiso Rabada",
             "teamB_bowl2": "Rashid Khan"
+        },
+        "GT_vs_KKR": {
+            "teamA_bat1": "Shubman Gill",
+            "teamA_bat2": "Sai Sudharsan",
+            "teamA_bowl1": "Kagiso Rabada",
+            "teamA_bowl2": "Rashid Khan",
+            "teamB_bat1": "Rinku Singh",
+            "teamB_bat2": "Angkrish Raghuvanshi",
+            "teamB_bowl1": "Sunil Narine",
+            "teamB_bowl2": "Varun Chakravarthy"
         }
     },
     "_example": {
