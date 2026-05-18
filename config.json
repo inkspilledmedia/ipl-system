@@ -281,6 +281,16 @@
             "teamB_bat2": "Abhishek Sharma",
             "teamB_bowl1": "Eshan Malinga",
             "teamB_bowl2": "Sakib Hussain"
+        },
+        "LSG_vs_PBKS": {
+            "teamA_bat1": "Josh Inglis",
+            "teamA_bat2": "Mitchell Marsh",
+            "teamA_bowl1": "Prince Yadav",
+            "teamA_bowl2": "Mohammad Shami",
+            "teamB_bat1": "Prabhsimran Singh",
+            "teamB_bat2": "Shreyas Iyer",
+            "teamB_bowl1": "Yuzvendra Chahal",
+            "teamB_bowl2": "Arshdeep Singh"
         }
     },
     "_example": {
