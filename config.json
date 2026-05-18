@@ -291,6 +291,16 @@
             "teamB_bat2": "Shreyas Iyer",
             "teamB_bowl1": "Yuzvendra Chahal",
             "teamB_bowl2": "Arshdeep Singh"
+        },
+        "MI_vs_RR": {
+            "teamA_bat1": "Ryan Rickelton",
+            "teamA_bat2": "Rohit Sharma",
+            "teamA_bowl1": "Corbin Bosch",
+            "teamA_bowl2": "Jasprit Bumrah",
+            "teamB_bat1": "Vaibhav Suryavanshi",
+            "teamB_bat2": "Yashasvi Jaiswal",
+            "teamB_bowl1": "Ravi Bishnoi",
+            "teamB_bowl2": "Jofra Archer"
         }
     },
     "_example": {
