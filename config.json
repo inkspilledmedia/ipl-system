@@ -271,6 +271,16 @@
             "teamB_bat2": "Shubman Gill",
             "teamB_bowl1": "Kagiso Rabada",
             "teamB_bowl2": "Rashid Khan"
+        },
+        "RCB_vs_SRH": {
+            "teamA_bat1": "Virat Kohli",
+            "teamA_bat2": "Rajat Patidar",
+            "teamA_bowl1": "Bhuvneshwar Kumar",
+            "teamA_bowl2": "Josh Hazlewood",
+            "teamB_bat1": "Heinrich Klaasen",
+            "teamB_bat2": "Abhishek Sharma",
+            "teamB_bowl1": "Eshan Malinga",
+            "teamB_bowl2": "Sakib Hussain"
         }
     },
     "_example": {
