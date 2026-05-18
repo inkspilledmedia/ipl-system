@@ -261,6 +261,16 @@
             "teamB_bat2": "George Linde",
             "teamB_bowl1": "Mohammad Shami",
             "teamB_bowl2": "Akash Singh"
+        },
+        "CSK_vs_GT": {
+            "teamA_bat1": "Sanju Samson",
+            "teamA_bat2": "Urvil Patel",
+            "teamA_bowl1": "Akeal Hosein",
+            "teamA_bowl2": "Anshul Kamboj",
+            "teamB_bat1": "Sai Sudharsan",
+            "teamB_bat2": "Shubman Gill",
+            "teamB_bowl1": "Kagiso Rabada",
+            "teamB_bowl2": "Rashid Khan"
         }
     },
     "_example": {
