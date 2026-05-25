@@ -311,6 +311,16 @@
             "teamB_bat2": "Shubman Gill",
             "teamB_bowl1": "Rashid Khan",
             "teamB_bowl2": "Kagiso Rabada"
+        },
+        "SRH_vs_RR": {
+            "teamA_bat1": "Heinrich Klaasen",
+            "teamA_bat2": "Abhishek Sharma",
+            "teamA_bowl1": "Eshan Malinga",
+            "teamA_bowl2": "Sakib Hussain",
+            "teamB_bat1": "Vaibhav Suryavanshi",
+            "teamB_bat2": "Yashasvi Jaiswal",
+            "teamB_bowl1": "Ravi Bishnoi",
+            "teamB_bowl2": "Jofra Archer"
         }
     },
     "_example": {
