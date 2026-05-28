@@ -114,13 +114,13 @@
         },
         "RR_vs_GT": {
             "teamA_bat1": "Vaibhav Suryavanshi",
-            "teamA_bat2": "Yashasvi Jaiswal",
-            "teamA_bowl1": "Ravi Bishnoi",
-            "teamA_bowl2": "Jofra Archer",
+            "teamA_bat2": "Dhruv Jurel",
+            "teamA_bowl1": "Jofra Archer",
+            "teamA_bowl2": "Ravi Bishnoi",
             "teamB_bat1": "Shubman Gill",
             "teamB_bat2": "Sai Sudharsan",
-            "teamB_bowl1": "Rashid Khan",
-            "teamB_bowl2": "Kagiso Rabada"
+            "teamB_bowl1": "Jason Holder",
+            "teamB_bowl2": "Rashid Khan"
         },
         "CSK_vs_LSG": {
             "teamA_bat1": "Sanju Samson",
