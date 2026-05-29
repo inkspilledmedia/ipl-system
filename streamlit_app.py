@@ -270,7 +270,7 @@ with tab2:
             m_team2 = st.selectbox("Team 2", TEAMS, index=3, key="m_t2",
                                     format_func=lambda x: f"{x} — {TEAM_FULL[x]}")
 
-        winner = st.selectbox("Winner", [m_team1, m_team2], key="m_winner")
+        winner = st.selectbox("Winner", [m_team1, m_team2, "No Result"], key="m_winner")
 
         default_idx = TEAM_HOME_INDEX.get(m_team1, 0)
         venue = st.selectbox("Stadium", STADIUMS, index=default_idx, key="m_venue")
