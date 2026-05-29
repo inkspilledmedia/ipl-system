@@ -140,8 +140,8 @@ class AddMatchApp:
         if t1 == t2:
             messagebox.showwarning("Same Team", "Team 1 and Team 2 cannot be the same.")
             return
-        if w not in (t1, t2):
-            messagebox.showwarning("Wrong Winner", f"Winner must be {t1} or {t2}.")
+        if w not in (t1, t2, "No Result"):
+            messagebox.showwarning("Wrong Winner", f"Winner must be {t1}, {t2}, or No Result.")
             return
 
         csv_path = BASE_DIR / "data" / "matches.csv"
