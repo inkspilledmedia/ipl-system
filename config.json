@@ -331,6 +331,16 @@
             "teamB_bat2": "Tim David",
             "teamB_bowl1": "Bhuvneshwar Kumar",
             "teamB_bowl2": "Josh Hazlewood"
+        },
+        "RCB_vs_RR": {
+            "teamA_bat1": "Virat Kohli",
+            "teamA_bat2": "Tim David",
+            "teamA_bowl1": "Bhuvneshwar Kumar",
+            "teamA_bowl2": "Josh Hazlewood",
+            "teamB_bat1": "Vaibhav Suryavanshi",
+            "teamB_bat2": "Dhruv Jurel",
+            "teamB_bowl1": "Jofra Archer",
+            "teamB_bowl2": "Ravi Bishnoi"
         }
     },
     "_example": {
