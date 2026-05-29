@@ -288,7 +288,8 @@ with tab2:
                     st.error(f"⚠️ This match already exists: {m_team1} vs {m_team2} on {match_date}. Entry blocked.")
                 else:
                     next_id = len(content.strip().split("\n"))
-                    new_row = f"\n{next_id},2026,{m_team1},{m_team2},{winner},{venue},{match_date}"
+                    venue_clean = venue.replace(",", "")
+                    new_row = f"\n{next_id},2026,{m_team1},{m_team2},{winner},{venue_clean},{match_date}"
                     new_content = content.rstrip() + new_row + "\n"
 
                     success, msg = _github_update_file(
