@@ -303,14 +303,14 @@
             "teamB_bowl2": "Jofra Archer"
         },
         "RCB_vs_GT": {
-            "teamA_bat1": "Tim David",
-            "teamA_bat2": "Virat Kohli",
+            "teamA_bat1": "Virat Kohli",
+            "teamA_bat2": "Tim David",
             "teamA_bowl1": "Bhuvneshwar Kumar",
             "teamA_bowl2": "Josh Hazlewood",
             "teamB_bat1": "Sai Sudharsan",
             "teamB_bat2": "Shubman Gill",
-            "teamB_bowl1": "Rashid Khan",
-            "teamB_bowl2": "Kagiso Rabada"
+            "teamB_bowl1": "Kagiso Rabada",
+            "teamB_bowl2": "Rashid Khan"
         },
         "SRH_vs_RR": {
             "teamA_bat1": "Heinrich Klaasen",
